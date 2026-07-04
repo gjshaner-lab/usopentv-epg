@@ -171,7 +171,24 @@ def main():
 
     for playlist_name in channel_names:
         normalized_playlist_name = normalize_name(playlist_name)
+        if len(normalized_playlist_name) < 3:
+            continue
+
         epg_channel_id = normalized_epg_lookup.get(normalized_playlist_name)
+
+        # Exact match failed -- try substring matching in both directions.
+        # This is intentionally a broad heuristic: e.g. "abc" (from an
+        # entry like "ABC (East)") matching within "kabcdtlosangeles"
+        # (from a local affiliate's display name), or vice versa for
+        # longer, more specific playlist names.
+        if epg_channel_id is None:
+            for candidate_normalized_name, candidate_id in normalized_epg_lookup.items():
+                if len(candidate_normalized_name) < 3:
+                    continue
+                if (normalized_playlist_name in candidate_normalized_name
+                        or candidate_normalized_name in normalized_playlist_name):
+                    epg_channel_id = candidate_id
+                    break
 
         if epg_channel_id is None:
             continue
