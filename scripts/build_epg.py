@@ -14,6 +14,7 @@ servers, not on the Roku device. The Roku app only ever needs to fetch the
 small output file this script produces.
 """
 
+import gzip
 import json
 import re
 import sys
@@ -23,30 +24,37 @@ from datetime import datetime, timezone
 
 PLAYLIST_URL = "https://iptv-org.github.io/iptv/countries/us.m3u"
 
-# Plain (non-gzipped) EPG source files. globetvapp splits US channels
-# across several numbered files; fetching all of them for the widest
-# possible match coverage.
+# EPGTalk pulls its channel database from the same iptv-org/database
+# project our playlist comes from, so its channel IDs have a real chance
+# of matching tvg-id directly -- unlike globetvapp's EPG source, which
+# uses unrelated call-sign-based IDs with essentially zero overlap.
 EPG_URLS = [
-    "https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa1.xml",
-    "https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa2.xml",
-    "https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa3.xml",
-    "https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa4.xml",
-    "https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa5.xml",
-    "https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa6.xml",
+    "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
 ]
 
 OUTPUT_PATH = "docs/now-playing.json"
 
-# Being a good citizen of the free data sources this script depends on.
 REQUEST_HEADERS = {
     "User-Agent": "USOpenTV-EPG-Builder/1.0 (personal, non-commercial Roku app)"
 }
 
 
-def fetch_text(url: str) -> str:
+def fetch_bytes(url: str) -> bytes:
     request = urllib.request.Request(url, headers=REQUEST_HEADERS)
-    with urllib.request.urlopen(request, timeout=60) as response:
-        return response.read().decode("utf-8", errors="replace")
+    with urllib.request.urlopen(request, timeout=120) as response:
+        return response.read()
+
+
+def fetch_text(url: str) -> str:
+    return fetch_bytes(url).decode("utf-8", errors="replace")
+
+
+def fetch_gzip_text(url: str) -> str:
+    """Fetches a .gz URL and decompresses it in Python -- sidesteps the
+    on-device decompression problems we hit trying to do this directly
+    on the Roku."""
+    compressed = fetch_bytes(url)
+    return gzip.decompress(compressed).decode("utf-8", errors="replace")
 
 
 def normalize_name(name: str) -> str:
@@ -57,15 +65,30 @@ def normalize_name(name: str) -> str:
     return name
 
 
-def parse_playlist_channel_names(m3u_text: str) -> list:
-    names = []
+def extract_attribute(line: str, attr_name: str) -> str:
+    marker = f'{attr_name}="'
+    start = line.find(marker)
+    if start == -1:
+        return ""
+    start += len(marker)
+    end = line.find('"', start)
+    if end == -1:
+        return ""
+    return line[start:end]
+
+
+def parse_playlist_channels(m3u_text: str) -> list:
+    """Returns a list of {"name": ..., "tvg_id": ...} dicts."""
+    channels = []
     for line in m3u_text.splitlines():
         line = line.strip()
         if line.startswith("#EXTINF:"):
             comma_pos = line.rfind(",")
-            if comma_pos != -1:
-                names.append(line[comma_pos + 1:].strip())
-    return names
+            name = line[comma_pos + 1:].strip() if comma_pos != -1 else ""
+            tvg_id = extract_attribute(line, "tvg-id")
+            if name:
+                channels.append({"name": name, "tvg_id": tvg_id})
+    return channels
 
 
 def parse_epg_file(xml_text: str) -> tuple:
@@ -139,9 +162,9 @@ def find_now_playing(programmes: list, now: datetime) -> dict:
 def main():
     print("Fetching channel playlist...")
     playlist_text = fetch_text(PLAYLIST_URL)
-    channel_names = parse_playlist_channel_names(playlist_text)
-    print(f"  Found {len(channel_names)} channels in playlist")
-    print(f"  Sample playlist names: {channel_names[:10]}")
+    playlist_channels = parse_playlist_channels(playlist_text)
+    print(f"  Found {len(playlist_channels)} channels in playlist")
+    print(f"  Sample playlist channels: {playlist_channels[:5]}")
 
     all_epg_channel_names = {}
     all_epg_programmes = {}
@@ -149,7 +172,10 @@ def main():
     for url in EPG_URLS:
         print(f"Fetching EPG file: {url}")
         try:
-            xml_text = fetch_text(url)
+            if url.endswith(".gz"):
+                xml_text = fetch_gzip_text(url)
+            else:
+                xml_text = fetch_text(url)
         except Exception as error:
             print(f"  WARNING: failed to fetch ({error}); skipping", file=sys.stderr)
             continue
@@ -159,44 +185,54 @@ def main():
         all_epg_programmes.update(programmes)
         print(f"  Parsed {len(names)} channels, {len(programmes)} channels with listings")
 
-    # Build a normalized-name -> epg channel id lookup for matching.
+    sample_ids = list(all_epg_channel_names.items())[:10]
+    print(f"  Sample EPG channel id -> display name: {sample_ids}")
+
+    # Build a normalized-name -> epg channel id lookup, used only as a
+    # fallback when a direct tvg-id match isn't found.
     normalized_epg_lookup = {}
     for channel_id, display_name in all_epg_channel_names.items():
         normalized_epg_lookup[normalize_name(display_name)] = channel_id
 
-    sample_epg_names = list(all_epg_channel_names.values())[:10]
-    print(f"  Sample EPG display names: {sample_epg_names}")
-    sample_normalized_epg = list(normalized_epg_lookup.keys())[:10]
-    print(f"  Sample normalized EPG names: {sample_normalized_epg}")
-    sample_normalized_playlist = [normalize_name(n) for n in channel_names[:10]]
-    print(f"  Sample normalized playlist names: {sample_normalized_playlist}")
+    # Exact-id lookup set, for fast direct matching against tvg-id.
+    epg_ids_lowercase = {cid.lower(): cid for cid in all_epg_channel_names.keys()}
 
     now = datetime.now(timezone.utc)
     print(f"Current time (UTC): {now.isoformat()}")
 
     output = {}
-    matched_count = 0
+    matched_by_id = 0
+    matched_by_name = 0
 
-    for playlist_name in channel_names:
+    for channel in playlist_channels:
+        playlist_name = channel["name"]
+        tvg_id = channel["tvg_id"]
         normalized_playlist_name = normalize_name(playlist_name)
-        if len(normalized_playlist_name) < 3:
-            continue
 
-        epg_channel_id = normalized_epg_lookup.get(normalized_playlist_name)
+        epg_channel_id = None
+        match_method = None
 
-        # Exact match failed -- try substring matching in both directions.
-        # This is intentionally a broad heuristic: e.g. "abc" (from an
-        # entry like "ABC (East)") matching within "kabcdtlosangeles"
-        # (from a local affiliate's display name), or vice versa for
-        # longer, more specific playlist names.
-        if epg_channel_id is None:
-            for candidate_normalized_name, candidate_id in normalized_epg_lookup.items():
-                if len(candidate_normalized_name) < 3:
-                    continue
-                if (normalized_playlist_name in candidate_normalized_name
-                        or candidate_normalized_name in normalized_playlist_name):
-                    epg_channel_id = candidate_id
-                    break
+        # Try 1: direct tvg-id match (case-insensitive) -- the correct,
+        # reliable approach when both sources share an ID scheme.
+        if tvg_id:
+            epg_channel_id = epg_ids_lowercase.get(tvg_id.lower())
+            if epg_channel_id is not None:
+                match_method = "id"
+
+        # Try 2: normalized display-name substring match, as a fallback.
+        if epg_channel_id is None and len(normalized_playlist_name) >= 3:
+            epg_channel_id = normalized_epg_lookup.get(normalized_playlist_name)
+            if epg_channel_id is not None:
+                match_method = "name-exact"
+            else:
+                for candidate_name, candidate_id in normalized_epg_lookup.items():
+                    if len(candidate_name) < 3:
+                        continue
+                    if (normalized_playlist_name in candidate_name
+                            or candidate_name in normalized_playlist_name):
+                        epg_channel_id = candidate_id
+                        match_method = "name-substring"
+                        break
 
         if epg_channel_id is None:
             continue
@@ -206,9 +242,14 @@ def main():
 
         if now_playing is not None:
             output[normalized_playlist_name] = now_playing
-            matched_count += 1
+            if match_method == "id":
+                matched_by_id += 1
+            else:
+                matched_by_name += 1
 
-    print(f"Matched now-playing data for {matched_count} / {len(channel_names)} channels")
+    total_matched = matched_by_id + matched_by_name
+    print(f"Matched now-playing data for {total_matched} / {len(playlist_channels)} channels "
+          f"({matched_by_id} by tvg-id, {matched_by_name} by name)")
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump({
