@@ -141,6 +141,7 @@ def main():
     playlist_text = fetch_text(PLAYLIST_URL)
     channel_names = parse_playlist_channel_names(playlist_text)
     print(f"  Found {len(channel_names)} channels in playlist")
+    print(f"  Sample playlist names: {channel_names[:10]}")
 
     all_epg_channel_names = {}
     all_epg_programmes = {}
@@ -162,6 +163,13 @@ def main():
     normalized_epg_lookup = {}
     for channel_id, display_name in all_epg_channel_names.items():
         normalized_epg_lookup[normalize_name(display_name)] = channel_id
+
+    sample_epg_names = list(all_epg_channel_names.values())[:10]
+    print(f"  Sample EPG display names: {sample_epg_names}")
+    sample_normalized_epg = list(normalized_epg_lookup.keys())[:10]
+    print(f"  Sample normalized EPG names: {sample_normalized_epg}")
+    sample_normalized_playlist = [normalize_name(n) for n in channel_names[:10]]
+    print(f"  Sample normalized playlist names: {sample_normalized_playlist}")
 
     now = datetime.now(timezone.utc)
     print(f"Current time (UTC): {now.isoformat()}")
