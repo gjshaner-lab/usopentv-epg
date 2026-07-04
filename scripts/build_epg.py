@@ -202,7 +202,21 @@ def main():
 
     output = {}
     matched_by_id = 0
-    matched_by_name = 0
+    matched_by_name_exact = 0
+    matched_by_name_substring = 0
+
+    # Minimum length for a normalized name to participate in substring
+    # matching at all. Short generic fragments like "bet" or "mtv" (3
+    # chars) were matching as accidental substrings of unrelated longer
+    # names (e.g. "bet" inside "betterhealthtv") -- raising this filters
+    # out most of that noise, at the cost of some legitimate short
+    # brand-name matches (fine: showing no data beats showing wrong data).
+    MIN_SUBSTRING_LENGTH = 6
+
+    # A substring match is only trusted if the shorter name is a
+    # reasonably large fraction of the longer one -- avoids a short name
+    # being trivially "contained in" an unrelated much-longer name.
+    MIN_LENGTH_RATIO = 0.6
 
     for channel in playlist_channels:
         playlist_name = channel["name"]
@@ -219,20 +233,29 @@ def main():
             if epg_channel_id is not None:
                 match_method = "id"
 
-        # Try 2: normalized display-name substring match, as a fallback.
+        # Try 2: normalized display-name exact match.
         if epg_channel_id is None and len(normalized_playlist_name) >= 3:
             epg_channel_id = normalized_epg_lookup.get(normalized_playlist_name)
             if epg_channel_id is not None:
                 match_method = "name-exact"
-            else:
-                for candidate_name, candidate_id in normalized_epg_lookup.items():
-                    if len(candidate_name) < 3:
-                        continue
-                    if (normalized_playlist_name in candidate_name
-                            or candidate_name in normalized_playlist_name):
-                        epg_channel_id = candidate_id
-                        match_method = "name-substring"
-                        break
+
+        # Try 3: substring match, with stricter guards against short
+        # generic fragments causing false positives.
+        if epg_channel_id is None and len(normalized_playlist_name) >= MIN_SUBSTRING_LENGTH:
+            for candidate_name, candidate_id in normalized_epg_lookup.items():
+                if len(candidate_name) < MIN_SUBSTRING_LENGTH:
+                    continue
+
+                shorter_len = min(len(normalized_playlist_name), len(candidate_name))
+                longer_len = max(len(normalized_playlist_name), len(candidate_name))
+                if shorter_len / longer_len < MIN_LENGTH_RATIO:
+                    continue
+
+                if (normalized_playlist_name in candidate_name
+                        or candidate_name in normalized_playlist_name):
+                    epg_channel_id = candidate_id
+                    match_method = "name-substring"
+                    break
 
         if epg_channel_id is None:
             continue
@@ -244,12 +267,15 @@ def main():
             output[normalized_playlist_name] = now_playing
             if match_method == "id":
                 matched_by_id += 1
+            elif match_method == "name-exact":
+                matched_by_name_exact += 1
             else:
-                matched_by_name += 1
+                matched_by_name_substring += 1
 
-    total_matched = matched_by_id + matched_by_name
+    total_matched = matched_by_id + matched_by_name_exact + matched_by_name_substring
     print(f"Matched now-playing data for {total_matched} / {len(playlist_channels)} channels "
-          f"({matched_by_id} by tvg-id, {matched_by_name} by name)")
+          f"({matched_by_id} by tvg-id, {matched_by_name_exact} by exact name, "
+          f"{matched_by_name_substring} by substring name)")
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump({
