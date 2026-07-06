@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1241 channels currently shown in the app
-(excluded: 53 non-English, 177 not responding)
+1213 channels currently shown in the app
+(excluded: 53 non-English, 39 manually, 166 not responding)
 ============================================================
 
 00s Replay
@@ -69,11 +69,7 @@ ABC News Live 7 (720p)
 ABC News Live 8 (720p)
 ABC News Live 9 (720p)
 ABC WWAY 3
-ABN Afghanistan (540p)
-ABN Africa (480p)
 ABN Bible Movies (720p)
-ABN China (720p)
-ABN TV India (540p)
 Acapulco Shore
 ACC Network (720p)
 ACCDN (1080p)
@@ -94,7 +90,6 @@ AccuWeather Network (720p)
 AccuWeather Now (1080p)
 ACTV
 Adrenalina Pura TV (720p)
-AfroLandTV (1080p)
 AFTV (1080p)
 Aghapy Kids (1080p)
 Akaku 53 (Hawaii) (1080p)
@@ -142,8 +137,6 @@ Are We There Yet? (1080p)
 Arkansas PBS [Geo-blocked]
 Artflix Movie Classics (720p)
 ARTN TV (1080p) [Not 24/7]
-Asian Culture TV (1080p)
-AsianCrush (1080p)
 Aspire (1080p)
 AssyriaSat (720p) [Not 24/7]
 At Home with Family Handyman (720p)
@@ -183,16 +176,6 @@ BEK TV Sports West (720p)
 Bellator MMA
 Berks Community TV (1080p)
 Best of Dr. Phil
-BET Cinema
-BET Classics
-BET Comedy Movies
-BET Gospel (576p)
-BET Her West (720p)
-BET Jams (576p)
-BET Pluto TV
-BET Throwbacks
-BET Visionaries
-BET West (720p)
 Better Health TV (480p)
 Better Life Nature Channel (480p)
 Better Life TV (720p)
@@ -211,6 +194,8 @@ Black Family Sitcoms
 Black Ink Crew
 Black News Channel (1080p)
 Blaze Live (720p)
+Bloomberg Originals (1080p)
+Bloomberg Originals (1080p)
 Bloomberg TV (1080p)
 Bloomberg TV US Live Event (720p)
 Bloomberg TV US Politics Live Event (720p)
@@ -388,10 +373,8 @@ Disney Junior (1080i)
 Disney Junior West (720p)
 Disney XD (720p)
 District of Columbia Network (DCN) (1080p)
-Dog el cazarrecompensas
 Dog the Bounty Hunter (1080p)
 Dog TV (720p)
-Don't Tell The Bride (1080p)
 Dove Channel (1080p)
 Dr Phil's MeritTV (1080p)
 Dr. Gene Scott (1080p)
@@ -399,19 +382,12 @@ DraftKings Network (1080p)
 Dry Bar Comedy (720p)
 Duck Hunting TV (1080p)
 Dynasty
-E! (1080p)
-E! Keeping Up (1080p)
-Ebony TV by Lionsgate (1080p)
-EBS Cinema (720p)
-EBS Musika (720p)
 El Reino Infantil
 Elbeshara GTV (1080p) [Not 24/7]
 Entertainment Tonight (1080p)
 Entrepreneur TV (720p)
 ESPNews (720p)
 ESPNU (720p)
-Estrella Games (1080p)
-Estrella News (1080p)
 EWTN (720p) [Geo-blocked]
 Extrema TV (720p)
 F1 Channel (1080p) [Geo-blocked]
@@ -488,7 +464,6 @@ GlobalWorldTV (720p)
 GMTV (1080p)
 Go USA TV (720p)
 God's Learning Channel (480p)
-Golazo Network (720p)
 Golden Community Television (GCO.tv) (Golden CO) (1080p)
 GoodLife 45 (720p) [Not 24/7]
 Gordon Ramsay (720p)
@@ -603,8 +578,6 @@ KUVN-DT1
 KVIE-DT2 (1080p)
 KVVB-TV 33 Victor Valley (1080p) [Not 24/7]
 KZTV-DT1 (720p)
-La Que Buena Atlanta
-La Voz de Jesus HD (720p)
 Lacrosse TV (720p)
 Laff (720p)
 Lakewood CityTV (720p)
@@ -638,6 +611,7 @@ Localish (1080p)
 Logo Pluto TV
 Logos TV (1080p) [Not 24/7]
 Logos TV (1080p) [Not 24/7]
+Logos TV English (1080p) [Not 24/7]
 Logos TV Kids (720p) [Not 24/7]
 Logos TV Salud (720p) [Not 24/7]
 Lompoc TAP TV Channel 23 (720p)
@@ -724,8 +698,6 @@ myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
 Naruto
 Naruto (1080p)
 Nash Bridges Channel (1080p) [Geo-blocked]
-Nashua ETV Channel 22 Nashua NH (720p)
-Nashua GTV Channel 16 Nashua NH (720p)
 NAT TV (1080p)
 Natick Education Channel (720p)
 Natick Government Channel (720p)
@@ -764,7 +736,16 @@ New Canaan Television 79 (NCTV79) (New Canaan CT) (1080p)
 NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
+News12 Bronx [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
+News12 Conneticut [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
+News12 New Jersey [Geo-blocked]
+News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 NewsNation (720p)
 NewsNet (720p) [Not 24/7]
@@ -904,13 +885,6 @@ Poudre School District TV (PSD TV) (Fort Collins CO) (720p)
 PowerNation (1080p)
 Pursuit Channel (720p)
 Pursuit UP (1080p)
-QVC (720p)
-QVC 2 (720p)
-QVC 3 (1080p)
-Radio Tele Puissance
-Radio Tele Sentinel
-RadioMensaje TV (720p)
-Rai World Premium (1080p)
 Rainbow Ruby (720p)
 Rally TV (1080p)
 Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)
@@ -1012,7 +986,6 @@ TBN (1080p)
 TBN Armenia
 TBN Inspire (1080p)
 TBN Pacific
-TBN Україна (720p)
 TED (1080p)
 Teen Mom
 TeenNick (720p)
@@ -1068,6 +1041,7 @@ TLN Media Chicago (720p)
 TLN Media San Francisco (720p)
 TMZ (1080p) [Geo-blocked]
 TODAY All Day (1080p)
+Tom And Jerry (720p)
 Toon Goggles Junior (720p)
 Toonami Aftermath East (480p)
 ToonGoggles (720p)
@@ -1122,7 +1096,6 @@ TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
 TVS Western Movie (270p)
-TVS Women Sports (720p)
 TVSConsumerDirect (720p)
 TyC Sports USA
 UCTV University of California (720p) [Not 24/7]
@@ -1162,7 +1135,6 @@ WBTV News (720p)
 WCBI (Columbus MI) (720p)
 WCBS-TV 2.1 (720p)
 WCCA 194 Worcester MA (WCCA-TV) (480p)
-WCOT 13 (Tallahassee FL) (720p)
 WDAF-TV 4.2 (576p)
 WDEF-TV News Chattanooga TN (720p)
 We TV (720p)
