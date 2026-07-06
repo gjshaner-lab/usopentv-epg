@@ -61,6 +61,31 @@ NON_ENGLISH_LANGUAGE_WORDS = [
 ACCENTED_CHARS = ["á", "é", "í", "ó", "ú", "ñ", "ü", "ã", "õ", "ç",
                   "à", "â", "ê", "î", "ô", "û", "ë", "ï"]
 
+# Manually curated exclusion list -- specific channels removed by
+# explicit request. Matched case-insensitively after stripping a
+# trailing resolution tag like "(1080p)". Keep in sync with the same
+# list in the Roku app's ChannelLoaderTask.brs.
+MANUALLY_EXCLUDED_NAMES = {
+    "abn afghanistan", "abn africa", "abn china", "abn tv india",
+    "acapulco shor", "afrolandtv", "asian culture tv", "asiancrush",
+    "bet cinema", "bet classics", "bet comedy movies", "bet gospel",
+    "bet her west", "bet jams", "bet pluto tv", "bet throwbacks",
+    "bet visionaries", "bet west", "don't tell the bride",
+    "dog el cazarrecompensas", "e!", "e! keeping up",
+    "ebony tv by lionsgate", "ebs cinema", "ebs musika",
+    "estrella games", "estrella news", "golazo network",
+    "la que buena atlanta", "la voz de jesus hd",
+    "nashua etv channel 22 nashua nh", "nashua gtv channel 16 nashua nh",
+    "qvc", "qvc 2", "qvc 3", "radio tele puissance",
+    "radio tele sentinel", "radiomensaje tv", "rai world premium",
+    "tbn україна",
+}
+
+
+def is_manually_excluded(name: str) -> bool:
+    clean_name = re.sub(r"\s*\([^)]*\)\s*$", "", name.strip())
+    return clean_name.lower() in MANUALLY_EXCLUDED_NAMES
+
 
 def fetch_text(url: str) -> str:
     request = urllib.request.Request(url, headers=REQUEST_HEADERS)
@@ -156,6 +181,7 @@ def main():
 
     kept_channels = []
     excluded_language = 0
+    excluded_manual = 0
     excluded_dead = 0
 
     for channel in all_channels:
@@ -164,6 +190,10 @@ def main():
 
         if not is_likely_english(name, tvg_id):
             excluded_language += 1
+            continue
+
+        if is_manually_excluded(name):
+            excluded_manual += 1
             continue
 
         key = normalize_name(name)
@@ -176,12 +206,14 @@ def main():
     kept_channels.sort(key=str.lower)
 
     print(f"Kept {len(kept_channels)} channels "
-          f"(excluded {excluded_language} non-English, {excluded_dead} not responding)")
+          f"(excluded {excluded_language} non-English, {excluded_manual} manually, "
+          f"{excluded_dead} not responding)")
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         f.write(f"US Open TV -- Channel List\n")
         f.write(f"{len(kept_channels)} channels currently shown in the app\n")
-        f.write(f"(excluded: {excluded_language} non-English, {excluded_dead} not responding)\n")
+        f.write(f"(excluded: {excluded_language} non-English, {excluded_manual} manually, "
+                f"{excluded_dead} not responding)\n")
         f.write("=" * 60 + "\n\n")
         for name in kept_channels:
             f.write(name + "\n")
