@@ -30,6 +30,7 @@ PLAYLIST_URL = "https://iptv-org.github.io/iptv/countries/us.m3u"
 # uses unrelated call-sign-based IDs with essentially zero overlap.
 EPG_URLS = [
     "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_local_guide.xml.gz",
 ]
 
 OUTPUT_PATH = "docs/now-playing.json"
