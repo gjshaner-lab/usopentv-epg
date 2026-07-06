@@ -31,6 +31,10 @@ PLAYLIST_URL = "https://iptv-org.github.io/iptv/countries/us.m3u"
 EPG_URLS = [
     "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
     "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_local_guide.xml.gz",
+    # epgshare01 is documented to sometimes block HTTPS while allowing
+    # HTTP for the same file -- using plain HTTP here per their own
+    # troubleshooting notes, since an earlier attempt over HTTPS failed.
+    "http://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
 ]
 
 OUTPUT_PATH = "docs/now-playing.json"
