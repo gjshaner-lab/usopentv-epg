@@ -204,6 +204,7 @@ def main():
     matched_by_id = 0
     matched_by_name_exact = 0
     matched_by_name_substring = 0
+    used_epg_channel_ids = []
 
     # Minimum length for a normalized name to participate in substring
     # matching at all. Short generic fragments like "bet" or "mtv" (3
@@ -265,6 +266,7 @@ def main():
 
         if now_playing is not None:
             output[normalized_playlist_name] = now_playing
+            used_epg_channel_ids.append(epg_channel_id)
             if match_method == "id":
                 matched_by_id += 1
             elif match_method == "name-exact":
@@ -273,9 +275,12 @@ def main():
                 matched_by_name_substring += 1
 
     total_matched = matched_by_id + matched_by_name_exact + matched_by_name_substring
+    distinct_epg_channels_used = len(set(used_epg_channel_ids))
     print(f"Matched now-playing data for {total_matched} / {len(playlist_channels)} channels "
           f"({matched_by_id} by tvg-id, {matched_by_name_exact} by exact name, "
           f"{matched_by_name_substring} by substring name)")
+    print(f"Distinct EPG channels actually referenced: {distinct_epg_channels_used} / "
+          f"{len(all_epg_channel_names)} available")
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump({
