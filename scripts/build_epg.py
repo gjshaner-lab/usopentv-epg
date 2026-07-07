@@ -219,13 +219,25 @@ def main():
     print(f"  Sample EPG channel id -> display name: {sample_ids}")
 
     # Build a normalized-name -> epg channel id lookup, used only as a
-    # fallback when a direct tvg-id match isn't found.
+    # fallback when a direct tvg-id match isn't found. Deliberately skips
+    # any EPG channel with zero actual program listings -- otherwise, a
+    # channel from one source with no data (e.g. blocked/rate-limited)
+    # can silently overwrite a same-named channel from another source
+    # that DOES have good data, since dict updates always keep the most
+    # recently added entry for a given key.
     normalized_epg_lookup = {}
     for channel_id, display_name in all_epg_channel_names.items():
+        if not all_epg_programmes.get(channel_id):
+            continue
         normalized_epg_lookup[normalize_name(display_name)] = channel_id
 
-    # Exact-id lookup set, for fast direct matching against tvg-id.
-    epg_ids_lowercase = {cid.lower(): cid for cid in all_epg_channel_names.keys()}
+    # Exact-id lookup set, for fast direct matching against tvg-id. Same
+    # "skip channels with no listings" guard as above.
+    epg_ids_lowercase = {
+        cid.lower(): cid
+        for cid in all_epg_channel_names.keys()
+        if all_epg_programmes.get(cid)
+    }
 
     now = datetime.now(timezone.utc)
     print(f"Current time (UTC): {now.isoformat()}")
