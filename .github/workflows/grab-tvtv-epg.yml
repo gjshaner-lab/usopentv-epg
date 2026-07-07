@@ -1,0 +1,85 @@
+name: Grab tvtv.us EPG data
+
+"on":
+  schedule:
+    # Once daily. Running the live scraper more often than this risks
+    # rate-limiting/being blocked by tvtv.us, and community reports show
+    # this ecosystem is more fragile than a simple static file fetch --
+    # a conservative schedule is the safer choice here.
+    - cron: "30 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  grab-tvtv-epg:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Clone iptv-org/epg
+        run: git clone --depth 1 -b master https://github.com/iptv-org/epg.git epg-tool
+
+      - name: Install iptv-org/epg dependencies
+        working-directory: epg-tool
+        run: npm install
+
+      - name: Grab tvtv.us guide (1 day, conservative connection limit)
+        working-directory: epg-tool
+        run: |
+          npm run grab -- --site=tvtv.us --days=1 --maxConnections=5 --timeout=8000 --output=../tvtv-guide.xml
+        continue-on-error: true
+
+      - name: Check whether the grab actually produced a file
+        run: |
+          if [ -f tvtv-guide.xml ]; then
+            echo "tvtv-guide.xml was created ($(wc -l < tvtv-guide.xml) lines)"
+          else
+            echo "tvtv-guide.xml was NOT created -- the grab step likely failed entirely"
+          fi
+
+      - name: Merge into now-playing.json
+        run: python scripts/build_epg.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/now-playing.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update now-playing data (incl. tvtv.us grab)"
+            git push
+          fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
