@@ -32,6 +32,11 @@ PLAYLIST_URL = "https://iptv-org.github.io/iptv/countries/us.m3u"
 EPG_URLS = [
     "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
     "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_local_guide.xml.gz",
+    # Pluto TV's own real schedule data (not a third-party guess) -- for
+    # channels that are genuinely Pluto-branded FAST channels (e.g.
+    # "Classic Movie Westerns"), this is the actual source of truth,
+    # via a well-established, widely-used community mirror.
+    "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml.gz",
 ]
 
 # Files already downloaded to disk by a separate step before this script
