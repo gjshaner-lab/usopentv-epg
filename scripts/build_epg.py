@@ -16,6 +16,7 @@ small output file this script produces.
 
 import gzip
 import json
+import os
 import re
 import sys
 import urllib.request
@@ -31,10 +32,16 @@ PLAYLIST_URL = "https://iptv-org.github.io/iptv/countries/us.m3u"
 EPG_URLS = [
     "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
     "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_local_guide.xml.gz",
-    # epgshare01 is documented to sometimes block HTTPS while allowing
-    # HTTP for the same file -- using plain HTTP here per their own
-    # troubleshooting notes, since an earlier attempt over HTTPS failed.
-    "http://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
+]
+
+# Files already downloaded to disk by a separate step before this script
+# runs -- specifically, the iptv-org/epg Node.js grabber run against
+# tvtv.us in .github/workflows/grab-tvtv-epg.yml. Optional: skipped
+# silently if the file isn't present, so this script still works fine
+# when run standalone (e.g. via update-epg.yml, which doesn't produce
+# this file).
+LOCAL_EPG_FILES = [
+    "tvtv-guide.xml",
 ]
 
 OUTPUT_PATH = "docs/now-playing.json"
@@ -183,6 +190,24 @@ def main():
                 xml_text = fetch_text(url)
         except Exception as error:
             print(f"  WARNING: failed to fetch ({error}); skipping", file=sys.stderr)
+            continue
+
+        names, programmes = parse_epg_file(xml_text)
+        all_epg_channel_names.update(names)
+        all_epg_programmes.update(programmes)
+        print(f"  Parsed {len(names)} channels, {len(programmes)} channels with listings")
+
+    for path in LOCAL_EPG_FILES:
+        if not os.path.exists(path):
+            print(f"  (local file {path} not present -- skipping)")
+            continue
+
+        print(f"Reading local EPG file: {path}")
+        try:
+            with open(path, "r", encoding="utf-8", errors="replace") as f:
+                xml_text = f.read()
+        except Exception as error:
+            print(f"  WARNING: failed to read {path} ({error}); skipping", file=sys.stderr)
             continue
 
         names, programmes = parse_epg_file(xml_text)
