@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1162 channels currently shown in the app
-(excluded: 55 non-English, 114 manually, 157 not responding)
+1160 channels currently shown in the app
+(excluded: 55 non-English, 114 manually, 159 not responding)
 ============================================================
 
 00s Replay
@@ -190,6 +190,8 @@ Black Family Sitcoms
 Black Ink Crew
 Black News Channel (1080p)
 Blaze Live (720p)
+Bloomberg Originals (1080p)
+Bloomberg Originals (1080p)
 Bloomberg TV (1080p)
 Bloomberg TV US Live Event (720p)
 Bloomberg TV US Politics Live Event (720p)
@@ -715,14 +717,10 @@ News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
 News12 Long Island (1080p) [Geo-blocked]
-News12 New Jersey [Geo-blocked]
 News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
 News12+ Long Island (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 NewsNation (720p)
@@ -997,6 +995,7 @@ Timeless TV
 Tin TV (720p)
 TMZ (1080p) [Geo-blocked]
 TODAY All Day (1080p)
+Tom And Jerry (720p)
 Toon Goggles Junior (720p)
 Toonami Aftermath East (480p)
 ToonGoggles (720p)
@@ -1045,7 +1044,6 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
-TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
