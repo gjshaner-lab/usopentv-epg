@@ -49,7 +49,7 @@ jobs:
       - name: Grab tvtv.us guide (1 day, conservative connection limit)
         working-directory: epg-tool
         run: |
-          npm run grab -- --site=tvtv.us --days=1 --maxConnections=5 --timeout=8000 --output=../tvtv-guide.xml
+          npm run grab -- --sites=tvtv.us --days=1 --maxConnections=5 --timeout=8000 --output=../tvtv-guide.xml
         continue-on-error: true
 
       - name: Check whether the grab actually produced a file
