@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1195 channels currently shown in the app
-(excluded: 64 non-English, 115 manually, 159 not responding)
+1191 channels currently shown in the app
+(excluded: 64 non-English, 115 manually, 163 not responding)
 ============================================================
 
 00s Replay
@@ -125,7 +125,6 @@ America's Voice News (720p)
 American Horrors (480p)
 America’s Funniest Home Videos (1080p)
 Ameritrade (1080p) [Not 24/7]
-Amga TV (720p) [Not 24/7]
 Amu TV
 Anger Management Channel (1080p)
 Animation+ (1080p) [Geo-blocked]
@@ -192,6 +191,8 @@ Black Family Sitcoms
 Black Ink Crew
 Black News Channel (1080p)
 Blaze Live (720p)
+Bloomberg Originals (1080p)
+Bloomberg Originals (1080p)
 Bloomberg TV (1080p)
 Bloomberg TV US Live Event (720p)
 Bloomberg TV US Politics Live Event (720p)
@@ -230,7 +231,6 @@ CAN TV19 (1080p)
 CAN TV21 (1080p)
 CAN TV27 (1080p)
 Car Chase (720p)
-Carlsbad City TV Channel (Carlsbad CA) (720p)
 Catchy Comedy (720p)
 Catholic TV (1080p)
 CBN Family (1080p)
@@ -378,7 +378,6 @@ Dynasty
 Elbeshara GTV (1080p) [Not 24/7]
 Entertainment Tonight (1080p)
 Entrepreneur TV (720p)
-Escambia County TV ECTV (Escambia County FL) (720p)
 ESPN Deportes (720p)
 ESPNews (720p)
 ESPNU (720p)
@@ -529,7 +528,6 @@ Iron Chef
 It Is Written TV (1080p)
 It's Supernatural! Network (ISN Network) (1080p)
 Jacksonville Onslow Government Television (G10TV) (Jacksonville NC) (1080p)
-JBS (404p) [Not 24/7]
 Jersey Shore
 Jewelry Television (720p)
 Jewelry TV 2 (720p)
@@ -586,6 +584,7 @@ Lakewood CityTV (720p)
 LATV (1080p) [Geo-blocked]
 Law & Crime (720p)
 Leesburg Lakefront TV (Leesburg FL) (720p)
+LEGO Kids TV
 Leominster TV Educational (720p)
 Leominster TV Government (720p)
 Leominster TV Public (720p) [Not 24/7]
@@ -593,7 +592,6 @@ Lex TV (720p)
 LHCAZTV
 Life! Christian Broadcasting Network (360p)
 LIFE! End Times TV (360p)
-Lifetime (720p)
 Lifetime Movies (1080p)
 Lifetime Real Women (576p)
 LifevisionTV (406p) [Not 24/7]
@@ -676,6 +674,7 @@ MRVTV Channel 44 (720p)
 MRVTV Channel 45 (720p)
 MS NOW (720p)
 MSG (720p)
+MSG 2 (720p)
 MSG Plus (720p)
 MST3K (1080p)
 MTV (720p)
@@ -737,13 +736,9 @@ NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
 News12 New Jersey [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
+News12 Westchester [Geo-blocked]
 News12+ New Jersey (1080p) [Geo-blocked]
-News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 NewsNation (720p)
@@ -803,6 +798,7 @@ PBS KET Louisville KY (WKMJ-TV) (720p)
 PBS KET World (480p)
 PBS KET2 (720p)
 PBS Kids (720p)
+PBS Kids 24/7 (1080p)
 PBS Kids Alaska (1080p)
 PBS Kids Eastern/Central (720p)
 PBS Kids Hawaii (720p)
