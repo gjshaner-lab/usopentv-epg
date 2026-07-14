@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1187 channels currently shown in the app
-(excluded: 65 non-English, 114 manually, 197 not responding)
+1180 channels currently shown in the app
+(excluded: 65 non-English, 114 manually, 204 not responding)
 ============================================================
 
 00s Replay
@@ -84,17 +84,14 @@ Access Media Productions Community Channel (720p)
 Access Media Productions Marina TV (720p)
 Access Media Productions Monterey Channel (720p)
 Access Media Productions Peninsula Channel (720p)
-Access Nashua (720p)
 Access Sacramento Channel 17
 Access Tuolumne (Tuolumne County CA) (720p)
 AccessVision Channel 16 (720p)
-AccessVision Channel 17 (720p)
 AccuWeather Network (1080p)
 AccuWeather Now (1080p)
 Ace TV (480p)
 ACTV
 Adrenalina Pura TV (720p)
-AFTV (1080p)
 Akaku 53 (Hawaii) (1080p)
 Akaku 54 (Hawaii) (1080p)
 Akaku 55 (Hawaii) (1080p)
@@ -115,7 +112,6 @@ All Reality WE tv (720p)
 All Weddings We TV (720p) [Geo-blocked]
 ALLBLK Gems (720p)
 Almagd TV Middle East (1080p) [Not 24/7]
-Altitude Sports (720p)
 Always Funny Videos (720p)
 Amazing Facts TV (1080p)
 AMC (720p)
@@ -129,7 +125,6 @@ America's Voice News (720p)
 American Horrors (480p)
 America’s Funniest Home Videos (1080p)
 Ameritrade (1080p) [Not 24/7]
-Amga TV (720p) [Not 24/7]
 Amu TV
 Anger Management Channel (1080p)
 Animation+ (1080p) [Geo-blocked]
@@ -177,7 +172,6 @@ beIN SPORTS XTRA (1080p)
 BEK TV News (720p)
 BEK TV Sports West (720p)
 Bellator MMA
-Berks Community TV (1080p)
 Best of Dr. Phil
 BET (720p)
 BET Her (720p)
@@ -199,8 +193,6 @@ Black Family Sitcoms
 Black Ink Crew
 Black News Channel (1080p)
 Blaze Live (720p)
-Bloomberg Originals (1080p)
-Bloomberg Originals (1080p)
 Bloomberg TV US Live Event (720p)
 Bloomberg TV US Politics Live Event (720p)
 Bloomfield Access Government TV (480p)
@@ -221,6 +213,7 @@ Bravo West (1080p)
 Brevard County Government Access TV (Brevard FL) (720p)
 BritBox Mysteries (1080p)
 Buena Park Television (360p)
+Burbank Channel (720p)
 Business Rockstars (720p)
 BUTV10 (Boston University) (1080p) [Not 24/7]
 BX Arts (720p)
@@ -291,6 +284,7 @@ CheddarU (720p)
 Cheers + Frasier
 Chef Champion (720p) [Not 24/7]
 Chef Roc Show (720p) [Not 24/7]
+Chino Hills City TV Channel 3/41 (360p)
 Choppertown (720p)
 Christian Youth Channel (CYC) (1080p)
 Cine Mexicano (1080p)
@@ -348,6 +342,7 @@ CVTV Channel 192 (1080p)
 CVTV Channel 194 (1080p)
 CW (720p)
 Cypress Public Access Channel 36 (Cypress CA) (360p)
+Dabl (720p)
 DangerTV (720p)
 Dark Matter TV (720p)
 Dating Disasters
@@ -385,7 +380,6 @@ El Sembrador Nueva Evangelizacion ESNE
 Elbeshara GTV (1080p) [Not 24/7]
 Entertainment Tonight (1080p)
 EntrepreneurTV (720p)
-Escambia County TV ECTV (Escambia County FL) (720p)
 ESPN Deportes (720p)
 ESPNews (720p)
 EWTN (720p) [Geo-blocked]
@@ -424,6 +418,7 @@ Fox 25 Boston (WFXT-TV) (1080p) [Geo-blocked]
 FOX 25 Oklahoma City OK (KOKH) (1080p)
 FOX 26 Visalia CA (KMPH) (1080p)
 FOX 45 Baltimore MD (WBFF) (1080p)
+Fox Business Network (720p)
 Fox News Channel (720p)
 Fox News Radio (720p)
 Fox Soccer Plus (720p)
@@ -532,7 +527,6 @@ Iron Chef
 It Is Written TV (1080p)
 It's Supernatural! Network (ISN Network) (1080p)
 Jacksonville Onslow Government Television (G10TV) (Jacksonville NC) (1080p)
-JBS (404p) [Not 24/7]
 Jersey Shore
 Jewelry Television (720p)
 Jewelry TV 2 (720p)
@@ -597,6 +591,7 @@ LHCAZTV
 Life! Christian Broadcasting Network (360p)
 LIFE! End Times TV (360p)
 Lifetime (720p)
+Lifetime Real Women (576p)
 LifevisionTV (406p) [Not 24/7]
 Lighting Lives Blessing Nations His Light (LLBN) (720p)
 Lighting Lives Blessing Nations His Word (LLBN) (720p)
@@ -610,11 +605,7 @@ LiveNOW from FOX (1080p) [Geo-blocked]
 LiveXLive (1080p)
 Localish (1080p)
 Logo Pluto TV
-Logos TV (1080p) [Not 24/7]
-Logos TV (1080p) [Not 24/7]
 Logos TV English (1080p) [Not 24/7]
-Logos TV Kids (720p) [Not 24/7]
-Logos TV Salud (720p) [Not 24/7]
 Lompoc TAP TV Channel 23 (720p)
 Lompoc TAP TV Channel 24 (720p)
 Lompoc TAP TV Channel 25 (720p)
@@ -668,7 +659,6 @@ Monroe Community Media Education Channel
 Monroe Community Media Public Access Channel
 Monroe County Television MCTV (Monroe County FL) (1080p)
 Montgomery Channel
-Moorpark Government Channel (360p)
 More True Crime
 More TV Drama
 More TV Sitcoms
@@ -717,6 +707,7 @@ NBC 4 San Antonio TX (WOAI) (1080p)
 NBC 6 Johnstown PA (WJAC) (1080p)
 NBC 6 Santa Barbara CA (KSBY) (720p)
 NBC 8 Lancaster PA (WGAL) (720p)
+NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
 NBC 8 Salinas CA (KSBW) (720p)
 NBC 9 Steubenville OH (WTOV) (1080p)
 NBC Comedy Vault (1080p)
@@ -737,7 +728,8 @@ NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Brooklyn [Geo-blocked]
-News12+ New York (1080p) [Geo-blocked]
+News12 Westchester [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 NewsNation (720p)
@@ -1028,6 +1020,7 @@ True Crime Network+ (1080p) [Geo-blocked]
 True Crime Now (1080p)
 TSTV (720p)
 TUTV (1080p)
+TV Daja (1080p) [Not 24/7]
 TV Hispanic [Not 24/7]
 TV Land (720p)
 TV Land Drama
