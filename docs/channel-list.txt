@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1192 channels currently shown in the app
-(excluded: 65 non-English, 114 manually, 196 not responding)
+1199 channels currently shown in the app
+(excluded: 65 non-English, 114 manually, 189 not responding)
 ============================================================
 
 00s Replay
@@ -199,6 +199,8 @@ Black Family Sitcoms
 Black Ink Crew
 Black News Channel (1080p)
 Blaze Live (720p)
+Bloomberg Originals (1080p)
+Bloomberg Originals (1080p)
 Bloomberg TV US Live Event (720p)
 Bloomberg TV US Politics Live Event (720p)
 Bloomfield Access Government TV (480p)
@@ -234,10 +236,8 @@ Calabasas Channel (480p)
 California Music Channel (1080p)
 Camera Smile (480p)
 Camp Spoopy (576p)
-CAN TV19 (1080p)
-CAN TV21 (1080p)
-CAN TV27 (1080p)
 Car Chase (720p)
+Carlsbad City TV Channel (Carlsbad CA) (720p)
 Catchy Comedy (720p)
 Catholic TV (1080p)
 CBN Family (1080p)
@@ -491,7 +491,6 @@ HappyKids (1080p)
 Harvest USA (576p)
 Hasbro Legends (1080p) [Geo-blocked]
 Haunt TV (1080p)
-HCTV Educational Access Channel
 HCTV Government Channel
 HCTV Public Access Channel
 Heartland
@@ -683,6 +682,7 @@ MSG Plus (720p)
 MST3K (1080p)
 MTV (720p)
 MTV Biggest Pop (1080p)
+MTV Classic (720p)
 MTV Live (1080p)
 MTV Pluto TV
 MTV Spankin' New (1080p)
@@ -695,6 +695,9 @@ Naruto
 Naruto (1080p)
 Nash Bridges Channel (1080p) [Geo-blocked]
 NAT TV (1080p)
+Natick Education Channel (720p)
+Natick Government Channel (720p)
+Natick Public Access Channel (720p)
 National Geographic (720p)
 National Geographic HD East (720p)
 National Geographic West (720p)
@@ -716,7 +719,6 @@ NBC 4 San Antonio TX (WOAI) (1080p)
 NBC 6 Johnstown PA (WJAC) (1080p)
 NBC 6 Santa Barbara CA (KSBY) (720p)
 NBC 8 Lancaster PA (WGAL) (720p)
-NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
 NBC 8 Salinas CA (KSBW) (720p)
 NBC 9 Steubenville OH (WTOV) (1080p)
 NBC Comedy Vault (1080p)
@@ -738,8 +740,12 @@ NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
+News12 Conneticut [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
 News12 New Jersey [Geo-blocked]
 News12 Westchester [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
 News12+ New Jersey (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
@@ -934,6 +940,7 @@ Spike Pluto TV
 Spirit TV (720p) [Not 24/7]
 Sportsman Channel (720p)
 SportsNet New York (1080p)
+St Lucie Public Schools
 St. Pete TV (SPTV) (St Petersburg FL) (360p)
 Stadium (720p)
 STAR International (720p)
