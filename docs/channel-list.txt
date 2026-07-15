@@ -1,5 +1,5 @@
 US Open TV -- Channel List
-1193 channels currently shown in the app
+1197 channels currently shown in the app
 (excluded: 65 non-English, 114 manually, 191 not responding)
 ============================================================
 
@@ -345,6 +345,7 @@ CSI: NY
 CT-N Court Feed (360p) [Not 24/7]
 CT-N Live Stream 2 (360p) [Not 24/7]
 CT-N TV Conneticut (720p) [Not 24/7]
+CTN (720p)
 Curiosity Now (1080p)
 CVTV Channel 192 (1080p)
 CVTV Channel 194 (1080p)
@@ -533,9 +534,7 @@ ION (1080p) [Geo-blocked]
 ION Plus (1080p)
 Iron Chef
 It Is Written TV (1080p)
-It's Supernatural! Network (ISN Network) (1080p)
 Jacksonville Onslow Government Television (G10TV) (Jacksonville NC) (1080p)
-JBS (404p) [Not 24/7]
 Jersey Shore
 Jewelry Television (720p)
 Jewelry TV 2 (720p)
@@ -601,7 +600,6 @@ LHCAZTV
 Life! Christian Broadcasting Network (360p)
 LIFE! End Times TV (360p)
 Lifetime (720p)
-Lifetime Real Women (576p)
 LifevisionTV (406p) [Not 24/7]
 Lighting Lives Blessing Nations His Light (LLBN) (720p)
 Lighting Lives Blessing Nations His Word (LLBN) (720p)
@@ -650,6 +648,7 @@ MeTV (720p)
 MeTV Toons (720p)
 MeTV+ (720p)
 MGM+ (1080p)
+MGM+ Drive-In (720p)
 MGM+ Hits (720p)
 Miami Beach Tv (MBTV) (Miami Beach FL) (720p)
 Midnight Pulp (1080p)
@@ -739,9 +738,13 @@ News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
 News12 New Jersey [Geo-blocked]
+News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
 News12+ New Jersey (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 NewsNation (720p)
@@ -931,7 +934,6 @@ Smithsonian Channel (1080p)
 Smithsonian Channel Selects
 Sonic TV (720p)
 Sound View Community Media Education (480p)
-SPEEDVISION (1080p)
 Spike Outdoors
 Spike Pluto TV
 Spirit TV (720p) [Not 24/7]
@@ -958,6 +960,7 @@ Supernatural Drama
 Survivor (1080p)
 Swamiji TV American (1080p) [Not 24/7]
 Swerve Combat (1080p)
+SYFY (1080p)
 Talkin Live Classics TV (480p)
 Tampa Bay Communnity Network TBCN (Tampa Bay FL) (480p)
 Tastemade (1080p)
@@ -966,6 +969,7 @@ TBN (1080p)
 TBN Armenia
 TBN Inspire (1080p)
 TBN Pacific
+TCT (1080p)
 TED (1080p)
 Teen Mom
 TeenNick (720p)
@@ -973,7 +977,6 @@ TeleHit Estados Unidos (720p)
 Telehit Musica Estados Unidos (720p)
 Temecula TV (Temecula CA) (1080p)
 Tempe Channel 11
-Tempo Afric TV (720p)
 Tennis Channel (1080p)
 TennisChannel 2 (720p)
 Terra Mater WILD English (1080p)
@@ -1077,6 +1080,7 @@ TVSConsumerDirect (720p)
 UCTV University of California (720p) [Not 24/7]
 Unidentified (1080p)
 Universal Comedy (1080p)
+Universal Crime (1080p)
 Unsolved Mysteries (720p)
 Up TV (1080p)
 USA Network (1080p)
