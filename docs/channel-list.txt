@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1197 channels currently shown in the app
-(excluded: 65 non-English, 114 manually, 191 not responding)
+1192 channels currently shown in the app
+(excluded: 65 non-English, 114 manually, 196 not responding)
 ============================================================
 
 00s Replay
@@ -199,8 +199,6 @@ Black Family Sitcoms
 Black Ink Crew
 Black News Channel (1080p)
 Blaze Live (720p)
-Bloomberg Originals (1080p)
-Bloomberg Originals (1080p)
 Bloomberg TV US Live Event (720p)
 Bloomberg TV US Politics Live Event (720p)
 Bloomfield Access Government TV (480p)
@@ -535,6 +533,7 @@ ION Plus (1080p)
 Iron Chef
 It Is Written TV (1080p)
 Jacksonville Onslow Government Television (G10TV) (Jacksonville NC) (1080p)
+JBS (404p) [Not 24/7]
 Jersey Shore
 Jewelry Television (720p)
 Jewelry TV 2 (720p)
@@ -600,6 +599,7 @@ LHCAZTV
 Life! Christian Broadcasting Network (360p)
 LIFE! End Times TV (360p)
 Lifetime (720p)
+Lifetime Real Women (576p)
 LifevisionTV (406p) [Not 24/7]
 Lighting Lives Blessing Nations His Light (LLBN) (720p)
 Lighting Lives Blessing Nations His Word (LLBN) (720p)
@@ -614,6 +614,7 @@ LiveXLive (1080p)
 Localish (1080p)
 Logo Pluto TV
 Logos TV English (1080p) [Not 24/7]
+Logos TV Kids (720p) [Not 24/7]
 Lompoc TAP TV Channel 23 (720p)
 Lompoc TAP TV Channel 24 (720p)
 Lompoc TAP TV Channel 25 (720p)
@@ -682,7 +683,6 @@ MSG Plus (720p)
 MST3K (1080p)
 MTV (720p)
 MTV Biggest Pop (1080p)
-MTV Classic (720p)
 MTV Live (1080p)
 MTV Pluto TV
 MTV Spankin' New (1080p)
@@ -716,6 +716,7 @@ NBC 4 San Antonio TX (WOAI) (1080p)
 NBC 6 Johnstown PA (WJAC) (1080p)
 NBC 6 Santa Barbara CA (KSBY) (720p)
 NBC 8 Lancaster PA (WGAL) (720p)
+NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
 NBC 8 Salinas CA (KSBW) (720p)
 NBC 9 Steubenville OH (WTOV) (1080p)
 NBC Comedy Vault (1080p)
@@ -737,12 +738,8 @@ NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
 News12 New Jersey [Geo-blocked]
 News12 Westchester [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
 News12+ New Jersey (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
@@ -773,7 +770,6 @@ Olelo Community Media Channel 49 (720p)
 Olelo Community Media Channel 53 (720p)
 Olelo Community Media Channel 54 (720p)
 Olelo Community Media Channel 55 (720p)
-One America News Network (1080p)
 One Piece
 Ontario Public Access Channel (360p)
 OnTV4U (1080p) [Geo-blocked]
@@ -805,7 +801,6 @@ PBS KET Louisville KY (WKMJ-TV) (720p)
 PBS KET World (480p)
 PBS KET2 (720p)
 PBS Kids (720p)
-PBS Kids 24/7 (1080p)
 PBS Kids Alaska (1080p)
 PBS Kids Eastern/Central (720p)
 PBS Kids Hawaii (720p)
@@ -939,7 +934,6 @@ Spike Pluto TV
 Spirit TV (720p) [Not 24/7]
 Sportsman Channel (720p)
 SportsNet New York (1080p)
-St Lucie Public Schools
 St. Pete TV (SPTV) (St Petersburg FL) (360p)
 Stadium (720p)
 STAR International (720p)
@@ -977,6 +971,7 @@ TeleHit Estados Unidos (720p)
 Telehit Musica Estados Unidos (720p)
 Temecula TV (Temecula CA) (1080p)
 Tempe Channel 11
+Tempo Afric TV (720p)
 Tennis Channel (1080p)
 TennisChannel 2 (720p)
 Terra Mater WILD English (1080p)
