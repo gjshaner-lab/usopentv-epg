@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1247 channels currently shown in the app
-(excluded: 66 non-English, 114 manually, 138 not responding)
+1241 channels currently shown in the app
+(excluded: 66 non-English, 114 manually, 144 not responding)
 ============================================================
 
 00s Replay
@@ -126,7 +126,6 @@ America's Next Top Model
 America's Test Kitchen (1080p) [Geo-blocked]
 America's Voice (720p)
 America's Voice News (720p)
-American Horrors (480p)
 America’s Funniest Home Videos (1080p)
 Ameritrade (1080p) [Not 24/7]
 Amga TV (720p) [Not 24/7]
@@ -412,6 +411,7 @@ F1 Channel (1080p) [Geo-blocked]
 Failarmy International (720p)
 Fairfield Government Access Channel 26 (Fairfield CA) (720p) [Geo-blocked]
 Family Ties
+FanDuel Racing (720p)
 FanDuel TV (720p)
 Farscape
 Fashion Finds (720p)
@@ -708,6 +708,7 @@ MRVTV Channel 44 (720p)
 MRVTV Channel 45 (720p)
 MS NOW (720p)
 MSG (720p)
+MSG 2 (720p)
 MSG Plus (720p)
 MST3K (1080p)
 MTV (720p)
@@ -749,7 +750,6 @@ NBC 4 San Antonio TX (WOAI) (1080p)
 NBC 6 Johnstown PA (WJAC) (1080p)
 NBC 6 Santa Barbara CA (KSBY) (720p)
 NBC 8 Lancaster PA (WGAL) (720p)
-NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
 NBC 8 Salinas CA (KSBW) (720p)
 NBC 9 Steubenville OH (WTOV) (1080p)
 NBC Comedy Vault (1080p)
@@ -770,14 +770,8 @@ NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
-News12 Brooklyn [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
-News12 New Jersey [Geo-blocked]
-News12 Westchester [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 NewsNation (720p)
@@ -1066,8 +1060,8 @@ Tin TV (720p)
 Tiny House Nation (720p)
 TMZ (1080p) [Geo-blocked]
 TODAY All Day (1080p)
-Tom And Jerry (720p)
 Toon Goggles Junior (720p)
+Toonami Aftermath East (480p)
 ToonGoggles (720p)
 Top Stories by Newsy (720p)
 Tosh.0
@@ -1087,6 +1081,7 @@ TV Land (720p)
 TV Land Drama
 TV Land Sitcoms
 TV One (1080p)
+TV Panou (720p) [Not 24/7]
 TV4 (360p)
 TVE Internacional America HD (1080p) [Geo-blocked]
 TVS Bowling Network (720p)
@@ -1114,7 +1109,6 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
-TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
