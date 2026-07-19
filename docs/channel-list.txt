@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1232 channels currently shown in the app
-(excluded: 68 non-English, 113 manually, 145 not responding)
+1239 channels currently shown in the app
+(excluded: 68 non-English, 113 manually, 138 not responding)
 ============================================================
 
 00s Replay
@@ -113,6 +113,7 @@ All Reality WE tv (720p)
 All Weddings We TV (720p) [Geo-blocked]
 ALLBLK Gems (720p)
 Almagd TV Middle East (1080p) [Not 24/7]
+Altitude Sports (720p)
 Always Funny Videos (720p)
 Amazing Facts TV (1080p)
 AMC (720p)
@@ -695,6 +696,7 @@ MSG 2 (720p)
 MST3K (1080p)
 MTV (720p)
 MTV Biggest Pop (1080p)
+MTV Classic (720p)
 MTV Live (1080p)
 MTV Pluto TV
 MTV Spankin' New (1080p)
@@ -708,12 +710,15 @@ Naruto (1080p)
 Nash Bridges Channel (1080p) [Geo-blocked]
 NAT TV (1080p)
 Natick Education Channel (720p)
+Natick Government Channel (720p)
+Natick Public Access Channel (720p)
 National Geographic (720p)
 National Geographic HD East (720p)
 National Geographic West (720p)
 National Geographic Wild (720p)
 National Geographic Wild HD East (720p)
 NBA TV (1080p) [Geo-blocked]
+NBC (1080p)
 NBC 10 Providence MA (1080p)
 NBC 10 Rochester NY (WHEC) (1080p)
 NBC 11 Baltimore MD (WBAL) (720p)
@@ -749,12 +754,13 @@ NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
+News12 Conneticut [Geo-blocked]
 News12 Hudson Valley [Geo-blocked]
-News12 New Jersey [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
 News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
 News12+ Hudson Valley (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 NewsNation (720p)
@@ -819,6 +825,7 @@ PBS KET Louisville KY (WKMJ-TV) (720p)
 PBS KET World (480p)
 PBS KET2 (720p)
 PBS Kids (720p)
+PBS Kids 24/7 (1080p)
 PBS Kids Alaska (1080p)
 PBS Kids Eastern/Central (720p)
 PBS Kids Hawaii (720p)
