@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1198 channels currently shown in the app
-(excluded: 68 non-English, 113 manually, 179 not responding)
+1223 channels currently shown in the app
+(excluded: 68 non-English, 113 manually, 154 not responding)
 ============================================================
 
 00s Replay
@@ -194,8 +194,6 @@ Black Family Sitcoms
 Black Ink Crew
 Black News Channel (1080p)
 Blaze Live (720p)
-Bloomberg Originals (1080p)
-Bloomberg Originals (1080p)
 Bloomberg TV (1080p)
 Bloomberg TV US Live Event (720p)
 Bloomberg TV US Politics Live Event (720p)
@@ -396,6 +394,7 @@ F1 Channel (1080p) [Geo-blocked]
 Failarmy International (720p)
 Fairfield Government Access Channel 26 (Fairfield CA) (720p) [Geo-blocked]
 Family Ties
+FanDuel TV (720p)
 Farscape
 Fashion Finds (720p)
 FC Public Media (Fort Collins CO) (1080p)
@@ -747,9 +746,7 @@ News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
-News12 New Jersey [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
-News12+ New York (1080p) [Geo-blocked]
+News12 Westchester [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 NewsNation (720p)
@@ -759,6 +756,7 @@ NFL Channel (1080p) [Geo-blocked]
 NFL Network (720p)
 NHL Network (1080p)
 NHRA TV (1080p)
+Nick Jr. (1080p)
 Nick Jr. Pluto TV (720p)
 Nickelodeon (1080p)
 Nickelodeon Pluto TV (720p)
@@ -780,15 +778,19 @@ Olelo Community Media Channel 49 (720p)
 Olelo Community Media Channel 53 (720p)
 Olelo Community Media Channel 54 (720p)
 Olelo Community Media Channel 55 (720p)
+One America News Network (1080p)
 One Piece
 Ontario Public Access Channel (360p)
 OnTV4U (1080p) [Geo-blocked]
 Orange Government Access TV (Orange CT) (720p)
 Outdoor America (1080p)
 Outdoor Channel (1080p)
+Outdoor Channel HD (1080p)
 OuterSphere (1080p)
+Ovation (1080p)
 Overcomers TV (720p)
 Overtime (1080p)
+Oxygen (720p)
 Pac 12 Insider (1080p)
 Pacific Coast TV HMB Coastside Channel 27 (720p)
 Pacific Coast TV MWSD Channel 26 (720p)
@@ -796,6 +798,7 @@ Pacific Island Network (1080p)
 Palm Beach County TV Channel 20 (Palm Beach County FL) (720p)
 Palm Beaches TV (720p)
 Paramount Movie Channel
+Paramount Network (720p)
 Paramount+ Picks
 Payam Javan TV (720p) [Not 24/7]
 Payam-e-Afghan TV (480p) [Not 24/7]
@@ -807,6 +810,7 @@ PBS KET Louisville KY (WKMJ-TV) (720p)
 PBS KET World (480p)
 PBS KET2 (720p)
 PBS Kids (720p)
+PBS Kids 24/7 (1080p)
 PBS Kids Alaska (1080p)
 PBS Kids Eastern/Central (720p)
 PBS Kids Hawaii (720p)
@@ -868,12 +872,14 @@ pocket.watch Game On (1080p)
 Pocono Television Network (1080p)
 Pomona Internet Streaming Channel (Pomona CA) (720p)
 Pompano Beach Web Streaming (Pompano Beach FL) (720p)
+Pop TV (720p)
 Port St Lucie PSL TV (Port St Lucie FL) (360p)
 Portlandia (720p)
 Positiv TV (1080p)
 Potta-Divine TV USA (480p)
 Poudre School District TV (PSD TV) (Fort Collins CO) (720p)
 PowerNation (1080p)
+Pursuit Channel (1080p)
 Pursuit UP (1080p)
 QVC2 (720p)
 Rainbow Ruby (720p)
@@ -889,6 +895,7 @@ Revolt (720p)
 Revry (1080p)
 Revry LatinX (720p)
 Revry Queer (720p)
+RFD-TV (1080p)
 Ridiculousness
 RiffTrax (720p)
 Rifle Community TV RCTV (Rifle CO) (720p)
@@ -916,6 +923,7 @@ Schwab Network (1080p)
 Screen Dreams (720p)
 Scripps News (1080p)
 SCVTV (Santa Clarita CA) (1080p)
+SEC Network (720p)
 Sent TV Global Network Atlanta (SGTN-49) (720p)
 SF Commons Channel 29 (San Francisco CA) (480p)
 SF Commons Channel 76 (San Francisco CA) (480p)
@@ -932,6 +940,7 @@ Sketchy AF
 SKWAD (1080p)
 SLO County Channel 21 (360p)
 Slopes TV (720p)
+Smithsonian Channel (1080p)
 Smithsonian Channel Selects
 Sonic TV (720p)
 Sound View Community Media Education (480p)
@@ -939,7 +948,8 @@ Spike Outdoors
 Spike Pluto TV
 Spirit TV (720p) [Not 24/7]
 SportsGrid (1080p)
-St Lucie Public Schools
+Sportsman Channel (720p)
+SportsNet New York (1080p)
 St. Pete TV (SPTV) (St Petersburg FL) (360p)
 Stadium (720p)
 STAR International (720p)
@@ -947,6 +957,7 @@ Star Trek
 Star Trek: Deep Space Nine
 Star Trek: The Next Generation
 Star Trek: Voyager
+Start TV (720p)
 Starz (1080p)
 Starz Cinema (720p)
 Starz Comedy (1080p)
@@ -956,12 +967,14 @@ Stories by AMC
 Story Television
 Stryk TV (1080p)
 SUMtv English (1080p)
+Sundance TV (720p)
 Super Simple Songs (1080p)
 SuperChannel Orlando (WACX-DT1) (720p)
 Supernatural Drama
 Survivor (1080p)
 Swamiji TV American (1080p) [Not 24/7]
 Swerve Combat (1080p)
+SYFY (1080p)
 Talkin Live Classics TV (480p)
 Tampa Bay Communnity Network TBCN (Tampa Bay FL) (480p)
 Tastemade (1080p)
@@ -973,6 +986,7 @@ TBN Pacific
 TCT (1080p)
 TED (1080p)
 Teen Mom
+TeenNick (720p)
 TeleHit Estados Unidos (720p)
 Telehit Musica Estados Unidos (720p)
 Temecula TV (Temecula CA) (1080p)
@@ -1041,8 +1055,11 @@ True History (720p)
 TSTV (720p)
 TUTV (1080p)
 TV Daja (1080p) [Not 24/7]
+TV Hispanic [Not 24/7]
+TV Land (720p)
 TV Land Drama
 TV Land Sitcoms
+TV One (1080p)
 TV Panou (720p) [Not 24/7]
 TV4 (360p)
 TVE Internacional America (576p) [Geo-blocked]
@@ -1086,6 +1103,9 @@ Unidentified (1080p)
 Universal Comedy (1080p)
 Universal Crime (1080p)
 Unsolved Mysteries (720p)
+Up TV (1080p)
+USA Network (1080p)
+USA Network West (1080p)
 USA Today (1080p)
 Valley Shore Community Television (VSCTV) (Clinton CT) (1080p)
 VBS TV (480p) [Not 24/7]
@@ -1100,7 +1120,9 @@ Vevo Pop (1080p)
 Vevo R&B (1080p)
 Vevo Retro Rock (1080p)
 Vevo True School Hip-Hop
+VH1 (720p)
 VH1 Queens of Reality
+VH1 West (720p)
 VICE TV (1080p)
 Village of Hastings-On-Hudson NY (WHOH-TV) (360p)
 VSiN (720p)
@@ -1124,6 +1146,8 @@ WCETV Digital Channel 31.8
 WCOT 13 (Tallahassee FL) (720p)
 WDAF-TV 4.2 (576p)
 WDEF-TV News Chattanooga TN (720p)
+We TV (720p)
+WeatherNation (1080p)
 WeatherSpy (720p)
 WEDQ-DT4 (1080p)
 Weeds / Nurse Jackie (720p)
@@ -1166,6 +1190,7 @@ WMPT-DT2 (PBS Create)
 WNYW-DT1 (1080p)
 Women's Sports Network (1080p)
 World Channel (1080p)
+World Fishing Network (1080p)
 World Harvest TV (360p)
 WPS TV (360p)
 WPTV News West Palm Beach FL (720p)
