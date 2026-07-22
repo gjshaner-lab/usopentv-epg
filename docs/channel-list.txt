@@ -196,8 +196,6 @@ Black Family Sitcoms
 Black Ink Crew
 Black News Channel (1080p)
 Blaze Live (720p)
-Bloomberg Originals (1080p)
-Bloomberg Originals (1080p)
 Bloomberg TV (1080p)
 Bloomberg TV US Live Event (720p)
 Bloomberg TV US Politics Live Event (720p)
@@ -621,6 +619,7 @@ Life! Christian Broadcasting Network (360p)
 LIFE! End Times TV (360p)
 Lifetime (720p)
 Lifetime Movies (1080p)
+Lifetime Real Women (576p)
 LifevisionTV (406p) [Not 24/7]
 Lighting Lives Blessing Nations His Light (LLBN) (720p)
 Lighting Lives Blessing Nations His Word (LLBN) (720p)
@@ -766,9 +765,11 @@ News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
 News12 Long Island (1080p) [Geo-blocked]
 News12 New Jersey [Geo-blocked]
 News12 Westchester [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
 News12+ Long Island (1080p) [Geo-blocked]
 News12+ New Jersey (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
@@ -1022,7 +1023,6 @@ TeleHit Estados Unidos (720p)
 Telehit Musica Estados Unidos (720p)
 Temecula TV (Temecula CA) (1080p)
 Tempe Channel 11
-Tempo Afric TV (720p)
 Tennis Channel (1080p)
 TennisChannel 2 (720p)
 Terra Mater WILD English (1080p)
