@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1254 channels currently shown in the app
-(excluded: 70 non-English, 113 manually, 148 not responding)
+1253 channels currently shown in the app
+(excluded: 70 non-English, 113 manually, 149 not responding)
 ============================================================
 
 00s Replay
@@ -114,6 +114,7 @@ All Reality WE tv (720p)
 All Weddings We TV (720p) [Geo-blocked]
 ALLBLK Gems (720p)
 Almagd TV Middle East (1080p) [Not 24/7]
+Altitude Sports (720p)
 Always Funny Videos (720p)
 Amazing Facts TV (1080p)
 AMC (720p)
@@ -126,7 +127,6 @@ America's Voice News (720p)
 American Horrors (480p)
 America’s Funniest Home Videos (1080p)
 Ameritrade (1080p) [Not 24/7]
-Amga TV (720p) [Not 24/7]
 Amu TV
 Anger Management Channel (1080p)
 Animation+ (1080p) [Geo-blocked]
@@ -177,6 +177,7 @@ BEK TV Sports West (720p)
 Bellator MMA
 Berks Community TV (1080p)
 Best of Dr. Phil
+BET Soul (576p)
 Better Health TV (480p)
 Better Life Nature Channel (480p)
 Better Life TV (720p)
@@ -705,12 +706,12 @@ MSG Plus (720p)
 MST3K (1080p)
 MTV (720p)
 MTV Biggest Pop (1080p)
-MTV Classic (720p)
 MTV Live (1080p)
 MTV Pluto TV
 MTV Spankin' New (1080p)
 MTV2 (1080p)
 MTVU (720p)
+Muslim Network TV
 Mystery Science Theater 3000 (1080p)
 MyTime Movie Network (1080p)
 myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
@@ -723,7 +724,6 @@ Natick Government Channel (720p)
 Natick Public Access Channel (720p)
 National Geographic (720p)
 National Geographic HD East (720p)
-National Geographic West (720p)
 National Geographic Wild (720p)
 National Geographic Wild HD East (720p)
 NBA TV (1080p)
@@ -742,7 +742,6 @@ NBC 4 San Antonio TX (WOAI) (1080p)
 NBC 6 Johnstown PA (WJAC) (1080p)
 NBC 6 Santa Barbara CA (KSBY) (720p)
 NBC 8 Lancaster PA (WGAL) (720p)
-NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
 NBC 8 Salinas CA (KSBW) (720p)
 NBC 9 Steubenville OH (WTOV) (1080p)
 NBC Comedy Vault (1080p)
@@ -765,11 +764,10 @@ News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
 News12 Long Island (1080p) [Geo-blocked]
 News12 New Jersey [Geo-blocked]
 News12 Westchester [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
 News12+ Long Island (1080p) [Geo-blocked]
 News12+ New Jersey (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
@@ -1023,6 +1021,7 @@ TeleHit Estados Unidos (720p)
 Telehit Musica Estados Unidos (720p)
 Temecula TV (Temecula CA) (1080p)
 Tempe Channel 11
+Tempo Afric TV (720p)
 Tennis Channel (1080p)
 TennisChannel 2 (720p)
 Terra Mater WILD English (1080p)
