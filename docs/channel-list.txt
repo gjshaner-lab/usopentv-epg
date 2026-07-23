@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1253 channels currently shown in the app
-(excluded: 70 non-English, 113 manually, 149 not responding)
+1255 channels currently shown in the app
+(excluded: 71 non-English, 113 manually, 153 not responding)
 ============================================================
 
 00s Replay
@@ -127,6 +127,7 @@ America's Voice News (720p)
 American Horrors (480p)
 America’s Funniest Home Videos (1080p)
 Ameritrade (1080p) [Not 24/7]
+Amga TV (720p) [Not 24/7]
 Amu TV
 Anger Management Channel (1080p)
 Animation+ (1080p) [Geo-blocked]
@@ -177,7 +178,6 @@ BEK TV Sports West (720p)
 Bellator MMA
 Berks Community TV (1080p)
 Best of Dr. Phil
-BET Soul (576p)
 Better Health TV (480p)
 Better Life Nature Channel (480p)
 Better Life TV (720p)
@@ -197,6 +197,8 @@ Black Family Sitcoms
 Black Ink Crew
 Black News Channel (1080p)
 Blaze Live (720p)
+Bloomberg Originals (1080p)
+Bloomberg Originals (1080p)
 Bloomberg TV (1080p)
 Bloomberg TV US Live Event (720p)
 Bloomberg TV US Politics Live Event (720p)
@@ -236,6 +238,8 @@ Camera Smile (480p)
 Camp Spoopy (576p)
 CAN TV19 (1080p)
 CAN TV21 (1080p)
+CAN TV27 (1080p)
+CAN TV36 (1080p)
 Canal de la Fe (720p)
 Car Chase (720p)
 Carlsbad City TV Channel (Carlsbad CA) (720p)
@@ -308,7 +312,6 @@ Classic Movies Channel
 Classic TV Comedy
 Classic TV Crime Drama
 Classic TV Drama
-Classic TV: Families
 Classica (720p)
 Cleo TV (720p)
 Cloudflare TV (720p)
@@ -379,7 +382,6 @@ Disney Channel West (720p)
 Disney Junior (720p)
 Disney Junior West (720p)
 Disney XD (720p)
-Disney XD West (480p)
 District of Columbia Network (DCN) (1080p)
 Dog the Bounty Hunter (1080p)
 Dog TV (720p)
@@ -656,7 +658,6 @@ MagellanTV Now (1080p)
 Magnificent Movies Network
 Manatee Schools Television MSTV (Manatee County FL) (1080p)
 Maria Vision USA (1080p)
-Marquee Sports Network (1080p)
 Martin County MCTV (Martin County FL) (720p)
 Matlock
 Maverick Black Cinema (1080p)
@@ -706,6 +707,7 @@ MSG Plus (720p)
 MST3K (1080p)
 MTV (720p)
 MTV Biggest Pop (1080p)
+MTV Classic (720p)
 MTV Live (1080p)
 MTV Pluto TV
 MTV Spankin' New (1080p)
@@ -724,6 +726,7 @@ Natick Government Channel (720p)
 Natick Public Access Channel (720p)
 National Geographic (720p)
 National Geographic HD East (720p)
+National Geographic West (720p)
 National Geographic Wild (720p)
 National Geographic Wild HD East (720p)
 NBA TV (1080p)
@@ -742,6 +745,7 @@ NBC 4 San Antonio TX (WOAI) (1080p)
 NBC 6 Johnstown PA (WJAC) (1080p)
 NBC 6 Santa Barbara CA (KSBY) (720p)
 NBC 8 Lancaster PA (WGAL) (720p)
+NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
 NBC 8 Salinas CA (KSBW) (720p)
 NBC 9 Steubenville OH (WTOV) (1080p)
 NBC Comedy Vault (1080p)
@@ -762,18 +766,12 @@ NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
-News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
 News12 New Jersey [Geo-blocked]
-News12 Westchester [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
 News12+ New Jersey (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
-NewsNation (720p)
 NewsNet (720p) [Not 24/7]
 Newsy (1080p)
 NFL Channel (1080p) [Geo-blocked]
@@ -897,7 +895,6 @@ pocket.watch Game On (1080p)
 Pocono Television Network (1080p)
 Pomona Internet Streaming Channel (Pomona CA) (720p)
 Pompano Beach Web Streaming (Pompano Beach FL) (720p)
-Pop TV (720p)
 Port St Lucie PSL TV (Port St Lucie FL) (360p)
 Portlandia (720p)
 Positiv TV (1080p)
@@ -962,8 +959,10 @@ Shemaroo Bollywood (1080p)
 Shop LC (1080p)
 Shout! TV (1080p)
 Showtime 2 (1080p)
-Showtime Extreme (720p)
+Showtime Extreme (1080p)
 Showtime Family Zone (720p)
+Showtime Next (720p)
+Showtime West (720p)
 Sitcom Legends
 Sketchy AF
 SKWAD (1080p)
@@ -991,7 +990,10 @@ Start TV (720p)
 Starz (1080p)
 Starz Cinema (720p)
 Starz Comedy (1080p)
+Starz Edge (1080p)
+Starz Encore (1080p)
 Starz Kids & Family (1080p)
+Starz West (720p)
 Storage Wars by A&E (720p)
 Stories by AMC
 Story Television
