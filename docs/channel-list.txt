@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1264 channels currently shown in the app
-(excluded: 71 non-English, 113 manually, 145 not responding)
+1255 channels currently shown in the app
+(excluded: 71 non-English, 113 manually, 154 not responding)
 ============================================================
 
 00s Replay
@@ -114,6 +114,7 @@ All Reality WE tv (720p)
 All Weddings We TV (720p) [Geo-blocked]
 ALLBLK Gems (720p)
 Almagd TV Middle East (1080p) [Not 24/7]
+Altitude Sports (720p)
 Always Funny Videos (720p)
 Amazing Facts TV (1080p)
 AMC (720p)
@@ -176,7 +177,6 @@ beIN SPORTS XTRA (1080p)
 BEK TV News (720p)
 BEK TV Sports West (720p)
 Bellator MMA
-Berks Community TV (1080p)
 Best of Dr. Phil
 BET Soul (576p)
 Better Health TV (480p)
@@ -406,7 +406,6 @@ ESPNU (720p)
 EWTN (720p) [Geo-blocked]
 F1 Channel (1080p) [Geo-blocked]
 Failarmy International (720p)
-Fairfield Government Access Channel 26 (Fairfield CA) (720p) [Geo-blocked]
 Family Ties
 FanDuel Racing (720p)
 FanDuel TV (720p)
@@ -705,7 +704,6 @@ MRVTV Channel 44 (720p)
 MRVTV Channel 45 (720p)
 MS NOW (720p)
 MSG (720p)
-MSG 2 (720p)
 MSG Plus (720p)
 MST3K (1080p)
 MTV (720p)
@@ -767,16 +765,12 @@ New Canaan Television 79 (NCTV79) (New Canaan CT) (1080p)
 NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
-News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
-News12 Conneticut [Geo-blocked]
 News12 Hudson Valley [Geo-blocked]
 News12 Long Island (1080p) [Geo-blocked]
-News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
 News12+ Hudson Valley (1080p) [Geo-blocked]
 News12+ Long Island (1080p) [Geo-blocked]
-News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 NewsNation (720p)
@@ -841,7 +835,6 @@ PBS KET Louisville KY (WKMJ-TV) (720p)
 PBS KET World (480p)
 PBS KET2 (720p)
 PBS Kids (720p)
-PBS Kids 24/7 (1080p)
 PBS Kids Alaska (1080p)
 PBS Kids Eastern/Central (720p)
 PBS Kids Hawaii (720p)
@@ -1032,7 +1025,6 @@ TeleHit Estados Unidos (720p)
 Telehit Musica Estados Unidos (720p)
 Temecula TV (Temecula CA) (1080p)
 Tempe Channel 11
-Tempo Afric TV (720p)
 Tennis Channel (1080p)
 TennisChannel 2 (720p)
 Terra Mater WILD English (1080p)
@@ -1184,7 +1176,6 @@ WCBI (Columbus MI) (720p)
 WCBS-TV 2.1 (720p)
 WCCA 194 Worcester MA (WCCA-TV) (480p)
 WCETV Digital Channel 31.8
-WCOT 13 (Tallahassee FL) (720p)
 WDAF-TV 4.2 (576p)
 WDEF-TV News Chattanooga TN (720p)
 We TV (720p)
