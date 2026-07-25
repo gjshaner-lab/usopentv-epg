@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1271 channels currently shown in the app
-(excluded: 67 non-English, 113 manually, 145 not responding)
+1262 channels currently shown in the app
+(excluded: 67 non-English, 113 manually, 154 not responding)
 ============================================================
 
 00s Replay
@@ -114,6 +114,7 @@ All Reality WE tv (720p)
 All Weddings We TV (720p) [Geo-blocked]
 ALLBLK Gems (720p)
 Almagd TV Middle East (1080p) [Not 24/7]
+Altitude Sports (720p)
 Always Funny Videos (720p)
 Amazing Facts TV (1080p)
 AMC (720p)
@@ -674,7 +675,6 @@ MCN6 (1080p) [Not 24/7]
 MCN6 Arts Channel (1080p) [Not 24/7]
 MCN6 Music Channel (1080p) [Not 24/7]
 MeTV (720p)
-MeTV Toons (720p)
 MeTV+ (720p)
 MGM+ (1080p)
 MGM+ Drive-In (720p)
@@ -770,13 +770,6 @@ NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
-News12 New Jersey [Geo-blocked]
-News12 Westchester [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
-News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 NewsNation (720p)
@@ -843,7 +836,6 @@ PBS KET Louisville KY (WKMJ-TV) (720p)
 PBS KET World (480p)
 PBS KET2 (720p)
 PBS Kids (720p)
-PBS Kids 24/7 (1080p)
 PBS Kids Alaska (1080p)
 PBS Kids Eastern/Central (720p)
 PBS Kids Hawaii (720p)
@@ -953,7 +945,6 @@ Santa Maria Community Television Public Access Channel (720p)
 Santa Monica City TV 20 (Santa Monica CA) (360p) [Not 24/7]
 SBN TV (720p)
 SC Currents
-Scares by Shudder (720p)
 Schwab Network (1080p)
 Screen Dreams (720p)
 Scripps News (1080p)
