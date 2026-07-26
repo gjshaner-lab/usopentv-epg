@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1262 channels currently shown in the app
-(excluded: 67 non-English, 113 manually, 154 not responding)
+1260 channels currently shown in the app
+(excluded: 67 non-English, 113 manually, 156 not responding)
 ============================================================
 
 00s Replay
@@ -30,7 +30,6 @@ US Open TV -- Channel List
 90's Kids
 90s Kids TV 2
 90s Throwback
-A&E (1080p)
 AABC TV (480p)
 ABC (WPLG-DT1) Miami FL (720p)
 ABC 10 Duluth MN (WDIO) (1080p)
@@ -222,7 +221,6 @@ Bravo West (1080p)
 Brevard County Government Access TV (Brevard FL) (720p)
 BritBox Mysteries (1080p)
 Buena Park Television (360p)
-Burbank Channel (720p)
 Business Rockstars (720p)
 BUTV10 (Boston University) (1080p) [Not 24/7]
 Buzzr (1080p)
@@ -401,6 +399,7 @@ Elbeshara GTV (1080p) [Not 24/7]
 ElectricNOW (1080p) [Geo-blocked]
 Entertainment Tonight (1080p)
 EntrepreneurTV (720p)
+Escambia County TV ECTV (Escambia County FL) (720p)
 ESPN Deportes (720p)
 ESPNU (720p)
 EWTN (720p) [Geo-blocked]
@@ -472,7 +471,6 @@ Game Show Central (720p)
 Game Show Network (1080p)
 Garfield and Friends
 GBN Global Buddhist Network (1080p)
-Geb Tv (KBPX LD5) (1080p)
 Gem Shopping Network (720p)
 Gillette Public Access Television Channel 189
 Gillette Public Access Television Channel 190
@@ -512,7 +510,6 @@ Hallmark Family (1080p)
 Hallmark Mystery (1080p)
 Happy Days
 HappyKids (1080p)
-Harvest USA (576p)
 Hasbro Legends (1080p) [Geo-blocked]
 Haunt TV (1080p)
 HCTV Educational Access Channel
@@ -675,6 +672,7 @@ MCN6 (1080p) [Not 24/7]
 MCN6 Arts Channel (1080p) [Not 24/7]
 MCN6 Music Channel (1080p) [Not 24/7]
 MeTV (720p)
+MeTV Toons (720p)
 MeTV+ (720p)
 MGM+ (1080p)
 MGM+ Drive-In (720p)
@@ -784,7 +782,6 @@ Nick Jr. Pluto TV (720p)
 Nick Jr. West (720p)
 Nickelodeon (1080p)
 Nickelodeon Pluto TV (720p)
-Nickelodeon West (1080p)
 Nicktoons (1080p)
 Nicktoons West (1080p)
 Ninja Kidz (720p)
@@ -836,6 +833,7 @@ PBS KET Louisville KY (WKMJ-TV) (720p)
 PBS KET World (480p)
 PBS KET2 (720p)
 PBS Kids (720p)
+PBS Kids 24/7 (1080p)
 PBS Kids Alaska (1080p)
 PBS Kids Eastern/Central (720p)
 PBS Kids Hawaii (720p)
@@ -945,6 +943,7 @@ Santa Maria Community Television Public Access Channel (720p)
 Santa Monica City TV 20 (Santa Monica CA) (360p) [Not 24/7]
 SBN TV (720p)
 SC Currents
+Scares by Shudder (720p)
 Schwab Network (1080p)
 Screen Dreams (720p)
 Scripps News (1080p)
@@ -1182,7 +1181,6 @@ WCBI (Columbus MI) (720p)
 WCBS-TV 2.1 (720p)
 WCCA 194 Worcester MA (WCCA-TV) (480p)
 WCETV Digital Channel 31.8
-WCOT 13 (Tallahassee FL) (720p)
 WDAF-TV 4.2 (576p)
 WDEF-TV News Chattanooga TN (720p)
 We TV (720p)
