@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1260 channels currently shown in the app
-(excluded: 67 non-English, 113 manually, 156 not responding)
+1262 channels currently shown in the app
+(excluded: 67 non-English, 113 manually, 154 not responding)
 ============================================================
 
 00s Replay
@@ -399,7 +399,6 @@ Elbeshara GTV (1080p) [Not 24/7]
 ElectricNOW (1080p) [Geo-blocked]
 Entertainment Tonight (1080p)
 EntrepreneurTV (720p)
-Escambia County TV ECTV (Escambia County FL) (720p)
 ESPN Deportes (720p)
 ESPNU (720p)
 EWTN (720p) [Geo-blocked]
@@ -510,6 +509,7 @@ Hallmark Family (1080p)
 Hallmark Mystery (1080p)
 Happy Days
 HappyKids (1080p)
+Harvest USA (576p)
 Hasbro Legends (1080p) [Geo-blocked]
 Haunt TV (1080p)
 HCTV Educational Access Channel
@@ -768,6 +768,7 @@ NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
+News12 Conneticut [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 NewsNation (720p)
@@ -1181,6 +1182,7 @@ WCBI (Columbus MI) (720p)
 WCBS-TV 2.1 (720p)
 WCCA 194 Worcester MA (WCCA-TV) (480p)
 WCETV Digital Channel 31.8
+WCOT 13 (Tallahassee FL) (720p)
 WDAF-TV 4.2 (576p)
 WDEF-TV News Chattanooga TN (720p)
 We TV (720p)
