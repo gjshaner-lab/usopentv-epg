@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1270 channels currently shown in the app
-(excluded: 68 non-English, 113 manually, 151 not responding)
+1274 channels currently shown in the app
+(excluded: 68 non-English, 113 manually, 147 not responding)
 ============================================================
 
 00s Replay
@@ -178,6 +178,7 @@ BEK TV Sports West (720p)
 Bellator MMA
 Berks Community TV (1080p)
 Best of Dr. Phil
+BET Soul (576p)
 Better Health TV (480p)
 Better Life Nature Channel (480p)
 Better Life TV (720p)
@@ -550,7 +551,6 @@ In the kitchen (720p)
 InfoWars Network (1080p)
 Ink Master
 INSP (720p)
-Instant Saga
 INWILD (1080p)
 ION (1080p) [Geo-blocked]
 ION Plus (1080p)
@@ -678,7 +678,6 @@ MGM+ (1080p)
 MGM+ Drive-In (720p)
 MGM+ Hits (1080p)
 MGM+ Marquee (720p)
-Miami Beach Tv (MBTV) (Miami Beach FL) (720p)
 Midnight Pulp (1080p)
 Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)
 Midpen Media Center Diversity and Culture Channel 75 (720p)
@@ -770,9 +769,13 @@ NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
+News12 Conneticut [Geo-blocked]
 News12 Long Island (1080p) [Geo-blocked]
+News12 New Jersey [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
 News12+ Long Island (1080p) [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
@@ -947,7 +950,6 @@ Santa Maria Community Television Education Channel (720p)
 Santa Maria Community Television Government Channel (720p)
 Santa Maria Community Television Public Access Channel (720p)
 Santa Monica City TV 20 (Santa Monica CA) (360p) [Not 24/7]
-SBN TV (720p)
 SC Currents
 Scares by Shudder (720p)
 Schwab Network (1080p)
@@ -1149,6 +1151,8 @@ TVSA Public Channel (720p)
 TVSConsumerDirect (720p)
 UCTV University of California (720p) [Not 24/7]
 Unidentified (1080p)
+Universal Comedy (1080p)
+Universal Crime (1080p)
 Unsolved Mysteries (720p)
 Up TV (1080p)
 USA Network (1080p)
