@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1252 channels currently shown in the app
-(excluded: 67 non-English, 113 manually, 153 not responding)
+1250 channels currently shown in the app
+(excluded: 67 non-English, 113 manually, 155 not responding)
 ============================================================
 
 00s Replay
@@ -218,7 +218,6 @@ Bravo (1080p)
 Bravo West (1080p)
 Brevard County Government Access TV (Brevard FL) (720p)
 BritBox Mysteries (1080p)
-Buena Park Television (360p)
 Business Rockstars (720p)
 BUTV10 (Boston University) (1080p) [Not 24/7]
 Buzzr (1080p)
@@ -274,6 +273,7 @@ CBS News Pittsburgh (720p)
 CBS News Sacramento (720p)
 CBS Sports HQ (1080p) [Geo-blocked]
 CBS Sports Network USA (1080p)
+CBS West (720p)
 CCX1 (1080p)
 Celebrity Name Game (1080p) [Geo-blocked]
 Celebrity Scene TV (720p)
@@ -334,7 +334,6 @@ Court TV (1080p)
 Cozi TV (1080p)
 Create (1080p)
 CreaTV Bay Voice TV Channel 27 (San Jose CA) (720p)
-CreaTV Classrooms Channel 28 (San Jose CA) (720p)
 CreaTV Community Channel 15 (San Jose CA) (720p)
 CreaTV The Outlet Channel 30 (San Jose CA) (720p)
 Crime + Investigation (720p)
@@ -404,13 +403,11 @@ F1 Channel (1080p) [Geo-blocked]
 Failarmy International (720p)
 Fairfield Government Access Channel 26 (Fairfield CA) (720p) [Geo-blocked]
 Family Ties
-FanDuel Racing (720p)
 FanDuel TV (720p)
 Farscape
 Fashion Finds (720p)
 FC Public Media (Fort Collins CO) (1080p)
 Fear Factor (1080p)
-Feel Good Drama
 Fernandina Beach City Meeting (Fernandina Beach FL) (720p) [Not 24/7]
 FETV (720p)
 FGTV
@@ -572,6 +569,7 @@ KATC 3.1 (1080p)
 KCAT Public Media TV (1080p)
 KCKS-LD 25.3 (720p)
 KDFW-DT1 (1080p)
+KDVR 31.1 (720p)
 Kern County Television
 Ketchup TV (720p)
 KFTR-DT1 [Geo-blocked]
@@ -627,7 +625,6 @@ Lighting Lives Blessing Nations His Word (LLBN) (720p)
 Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p)
 Lighting Lives Blessing Nations TV South Asia (LLBN) (480p)
 Lindell TV (720p)
-Little Guyana TV (1080p)
 Little Stars Universe
 Live Music
 LiveNOW from FOX (1080p) [Geo-blocked]
@@ -701,6 +698,7 @@ MRVTV Channel 44 (720p)
 MRVTV Channel 45 (720p)
 MS NOW (720p)
 MSG (720p)
+MSG 2 (720p)
 MSG Plus (720p)
 MST3K (1080p)
 MTV (720p)
@@ -762,10 +760,9 @@ New Canaan Television 79 (NCTV79) (New Canaan CT) (1080p)
 NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
-News12 Brooklyn [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
+News12 Bronx [Geo-blocked]
+News12 Conneticut [Geo-blocked]
 News12 Westchester [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
@@ -1085,6 +1082,7 @@ True Crime Now (1080p)
 True History (720p)
 TSTV (720p)
 TUTV (1080p)
+TV Daja (1080p) [Not 24/7]
 TV Hispanic [Not 24/7]
 TV Land (720p)
 TV Land Drama
