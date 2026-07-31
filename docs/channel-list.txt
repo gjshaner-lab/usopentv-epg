@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1255 channels currently shown in the app
-(excluded: 67 non-English, 113 manually, 144 not responding)
+1257 channels currently shown in the app
+(excluded: 67 non-English, 113 manually, 142 not responding)
 ============================================================
 
 00s Replay
@@ -112,6 +112,7 @@ All Reality WE tv (720p)
 All Weddings We TV (720p) [Geo-blocked]
 ALLBLK Gems (720p)
 Almagd TV Middle East (1080p) [Not 24/7]
+Altitude Sports (720p)
 Always Funny Videos (720p)
 Amazing Facts TV (1080p)
 AMC (720p)
@@ -179,6 +180,7 @@ Berks Community TV (1080p)
 Best of Dr. Phil
 BET (720p)
 BET Her (720p)
+BET Soul (576p)
 Better Health TV (480p)
 Better Life Nature Channel (480p)
 Better Life TV (720p)
@@ -407,6 +409,7 @@ F1 Channel (1080p) [Geo-blocked]
 Failarmy International (720p)
 Fairfield Government Access Channel 26 (Fairfield CA) (720p) [Geo-blocked]
 Family Ties
+FanDuel Racing (720p)
 FanDuel TV (720p)
 Farscape
 Fashion Finds (720p)
@@ -419,6 +422,7 @@ FGTV
 FilmRise Anime (720p)
 FilmRise Westerns (720p)
 Flicks of Fury
+Flix (720p)
 FNX (1080p)
 FNX [Geo-blocked]
 Fontana Community Television (720p) [Geo-blocked]
@@ -705,7 +709,6 @@ MRVTV Channel 44 (720p)
 MRVTV Channel 45 (720p)
 MS NOW (720p)
 MSG (720p)
-MSG 2 (720p)
 MSG Plus (720p)
 MST3K (1080p)
 MTV (720p)
@@ -748,7 +751,6 @@ NBC 4 San Antonio TX (WOAI) (1080p)
 NBC 6 Johnstown PA (WJAC) (1080p)
 NBC 6 Santa Barbara CA (KSBY) (720p)
 NBC 8 Lancaster PA (WGAL) (720p)
-NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
 NBC 8 Salinas CA (KSBW) (720p)
 NBC 9 Steubenville OH (WTOV) (1080p)
 NBC Comedy Vault (1080p)
@@ -769,8 +771,7 @@ NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12+ New York (1080p) [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 NewsNation (720p)
@@ -990,6 +991,7 @@ Star Trek
 Star Trek: Deep Space Nine
 Star Trek: The Next Generation
 Star Trek: Voyager
+Start TV (720p)
 Starz (1080p)
 Starz Cinema (720p)
 Starz Comedy (1080p)
