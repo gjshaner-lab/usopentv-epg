@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1261 channels currently shown in the app
-(excluded: 67 non-English, 113 manually, 140 not responding)
+1270 channels currently shown in the app
+(excluded: 67 non-English, 113 manually, 131 not responding)
 ============================================================
 
 00s Replay
@@ -112,6 +112,7 @@ All Reality WE tv (720p)
 All Weddings We TV (720p) [Geo-blocked]
 ALLBLK Gems (720p)
 Almagd TV Middle East (1080p) [Not 24/7]
+Altitude Sports (720p)
 Always Funny Videos (720p)
 Amazing Facts TV (1080p)
 AMC (720p)
@@ -278,7 +279,6 @@ CBS News Sacramento (720p)
 CBS Sports HQ (1080p) [Geo-blocked]
 CBS Sports Network USA (1080p)
 CBS West (720p)
-CCX1 (1080p)
 Celebrity Name Game (1080p) [Geo-blocked]
 Celebrity Scene TV (720p)
 Cerritos TV3 (360p)
@@ -357,6 +357,7 @@ Curiosity Now (1080p)
 CVTV Channel 192 (1080p)
 CVTV Channel 194 (1080p)
 CW (1080p) [Geo-blocked]
+Cypress Public Access Channel 36 (Cypress CA) (360p)
 Dabl (720p)
 DangerTV (720p)
 Dark Matter TV (720p)
@@ -400,7 +401,6 @@ Elbeshara GTV (1080p) [Not 24/7]
 ElectricNOW (1080p) [Geo-blocked]
 Entertainment Tonight (1080p)
 EntrepreneurTV (720p)
-Escambia County TV ECTV (Escambia County FL) (720p)
 ESPN Deportes (720p)
 ESPNews (720p)
 ESPNU (720p)
@@ -774,8 +774,17 @@ NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
+News12 New Jersey [Geo-blocked]
+News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 NewsNation (720p)
@@ -1094,7 +1103,6 @@ True History (720p)
 TSTV (720p)
 TUTV (1080p)
 TV Daja (1080p) [Not 24/7]
-TV Hispanic [Not 24/7]
 TV Land (720p)
 TV Land Drama
 TV Land Sitcoms
@@ -1135,6 +1143,7 @@ TVS Vintage Network (360p)
 TVS Western Movie (270p)
 TVS Women Sports (720p)
 TVSA Government Channel (720p)
+TVSA Public Channel (720p)
 TVSConsumerDirect (720p)
 UCTV University of California (720p) [Not 24/7]
 Unidentified (1080p)
