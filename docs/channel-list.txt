@@ -195,8 +195,6 @@ Black Family Sitcoms
 Black Ink Crew
 Black News Channel (1080p)
 Blaze Live (720p)
-Bloomberg Originals (1080p)
-Bloomberg Originals (1080p)
 Bloomberg TV (1080p)
 Bloomberg TV US Live Event (720p)
 Bloomberg TV US Politics Live Event (720p)
@@ -598,6 +596,7 @@ KVVB-TV 33 Victor Valley (1080p) [Not 24/7]
 KZTV-DT1 (720p)
 Laff (1080p)
 Lakewood CityTV (720p)
+Las Vegas Tonight with Dale Davidson (1080p)
 LATV (1080p) [Geo-blocked]
 Leesburg Lakefront TV (Leesburg FL) (720p)
 LEGO Kids TV
@@ -683,6 +682,7 @@ MRVTV Channel 44 (720p)
 MRVTV Channel 45 (720p)
 MS NOW (720p)
 MSG (720p)
+MSG 2 (720p)
 MSG Plus (720p)
 MST3K (1080p)
 MTV (720p)
@@ -837,6 +837,7 @@ Pinole Community Television (PCTV) Channel 26 (Pinole CA) (480p)
 Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p)
 PixL TV (720p)
 Placid (1080p) [Not 24/7]
+Pluto TV Action
 Pluto TV Adventure
 Pluto TV Anime
 Pluto TV Anime Movies
@@ -1099,7 +1100,6 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
-TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
