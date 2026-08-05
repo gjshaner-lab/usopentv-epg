@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1244 channels currently shown in the app
-(excluded: 67 non-English, 112 manually, 142 not responding)
+1241 channels currently shown in the app
+(excluded: 67 non-English, 112 manually, 145 not responding)
 ============================================================
 
 00s Replay
@@ -31,6 +31,7 @@ US Open TV -- Channel List
 90s Kids TV 2
 90s Throwback
 A&E (1080p)
+AABC TV (480p)
 ABC (WPLG-DT1) Miami FL (720p)
 ABC 10 Duluth MN (WDIO) (1080p)
 ABC 10 San Diego CA (KGTV) (720p)
@@ -381,7 +382,6 @@ Discovery Turbo (720p)
 Disney Channel (720p)
 Disney Junior (720p)
 Disney XD (720p)
-Disney XD West (480p)
 District of Columbia Network (DCN) (1080p)
 Dog the Bounty Hunter (1080p)
 Dog TV (720p)
@@ -413,6 +413,7 @@ Fashion Finds (720p)
 FC Public Media (Fort Collins CO) (1080p)
 Fear Factor (1080p)
 Feel Good Drama
+Fernandina Beach City Meeting (Fernandina Beach FL) (720p) [Not 24/7]
 FETV (720p)
 FGTV
 FilmRise Anime (720p)
@@ -571,6 +572,7 @@ Kajou TV (720p) [Not 24/7]
 Kaloopy TV (1080p)
 Kartoon Channel (1080p)
 KATC 3.1 (1080p)
+KCAT Public Media TV (1080p)
 KCKS-LD 25.3 (720p)
 KDFW-DT1 (1080p)
 KDVR 31.1 (720p)
@@ -736,13 +738,13 @@ NBC 4 San Antonio TX (WOAI) (1080p)
 NBC 6 Johnstown PA (WJAC) (1080p)
 NBC 6 Santa Barbara CA (KSBY) (720p)
 NBC 8 Lancaster PA (WGAL) (720p)
-NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
 NBC 8 Salinas CA (KSBW) (720p)
 NBC 9 Steubenville OH (WTOV) (1080p)
 NBC Comedy Vault (1080p)
 NBC LX Home (1080p)
 NBC Sports Bay Area (1080p) [Geo-blocked]
 NBC Sports Philadelphia (1080p) [Geo-blocked]
+NBC Universo (720p)
 NBC Universo West (720p)
 NBC West (720p)
 NBC West (San Diego) (1080p) [Not 24/7]
@@ -755,15 +757,9 @@ New Canaan Television 79 (NCTV79) (New Canaan CT) (1080p)
 NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
-News12 Bronx [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
-News12 New Jersey [Geo-blocked]
-News12 Westchester [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
-News12+ New York (1080p) [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
+News12 Conneticut [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 NewsNation (720p)
@@ -932,6 +928,7 @@ Sanctuary
 Santa Maria Community Television Education Channel (720p)
 Santa Maria Community Television Government Channel (720p)
 Santa Maria Community Television Public Access Channel (720p)
+Santa Monica City TV 20 (Santa Monica CA) (360p) [Not 24/7]
 SBN TV (720p)
 SC Currents
 Schwab Network (1080p)
@@ -971,6 +968,7 @@ Spirit TV (720p) [Not 24/7]
 SportsGrid (1080p)
 Sportsman Channel (720p)
 SportsNet New York (1080p)
+St Lucie Public Schools
 St. Pete TV (SPTV) (St Petersburg FL) (360p)
 Stadium (720p)
 STAR International (720p)
@@ -1111,7 +1109,6 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
-TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
