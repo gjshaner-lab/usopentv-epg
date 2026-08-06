@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1244 channels currently shown in the app
-(excluded: 67 non-English, 112 manually, 143 not responding)
+1245 channels currently shown in the app
+(excluded: 67 non-English, 112 manually, 142 not responding)
 ============================================================
 
 00s Replay
@@ -155,7 +155,6 @@ AWE International (720p)
 AWE Plus (720p)
 AXS TV (1080p)
 Baby Shark TV (1080p)
-BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -200,6 +199,8 @@ Black Family Sitcoms
 Black Ink Crew
 Black News Channel (1080p)
 Blaze Live (720p)
+Bloomberg Originals (1080p)
+Bloomberg Originals (1080p)
 Bloomberg TV (1080p)
 Bloomberg TV US Live Event (720p)
 Bloomberg TV US Politics Live Event (720p)
@@ -570,6 +571,7 @@ Kajou TV (720p) [Not 24/7]
 Kaloopy TV (1080p)
 Kartoon Channel (1080p)
 KATC 3.1 (1080p)
+KCAT Public Media TV (1080p)
 KCKS-LD 25.3 (720p)
 KDFW-DT1 (1080p)
 KDVR 31.1 (720p)
@@ -653,7 +655,6 @@ MagellanTV Now (1080p)
 Magnificent Movies Network
 Manatee Schools Television MSTV (Manatee County FL) (1080p)
 Maria Vision USA (1080p)
-Marquee Sports Network (1080p)
 Martin County MCTV (Martin County FL) (720p)
 Matlock
 Maverick Black Cinema (1080p)
@@ -671,6 +672,11 @@ MGM+ (1080p)
 MGM+ Drive-In (720p)
 Miami Beach Tv (MBTV) (Miami Beach FL) (720p)
 Midnight Pulp (1080p)
+Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)
+Midpen Media Center Diversity and Culture Channel 75 (720p)
+Midpen Media Center Government etc Channel 26 (720p)
+Midpen Media Center Government etc Channel 29 (720p)
+Midpen Media Center Youth Education and Sports Channel 28 (720p)
 Midsomer Murders (1080p)
 Mission Impossible
 Mission TV (1080p) [Not 24/7]
@@ -735,6 +741,7 @@ NBC 4 San Antonio TX (WOAI) (1080p)
 NBC 6 Johnstown PA (WJAC) (1080p)
 NBC 6 Santa Barbara CA (KSBY) (720p)
 NBC 8 Lancaster PA (WGAL) (720p)
+NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
 NBC 8 Salinas CA (KSBW) (720p)
 NBC 9 Steubenville OH (WTOV) (1080p)
 NBC Comedy Vault (1080p)
@@ -756,12 +763,6 @@ NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
 News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
-News12 New Jersey [Geo-blocked]
-News12 Westchester [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 NewsNation (720p)
