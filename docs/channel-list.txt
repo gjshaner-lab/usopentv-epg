@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1152 channels currently shown in the app
-(excluded: 67 non-English, 108 manually, 142 not responding)
+1155 channels currently shown in the app
+(excluded: 67 non-English, 108 manually, 139 not responding)
 ============================================================
 
 00s Replay
@@ -193,6 +193,8 @@ Black Family Sitcoms
 Black Ink Crew
 Black News Channel (1080p)
 Blaze Live (720p)
+Bloomberg Originals (1080p)
+Bloomberg Originals (1080p)
 Bloomberg TV (1080p)
 Bloomberg TV US Live Event (720p)
 Bloomberg TV US Politics Live Event (720p)
@@ -704,6 +706,8 @@ NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Brooklyn [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 Newsy (1080p)
@@ -883,7 +887,6 @@ Sent TV Global Network Atlanta (SGTN-49) (720p)
 SF Commons Channel 29 (San Francisco CA) (480p)
 SF Commons Channel 76 (San Francisco CA) (480p)
 SFGovTV San Francisco The Government Channel (720p)
-SFGovTV2 San Francisco The City Channel (720p)
 Shalom TV (720p) [Not 24/7]
 Shemaroo Bollywood (1080p)
 Shop LC (1080p)
