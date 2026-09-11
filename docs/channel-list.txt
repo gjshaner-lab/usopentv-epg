@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1141 channels currently shown in the app
-(excluded: 68 non-English, 108 manually, 153 not responding)
+1136 channels currently shown in the app
+(excluded: 68 non-English, 108 manually, 158 not responding)
 ============================================================
 
 00s Replay
@@ -31,7 +31,6 @@ US Open TV -- Channel List
 90s Kids TV 2
 90s Throwback
 A&E (720p)
-AABC TV (480p)
 ABC (1080p)
 ABC (WPLG-DT1) Miami FL (720p)
 ABC 10 Duluth MN (WDIO) (1080p)
@@ -135,7 +134,6 @@ Are We There Yet? (1080p)
 Arkansas PBS [Geo-blocked]
 Armenia 1 America (1080p)
 Artflix Movie Classics (720p)
-ARTN TV (1080p) [Not 24/7]
 Aspire TV Life (1080p)
 AssyriaSat (720p) [Not 24/7]
 At Home with Family Handyman (720p)
@@ -153,7 +151,6 @@ AWE International (720p)
 AWE Plus (720p)
 AXS TV (720p)
 Baby Shark TV (1080p)
-BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -218,7 +215,6 @@ Bravo (720p)
 Brevard County Government Access TV (Brevard FL) (720p)
 BritBox Mysteries (1080p)
 Buena Park Television (360p)
-Burbank Channel (720p)
 Business Rockstars (720p)
 BUTV10 (Boston University) (1080p) [Not 24/7]
 Buzzr (1080p)
@@ -356,6 +352,7 @@ Detroit Channel 10
 Detroit Channel 21
 Detroit Channel 22
 Detroit Channel 68
+Disney Channel (720p) [Geo-blocked]
 Disney Junior (720p)
 Disney XD (720p)
 District of Columbia Network (DCN) (1080p)
@@ -375,6 +372,7 @@ Electric Now (720p)
 Elevation Church (1080p)
 Entertainment Tonight (1080p)
 EntrepreneurTV (720p)
+ESPN Deportes HD (720p)
 ESPNews (720p)
 ESPNU HD (720p)
 EWTN (720p) [Geo-blocked]
@@ -478,9 +476,9 @@ HCTV Public Access Channel
 Heartland
 Heartland (720p)
 Hi-YAH! (1080p)
-High Vision (1080p) [Not 24/7]
 Hillsborough County TV HTV (Hillsborough County FL) (360p)
 His Glory TV (1080p)
+History (720p)
 History Hit (1080p)
 HMI PROMZ NEWS (720p)
 Hmong Star TV (720p) [Not 24/7]
@@ -662,6 +660,7 @@ NAT TV (1080p)
 Natick Education Channel (720p)
 Natick Government Channel (720p)
 Natick Public Access Channel (720p)
+National Geographic (720p)
 National Geographic HD East (720p)
 National Geographic Wild HD East (720p)
 NBA TV (1080p)
@@ -694,8 +693,12 @@ NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
+News12 Westchester [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 Newsy (1080p)
@@ -993,7 +996,6 @@ True Crime Network+ (1080p) [Geo-blocked]
 True Crime Now (1080p)
 True History (720p)
 TSTV (720p)
-TUTV (1080p)
 TV Daja (1080p) [Not 24/7]
 TV Hispanic [Not 24/7]
 TV Land Drama
@@ -1048,7 +1050,6 @@ Vegas Life TV (1080p)
 Vevo Hip Hop (1080p)
 Vevo R&B (1080p)
 Vevo True School Hip-Hop
-VH1 Queens of Reality
 VICE TV (1080p)
 Video Mix TV
 Village of Hastings-On-Hudson NY (WHOH-TV) (360p)
@@ -1071,9 +1072,7 @@ WDEF-TV News Chattanooga TN (720p)
 We TV (720p)
 WeatherSpy (720p)
 WEDQ-DT4 (1080p)
-Weeds / Nurse Jackie (720p)
 West Hollywood WeHoTV (West Hollywood CA) (360p)
-Western TV
 Westerns 4U (1080p)
 WFLD-DT1 (1080p)
 WFTX News Fort Myers FL (720p)
@@ -1089,12 +1088,10 @@ Whiplash II (480p)
 White Plains Community Media (360p)
 Whittier CityTV (Whittier CA) (720p)
 WHPS Detroit
-Wild 'N Out
 Willow (720p)
 Willow Sports (1080p)
 Window TV (720p)
 Wine Watches Whiskey (1080p)
-Wipeout
 Wipeout Xtra (1080p)
 Wired2Fish (720p) [Geo-blocked]
 WITI-DT1 (1080p)
@@ -1128,14 +1125,12 @@ WVVH-CD 18.1 (720p)
 WWON TV CH 48
 WXXV-TV News (Biloxi MS) (720p)
 XFC TV (720p)
-XITE Classic Country (720p)
 XITE Just Chill (1080p)
 XITE Reggae Vibes (1080p)
 XITE Rock x Metal (1080p)
 Xplore (1080p)
 Yahoo! Finance (1080p)
 Yes Network (720p)
-Yo! MTV (1080p)
 YouDotGov
 Young Hollywood (720p)
 YTA TV (720p)
