@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1136 channels currently shown in the app
-(excluded: 68 non-English, 108 manually, 158 not responding)
+1146 channels currently shown in the app
+(excluded: 71 non-English, 108 manually, 152 not responding)
 ============================================================
 
 00s Replay
@@ -31,6 +31,7 @@ US Open TV -- Channel List
 90s Kids TV 2
 90s Throwback
 A&E (720p)
+AABC TV (480p)
 ABC (1080p)
 ABC (WPLG-DT1) Miami FL (720p)
 ABC 10 Duluth MN (WDIO) (1080p)
@@ -303,8 +304,9 @@ Cloudflare TV (720p)
 CMC-USA Country Music Channel (720p)
 CMT (720p)
 CMT Equal Play (720p)
-CNBC (720p) [Geo-blocked]
+CNBC (720p)
 Cold Case Files (1080p)
+Comedy Central (720p)
 Comedy Central Animation
 Comedy Central Pluto TV
 Comet (1080p)
@@ -353,6 +355,7 @@ Detroit Channel 21
 Detroit Channel 22
 Detroit Channel 68
 Disney Channel (720p) [Geo-blocked]
+Disney Channel HD East (720p)
 Disney Junior (720p)
 Disney XD (720p)
 District of Columbia Network (DCN) (1080p)
@@ -374,7 +377,6 @@ Entertainment Tonight (1080p)
 EntrepreneurTV (720p)
 ESPN Deportes HD (720p)
 ESPNews (720p)
-ESPNU HD (720p)
 EWTN (720p) [Geo-blocked]
 F1 Channel (1080p) [Geo-blocked]
 Failarmy International (720p)
@@ -409,7 +411,6 @@ FOX 45 Baltimore MD (WBFF) (1080p)
 Fox News Channel (720p)
 Fox News Radio (720p)
 Fox Soul (1080p)
-Fox Sports 1 (720p)
 Fox Sports 2 (720p)
 Fox Weather (720p)
 Free Speech TV (720p)
@@ -558,6 +559,7 @@ KVVB-TV 33 Victor Valley (1080p) [Not 24/7]
 KZTV-DT1 (720p)
 Lacrosse TV (720p)
 Laff (576p)
+Laff WJLP (576p)
 Lakewood CityTV (720p)
 Las Vegas Tonight with Dale Davidson (1080p)
 LATV (1080p) [Geo-blocked]
@@ -571,6 +573,7 @@ Lex TV (720p)
 LHCAZTV
 Life! Christian Broadcasting Network (360p)
 LIFE! End Times TV (360p)
+Lifetime (720p)
 LifevisionTV (406p) [Not 24/7]
 Lighting Lives Blessing Nations His Light (LLBN) (720p)
 Lighting Lives Blessing Nations His Word (LLBN) (720p)
@@ -650,6 +653,7 @@ MTV Live (720p)
 MTV Pluto TV
 MTV Spankin' New (1080p)
 MTV2 (720p)
+Muslim Network TV
 Mystery Science Theater 3000 (1080p)
 MyTime Movie Network (1080p)
 myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
@@ -692,13 +696,8 @@ New Canaan Television 79 (NCTV79) (New Canaan CT) (1080p)
 NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
-News12 Bronx [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
-News12 Westchester [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
-News12+ New York (1080p) [Geo-blocked]
+News12 Conneticut [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 Newsy (1080p)
@@ -744,6 +743,7 @@ Pacific Coast TV MWSD Channel 26 (720p)
 Pacific Island Network (1080p)
 Palm Beaches TV (720p)
 Paramount Movie Channel
+Paramount Network (720p)
 Paramount+ Picks
 Payam Javan TV (720p) [Not 24/7]
 Payam-e-Afghan TV (480p) [Not 24/7]
@@ -765,6 +765,7 @@ PBS Nature (1080p)
 PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]
 PBS Sedalia British Columbia MO (KMOS) (1080p) [Geo-blocked]
 PBS Travel (1080p)
+PBS WNET (720p)
 People Are Awesome (720p)
 Peppa Pig
 Perry Mason
@@ -996,6 +997,7 @@ True Crime Network+ (1080p) [Geo-blocked]
 True Crime Now (1080p)
 True History (720p)
 TSTV (720p)
+TUTV (1080p)
 TV Daja (1080p) [Not 24/7]
 TV Hispanic [Not 24/7]
 TV Land Drama
@@ -1050,6 +1052,8 @@ Vegas Life TV (1080p)
 Vevo Hip Hop (1080p)
 Vevo R&B (1080p)
 Vevo True School Hip-Hop
+VH1 (720p)
+VH1 Queens of Reality
 VICE TV (1080p)
 Video Mix TV
 Village of Hastings-On-Hudson NY (WHOH-TV) (360p)
@@ -1072,7 +1076,9 @@ WDEF-TV News Chattanooga TN (720p)
 We TV (720p)
 WeatherSpy (720p)
 WEDQ-DT4 (1080p)
+Weeds / Nurse Jackie (720p)
 West Hollywood WeHoTV (West Hollywood CA) (360p)
+Western TV
 Westerns 4U (1080p)
 WFLD-DT1 (1080p)
 WFTX News Fort Myers FL (720p)
@@ -1088,10 +1094,12 @@ Whiplash II (480p)
 White Plains Community Media (360p)
 Whittier CityTV (Whittier CA) (720p)
 WHPS Detroit
+Wild 'N Out
 Willow (720p)
 Willow Sports (1080p)
 Window TV (720p)
 Wine Watches Whiskey (1080p)
+Wipeout
 Wipeout Xtra (1080p)
 Wired2Fish (720p) [Geo-blocked]
 WITI-DT1 (1080p)
@@ -1125,12 +1133,14 @@ WVVH-CD 18.1 (720p)
 WWON TV CH 48
 WXXV-TV News (Biloxi MS) (720p)
 XFC TV (720p)
+XITE Classic Country (720p)
 XITE Just Chill (1080p)
 XITE Reggae Vibes (1080p)
 XITE Rock x Metal (1080p)
 Xplore (1080p)
 Yahoo! Finance (1080p)
 Yes Network (720p)
+Yo! MTV (1080p)
 YouDotGov
 Young Hollywood (720p)
 YTA TV (720p)
