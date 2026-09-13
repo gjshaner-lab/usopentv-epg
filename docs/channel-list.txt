@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1151 channels currently shown in the app
-(excluded: 71 non-English, 108 manually, 145 not responding)
+1148 channels currently shown in the app
+(excluded: 71 non-English, 108 manually, 148 not responding)
 ============================================================
 
 00s Replay
@@ -195,8 +195,6 @@ Black Family Sitcoms
 Black Ink Crew
 Black News Channel (1080p)
 Blaze Live (720p)
-Bloomberg Originals (1080p)
-Bloomberg Originals (1080p)
 Bloomberg TV (1080p)
 Bloomberg TV US Live Event (720p)
 Bloomberg TV US Politics Live Event (720p)
@@ -560,7 +558,6 @@ KVVB-TV 33 Victor Valley (1080p) [Not 24/7]
 KZTV-DT1 (720p)
 Lacrosse TV (720p)
 Laff (576p)
-Laff WJLP (576p)
 Lakewood CityTV (720p)
 Las Vegas Tonight with Dale Davidson (1080p)
 LATV (1080p) [Geo-blocked]
@@ -586,7 +583,6 @@ Little Stars Universe
 Live Music
 LiveNOW from FOX (720p)
 LiveXLive (1080p)
-Living Faith TV (540p)
 Localish (1080p)
 Logo Pluto TV
 Logos TV (1080p) [Not 24/7]
@@ -645,8 +641,6 @@ MotorTrend FAST TV (720p)
 Movies! KPVM-LD
 MovieSphere (1080p)
 Mr. Bean Animated (1080p)
-MRVTV Channel 44 (720p)
-MRVTV Channel 45 (720p)
 MSG (720p)
 MST3K (1080p)
 MTV (1080p)
@@ -700,7 +694,10 @@ NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
 News12 Conneticut [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
+News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
@@ -1037,6 +1034,7 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
+TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
@@ -1077,7 +1075,6 @@ WBRZ Weather Channel Baton Rouge LA (480p)
 WBTV News (720p)
 WCBI (Columbus MI) (720p)
 WCETV Digital Channel 31.8
-WCOT 13 (Tallahassee FL) (720p)
 WDEF-TV News Chattanooga TN (720p)
 WeatherSpy (720p)
 WEDQ-DT4 (1080p)
