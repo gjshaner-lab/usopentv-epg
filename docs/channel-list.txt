@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1138 channels currently shown in the app
-(excluded: 71 non-English, 108 manually, 157 not responding)
+1134 channels currently shown in the app
+(excluded: 70 non-English, 108 manually, 160 not responding)
 ============================================================
 
 00s Replay
@@ -237,6 +237,7 @@ CBS 3 Omaha NE (KMTV) (720p)
 CBS 6 Richmond VA (WTVR) (720p)
 CBS 8 Des Moines IA (KCCI) (720p)
 CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]
+CBS KMOV (1080p)
 CBS News 24/7 (720p)
 CBS News Baltimore (720p)
 CBS News Bay Area (720p)
@@ -670,7 +671,6 @@ NBC 8 Salinas CA (KSBW) (720p)
 NBC 9 Steubenville OH (WTOV) (1080p)
 NBC Comedy Vault (1080p)
 NBC LX Home (1080p)
-NBC Sports Philadelphia (1080p) [Geo-blocked]
 NBC Universo West (720p)
 NBC West (San Diego) (1080p) [Not 24/7]
 NBCLX (1080p)
@@ -682,13 +682,9 @@ NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
 News12 New Jersey [Geo-blocked]
 News12 Westchester [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
 News12+ New Jersey (1080p) [Geo-blocked]
-News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 Newsy (1080p)
@@ -1024,11 +1020,11 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
-TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
 TVS Western Movie (270p)
+TVS Women Sports (720p)
 TVSA Government Channel (720p)
 TVSA Public Channel (720p)
 TVSConsumerDirect (720p)
