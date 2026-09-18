@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1099 channels currently shown in the app
-(excluded: 70 non-English, 108 manually, 195 not responding)
+1081 channels currently shown in the app
+(excluded: 70 non-English, 108 manually, 213 not responding)
 ============================================================
 
 00s Replay
@@ -31,6 +31,7 @@ US Open TV -- Channel List
 90s Kids TV 2
 90s Throwback
 A&E (720p)
+AABC TV (480p)
 ABC (1080p)
 ABC (WPLG-DT1) Miami FL (720p)
 ABC 10 Duluth MN (WDIO) (1080p)
@@ -115,6 +116,7 @@ America's Voice (720p)
 America's Voice News (720p)
 American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
+Amga TV (720p) [Not 24/7]
 Amu TV
 Anger Management Channel (1080p)
 Animation+ (1080p) [Geo-blocked]
@@ -141,6 +143,7 @@ AWE International (720p)
 AWE Plus (720p)
 AXS TV (720p)
 Baby Shark TV (1080p)
+BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -183,8 +186,6 @@ Black Family Sitcoms
 Black Ink Crew
 Black News Channel (1080p)
 Blaze Live (720p)
-Bloomberg Originals (1080p)
-Bloomberg Originals (1080p)
 Bloomberg TV (1080p)
 Bloomberg TV US Live Event (720p)
 Bloomberg TV US Politics Live Event (720p)
@@ -309,7 +310,6 @@ CT-N TV Conneticut (720p) [Not 24/7]
 CTN (720p)
 Curiosity Now (1080p)
 CVTV Channel 192 (1080p)
-CVTV Channel 194 (1080p)
 Cypress Public Access Channel 36 (Cypress CA) (360p)
 DangerTV (720p)
 Dark Matter TV (720p)
@@ -323,7 +323,6 @@ Deal or No Deal (1080p)
 Degrassi (720p)
 Denver 8 TV (Denver CO) (720p)
 DerryTV 17 (720p)
-DerryTV 23 (720p)
 Designated Survivor (1080p) [Geo-blocked]
 Detroit Channel 10
 Detroit Channel 21
@@ -350,7 +349,6 @@ Electric Now (720p)
 Elevation Church (1080p)
 Entertainment Tonight (1080p)
 EntrepreneurTV (720p)
-ESPN Deportes HD (720p)
 ESPNews (720p)
 ESPNU HD (720p)
 EWTN (720p) [Geo-blocked]
@@ -410,8 +408,6 @@ Gillette Public Access Television Channel 190
 Gillette Public Access Television Channel 192
 Gilroy CMAP TV Channel 17 (720p)
 Gilroy CMAP TV Channel 18 (720p)
-Gilroy CMAP TV Channel 19 (720p)
-Gilroy CMAP TV Channel 20 (720p)
 Girlfriends
 Glendale 11 AZ (360p)
 Global Christian Network America (GCN) (720p)
@@ -495,7 +491,6 @@ K Content by CJ ENM (1080p)
 Kajou TV (720p) [Not 24/7]
 Kaloopy TV (1080p)
 Kartoon Channel (1080p)
-KCAT Public Media TV (1080p)
 KCKS-LD 25.3 (720p)
 KDFW-DT1 (1080p)
 Kern County Television
@@ -555,8 +550,6 @@ Logos TV (1080p) [Not 24/7]
 Logos TV (1080p) [Not 24/7]
 Logos TV English (1080p) [Not 24/7]
 Logos TV Kids (720p) [Not 24/7]
-Lompoc TAP TV Channel 23 (720p)
-Lompoc TAP TV Channel 24 (720p)
 Lompoc TAP TV Channel 25 (720p)
 Lone Star (1080p)
 Los Angeles Local Television Channel 36 (1080p)
@@ -594,8 +587,6 @@ Mission TV (1080p) [Not 24/7]
 MLB (720p)
 MLB Strike Zone (720p)
 Mobile County Public Schools TV Network (MCPSS)
-Monroe Community Media Education Channel
-Monroe Community Media Public Access Channel
 Monroe County Television MCTV (Monroe County FL) (1080p)
 More True Crime
 More TV Drama
@@ -604,8 +595,6 @@ MotorTrend FAST TV (720p)
 Movies! KPVM-LD
 MovieSphere (1080p)
 Mr. Bean Animated (1080p)
-MRVTV Channel 44 (720p)
-MRVTV Channel 45 (720p)
 MSG (720p)
 MST3K (1080p)
 MTV (1080p)
@@ -653,11 +642,8 @@ NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
-News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 Newsy (1080p)
@@ -813,10 +799,6 @@ RTN
 RTR Planeta USA (720p) [Geo-blocked]
 Runtime (720p)
 RVTV (1080p)
-RVTV Civic (720p)
-RVTV Grants Pass (720p)
-RVTV Prime (720p)
-RVTV Voices (720p)
 Ryan and Friends (1080p)
 S Free! (360p)
 S Premium! (360p)
@@ -891,7 +873,6 @@ TBN Pacific
 TCT (1080p)
 TED (1080p)
 Teen Mom
-Temecula TV (Temecula CA) (1080p)
 Tempe Channel 11
 Tennis Channel (1080p)
 Tennis Channel 2 (1080p)
@@ -994,6 +975,7 @@ TVS Vintage Network (360p)
 TVS Western Movie (270p)
 TVS Women Sports (720p)
 TVSA Government Channel (720p)
+TVSA Public Channel (720p)
 TVSConsumerDirect (720p)
 UCTV University of California (720p) [Not 24/7]
 Unidentified (1080p)
