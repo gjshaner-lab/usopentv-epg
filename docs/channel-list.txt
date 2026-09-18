@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1095 channels currently shown in the app
-(excluded: 70 non-English, 108 manually, 199 not responding)
+1099 channels currently shown in the app
+(excluded: 70 non-English, 108 manually, 195 not responding)
 ============================================================
 
 00s Replay
@@ -31,7 +31,6 @@ US Open TV -- Channel List
 90s Kids TV 2
 90s Throwback
 A&E (720p)
-AABC TV (480p)
 ABC (1080p)
 ABC (WPLG-DT1) Miami FL (720p)
 ABC 10 Duluth MN (WDIO) (1080p)
@@ -116,7 +115,6 @@ America's Voice (720p)
 America's Voice News (720p)
 American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
-Amga TV (720p) [Not 24/7]
 Amu TV
 Anger Management Channel (1080p)
 Animation+ (1080p) [Geo-blocked]
@@ -137,14 +135,12 @@ Atlas (480p)
 ATXN1 (1080p)
 ATXN2 (1080p)
 ATXN3 (1080p)
-AuroraTV (Aurora CO) (720p)
 AVI Rewind (1080p)
 AWE (720p)
 AWE International (720p)
 AWE Plus (720p)
 AXS TV (720p)
 Baby Shark TV (1080p)
-BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -187,6 +183,8 @@ Black Family Sitcoms
 Black Ink Crew
 Black News Channel (1080p)
 Blaze Live (720p)
+Bloomberg Originals (1080p)
+Bloomberg Originals (1080p)
 Bloomberg TV (1080p)
 Bloomberg TV US Live Event (720p)
 Bloomberg TV US Politics Live Event (720p)
@@ -654,7 +652,12 @@ NEW KMOVIES (1080p)
 NEW KPOP (1080p)
 News 12 New York (1080p)
 News12 Bronx [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
+News12 Conneticut [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
 News12 Westchester [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax TV (720p)
 Newsy (1080p)
@@ -726,6 +729,7 @@ PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]
 PBS Sedalia British Columbia MO (KMOS) (1080p) [Geo-blocked]
 PBS Travel (1080p)
 PBS WNET (720p)
+People Are Awesome (1080p)
 Peppa Pig
 Perry Mason
 PGA Tour (1080p)
@@ -983,13 +987,13 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
+TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
 TVS Western Movie (270p)
 TVS Women Sports (720p)
 TVSA Government Channel (720p)
-TVSA Public Channel (720p)
 TVSConsumerDirect (720p)
 UCTV University of California (720p) [Not 24/7]
 Unidentified (1080p)
