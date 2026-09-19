@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1097 channels currently shown in the app
-(excluded: 70 non-English, 77 manually, 227 not responding)
+1106 channels currently shown in the app
+(excluded: 70 non-English, 77 manually, 217 not responding)
 ============================================================
 
 00s Replay
@@ -144,10 +144,8 @@ Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
 Battlestar Galactica
-BATV (480p)
 BATV Educational Channel
 BATV Government Channel
-BATV Government TV (480p)
 BATV Public Channel
 BBC America (720p)
 BBC Earth US (1080p)
@@ -176,6 +174,7 @@ BHTV35 (720p)
 Big Brother
 BIG Civic Channel
 BIG Community Channel
+Big Ten Network (720p)
 Billiard TV (1080p) [Geo-blocked]
 Binge
 Biz TV (1080p)
@@ -191,6 +190,7 @@ Blue Bloods (United States)
 BMC-HD TV (720p)
 bon appetit (1080p)
 Bonanza
+Bounce (720p)
 Bounce XL (1080p)
 BPX TV Radio
 Brat TV (1080p)
@@ -286,6 +286,7 @@ CMAP Channel 18 (720p)
 CMAP Channel 19 (720p)
 CMAP Channel 20 (720p)
 CMC-USA Country Music Channel (720p)
+CMT (720p)
 CMT Equal Play (720p)
 CMTV (720p)
 CNBC (720p)
@@ -350,8 +351,9 @@ Detroit Channel 10
 Detroit Channel 21
 Detroit Channel 22
 Detroit Channel 68
-Disney Channel (United States) (720p) [Geo-blocked]
 Disney Channel (United States) HD East (720p)
+Disney Junior (United States) (720p)
+Disney XD (United States) (720p)
 District of Columbia Network (1080p)
 Diya TV (1080p)
 DKN (1080p)
@@ -427,6 +429,7 @@ FTF Sports (720p)
 Fubo Sports Network (1080p)
 Fun Roads (720p)
 Funny AF (United States)
+Fuse (1080p)
 G10TV (1080p)
 Gagsnetwork (576p)
 Galxy TV (720p)
@@ -472,7 +475,6 @@ Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
 His Glory TV (1080p)
-History (United States) (720p)
 History Hit (1080p)
 HMI PROMZ NEWS (720p)
 Hmong Star TV (720p) [Not 24/7]
@@ -494,6 +496,7 @@ HTV 2 Houston Television (720p)
 Hungry (720p)
 I Love Lucy
 iCarly (United States) SD
+IFC (1080p)
 iHolyfield TV WHPS-CD
 Impact Network (720p)
 Impossible Quiz Show (1080p)
@@ -503,6 +506,7 @@ Instant Saga
 Investiga US
 INWILD (1080p)
 ION Plus (1080p)
+ION TV (720p)
 IraneFarda TV
 Iron Chef
 It Is Written TV (1080p)
@@ -540,7 +544,6 @@ KRGV-TV 5.2 [Geo-blocked]
 KSCE 38.1 (360p)
 KSCE 38.3 (360p)
 KVTN-DT 25.1 (720p)
-LA36 (1080p)
 Lacrosse TV (720p)
 Laff WJLP (576p)
 Lake Havasu City 4
@@ -621,9 +624,12 @@ MovieSphere Gold WFXT (1080p)
 Mr Bean Animated (1080p)
 MRVTV Channel 44 (720p)
 MRVTV Channel 45 (720p)
+MSG (720p)
 MST3K (1080p)
 MTC
+MTV (United States) (1080p)
 MTV Biggest Pop (1080p)
+MTV Live (720p)
 MTV Pluto TV (United States)
 MTV Spankin' New (1080p)
 MTV2 (720p)
@@ -637,7 +643,6 @@ NAT TV (1080p)
 Natick Education Channel (720p)
 Natick Government Channel (720p)
 Natick Public Access Channel (720p)
-National Geographic (United States) (720p)
 National Geographic (United States) HD East (720p)
 National Geographic Wild (United States) HD East (720p)
 NBA TV (1080p)
@@ -666,12 +671,11 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Hudson Valley [Geo-blocked]
-News12 New Jersey [Geo-blocked]
+News12 Bronx [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
 News12 New York (1080p)
-News12 Westchester [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -679,7 +683,6 @@ Newsy (1080p)
 NFL Channel (720p)
 NHL Network (1080p)
 NHRA TV (1080p)
-Nick Jr. (United States) (720p)
 Nick Jr. Pluto TV (720p)
 Nickelodeon (United States) (720p)
 Nickelodeon Pluto TV (720p)
@@ -705,6 +708,7 @@ OnTV4U (1080p) [Geo-blocked]
 Orange Government Access TV (720p)
 Outdoor America (1080p)
 Outdoor Channel (1080p)
+Outdoor Channel HD (720p)
 OuterSphere (1080p)
 Outlaw WGGS-TV (720p)
 Outside TV (1080p)
@@ -825,6 +829,7 @@ Real America's Voice KPVM-LD
 Real Wild (1080p)
 Red Apple 21 (480p) [Not 24/7]
 RedADvenir TV KSCE (360p)
+Reelz (720p)
 Retro TV (720p)
 RetroCrush (1080p)
 Reuters TV (1080p)
@@ -853,9 +858,11 @@ Samsung Wildlife (720p) [Geo-blocked]
 SBN TV (720p)
 SC Currents
 Schwab Network (1080p)
+Scientology Network KSCN-TV
 Scottsdale Channel 11
 Screen Dreams (720p)
 Scripps News (1080p)
+SEC Network (1080p)
 SFGovTV (720p)
 SFGovTV2 (720p)
 SGTN-49 (720p)
@@ -905,6 +912,7 @@ Survivor (1080p)
 Swamiji TV American (1080p) [Not 24/7]
 Swerve Combat (1080p)
 Swerve Sports (720p)
+SYFY (720p)
 Talkin Live Classics TV (480p)
 TAP TV Channel 23 (720p)
 TAP TV Channel 24 (720p)
@@ -1015,7 +1023,6 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
-TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
@@ -1039,6 +1046,7 @@ Vevo R&B (1080p)
 Vevo True School Hip-Hop
 VH1 (720p)
 VH1 Queens of Reality
+VICE TV (1080p)
 Video Mix TV
 VoA TV (1080p)
 VSiN (720p)
@@ -1090,6 +1098,7 @@ XITE Reggae Vibes (1080p)
 XITE Rock x Metal (1080p)
 Xplore TV (1080p)
 Yahoo! Finance (1080p)
+Yes Network (720p)
 Yo! MTV (1080p)
 YouDotGov
 Young Hollywood (720p)
