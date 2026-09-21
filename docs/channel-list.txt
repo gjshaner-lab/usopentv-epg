@@ -455,6 +455,7 @@ Gunsmoke
 Happy Days (United States)
 HappyKids (1080p)
 Harmony Gospel Music TV (1080p)
+Harvest USA (576p)
 Hasbro Legends (1080p) [Geo-blocked]
 HauntTV (1080p)
 HBO Hits East HD (720p)
@@ -523,7 +524,6 @@ Kern County TV
 Kids Movie Club
 KidsFlix (1080p) [Not 24/7]
 KIIO-LD 10.1
-KIIO-LD 10.4 (480p)
 KMCT-TV 39.1
 KNOV-CD 41.1 (720p)
 KNXV-TV 61.1 (720p)
@@ -633,6 +633,7 @@ Natick Education Channel (720p)
 Natick Government Channel (720p)
 Natick Public Access Channel (720p)
 National Geographic (United States) (720p)
+National Geographic (United States) HD East (720p)
 National Geographic Wild (United States) HD East (720p)
 NBA TV (1080p)
 NBC (1080p)
@@ -660,12 +661,9 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Hudson Valley [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
 News12 New York (1080p)
-News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
+News12 Westchester [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -675,6 +673,7 @@ NHL Network (1080p)
 NHRA TV (1080p)
 Nick Jr. (United States) (720p)
 Nick Jr. Pluto TV (720p)
+Nickelodeon (United States) (720p)
 Nickelodeon Pluto TV (720p)
 Nicktoons (United States) (720p)
 Ninja Kidz TV (720p)
@@ -740,6 +739,7 @@ PCT Channel 26 (720p)
 PCT Channel 27 (720p)
 PCTV 26 (480p)
 PCTV 28 (480p)
+People Are Awesome (1080p)
 Peppa Pig
 Perry Mason (United States)
 PGA Tour (1080p)
