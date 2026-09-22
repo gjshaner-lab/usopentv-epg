@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1099 channels currently shown in the app
-(excluded: 71 non-English, 77 manually, 224 not responding)
+1094 channels currently shown in the app
+(excluded: 71 non-English, 77 manually, 229 not responding)
 ============================================================
 
 00s Replay
@@ -346,7 +346,6 @@ Detroit Channel 10
 Detroit Channel 21
 Detroit Channel 22
 Detroit Channel 68
-Disney Channel (United States) (720p) [Geo-blocked]
 Disney Channel (United States) HD East (720p)
 Disney XD (United States) (720p)
 District of Columbia Network (1080p)
@@ -466,7 +465,6 @@ Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
 His Glory TV (1080p)
-History (United States) (720p)
 History Hit (1080p)
 HMI PROMZ NEWS (720p)
 Hmong Star TV (720p) [Not 24/7]
@@ -633,7 +631,6 @@ NAT TV (1080p)
 Natick Education Channel (720p)
 Natick Government Channel (720p)
 Natick Public Access Channel (720p)
-National Geographic (United States) (720p)
 National Geographic (United States) HD East (720p)
 National Geographic Wild (United States) HD East (720p)
 NBA TV (1080p)
@@ -662,12 +659,11 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Hudson Valley [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
+News12 Bronx [Geo-blocked]
+News12 Conneticut [Geo-blocked]
 News12 New York (1080p)
-News12 Westchester [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -675,7 +671,6 @@ Newsy (1080p)
 NFL Channel (720p)
 NHL Network (1080p)
 NHRA TV (1080p)
-Nick Jr. (United States) (720p)
 Nick Jr. Pluto TV (720p)
 Nickelodeon (United States) (720p)
 Nickelodeon Pluto TV (720p)
@@ -1015,11 +1010,11 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
-TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
 TVS Western Movie (270p)
+TVS Women Sports (720p)
 TVSA Government Channel (720p)
 TVSA Public Channel (720p)
 UCTV (720p) [Not 24/7]
