@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1099 channels currently shown in the app
-(excluded: 71 non-English, 77 manually, 224 not responding)
+1092 channels currently shown in the app
+(excluded: 71 non-English, 77 manually, 231 not responding)
 ============================================================
 
 00s Replay
@@ -70,7 +70,6 @@ Absolute Reality by WE TV
 Acapulco Shore US
 ACC Digital Network (1080p)
 ACC Network (720p)
-Access 4 PAC
 Access Humboldt (1080p)
 Access Nashua (720p)
 AccessVision Channel 16 (720p)
@@ -106,12 +105,13 @@ Always Funny Videos (720p)
 Amazing Facts TV (1080p)
 AMC (United States) (720p)
 AMC (United States) East (720p)
-America's Next Top Model (United States)
+America's Next Top Model
 America's Test Kitchen (720p)
 America's Voice (720p)
 America's Voice News (720p)
 American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
+AMGA TV (720p) [Not 24/7]
 AMP 1 (720p)
 AMP 2 (720p)
 Amu TV
@@ -165,7 +165,7 @@ Better Health TV (480p)
 Better Life Nature Channel (480p)
 Better Life TV (720p)
 Beverly Hillbillies
-Beverly Hills 90210 (United States)
+Beverly Hills 90210
 Beyond the Gates
 BHTV10 (720p)
 BHTV35 (720p)
@@ -182,7 +182,7 @@ Bloomberg Originals (1080p)
 Bloomberg TV (1080p)
 Bloomberg TV Live Event (720p)
 Bloomberg TV Politics Live Event (720p)
-Blue Bloods (United States)
+Blue Bloods
 BMC-HD TV (720p)
 bon appetit (1080p)
 Bonanza
@@ -244,7 +244,6 @@ Celebrity Scene TV (720p)
 Cerritos TV3 (360p)
 CFM TV Channel 98 (360p)
 Channel 10 (United States) (720p)
-Channel 18 GAC
 Channel One (United States)
 Charge! (1080p)
 Cheddar News (1080p)
@@ -259,7 +258,6 @@ CinePride (720p)
 Cinevault Westerns (540p) [Geo-blocked]
 Circle (1080p)
 City of Fort Pierce (720p)
-City of Loveland TV (1080p)
 City of Pompano Beach (720p)
 City TV Carlsbad (720p)
 City TV Channel 3/41 (360p)
@@ -290,7 +288,6 @@ Comedy Central Animation
 Comedy Central Pluto TV
 Comet (1080p)
 Community 12TV (720p)
-CommunityTV Channel 189 (1080p) [Geo-blocked]
 Concert Channel (720p)
 Cooking Panda (576p)
 Cops (720p)
@@ -358,7 +355,7 @@ DraftKings Network (1080p)
 Dry Bar Comedy+ (720p)
 Duck Hunting TV (1080p)
 Dungeon TV (720p)
-Dynasty (United States)
+Dynasty
 E! East (1080p)
 El Sembrador Nueva Evangelizacion ESNE
 Elbeshara GTV (1080p) [Not 24/7]
@@ -418,7 +415,7 @@ FrightFlix (720p)
 FTF Sports (720p)
 Fubo Sports Network (1080p)
 Fun Roads (720p)
-Funny AF (United States)
+Funny AF
 Fuse (1080p)
 FX (United States) East HD (720p)
 Galxy TV (720p)
@@ -522,6 +519,7 @@ Kern County TV
 Kids Movie Club
 KidsFlix (1080p) [Not 24/7]
 KIIO-LD 10.1
+KIIO-LD 10.4 (480p)
 KMCT-TV 39.1
 KNOV-CD 41.1 (720p)
 KNXV-TV 61.1 (720p)
@@ -618,7 +616,7 @@ MTC
 MTV (United States) (1080p)
 MTV Biggest Pop (1080p)
 MTV Live (720p)
-MTV Pluto TV (United States)
+MTV Pluto TV
 MTV Spankin' New (1080p)
 MTV2 (720p)
 Muslim Network TV
@@ -661,14 +659,9 @@ NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx [Geo-blocked]
-News12 Brooklyn [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
+News12 New Jersey [Geo-blocked]
 News12 New York (1080p)
-News12 Westchester [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
-News12+ New York (1080p) [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -747,7 +740,7 @@ PCTV 26 (480p)
 PCTV 28 (480p)
 People Are Awesome (1080p)
 Peppa Pig
-Perry Mason (United States)
+Perry Mason
 PGA Tour (1080p)
 PhillyCAM (720p)
 PHLgovTV (720p)
@@ -756,24 +749,24 @@ PixL TV
 Placid (1080p) [Not 24/7]
 Pluto TV Action (United States)
 Pluto TV Adventure
-Pluto TV Anime (United States)
+Pluto TV Anime
 Pluto TV Anime Movies
 Pluto TV Backcountry
 Pluto TV Cars
 Pluto TV Cine Comedia (United States)
 Pluto TV Comedy
 Pluto TV Competition
-Pluto TV Crime Drama (United States)
+Pluto TV Crime Drama
 Pluto TV Crime Movies
 Pluto TV Cult Films (United States)
 Pluto TV Dog el cazarrecompensas
-Pluto TV Drama (United States)
+Pluto TV Drama
 Pluto TV El Reino Infantil
 Pluto TV Estrellas de Accion
 Pluto TV Fantastic
 Pluto TV Franchise Favorites
 Pluto TV Game Shows
-Pluto TV History (United States)
+Pluto TV History
 Pluto TV Hometown Drama
 Pluto TV Horror (United States)
 Pluto TV Icons
