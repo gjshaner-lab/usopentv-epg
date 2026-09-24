@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1086 channels currently shown in the app
-(excluded: 71 non-English, 77 manually, 237 not responding)
+1078 channels currently shown in the app
+(excluded: 71 non-English, 77 manually, 236 not responding)
 ============================================================
 
 00s Replay
@@ -170,7 +170,6 @@ Beyond the Gates
 BHTV10 (720p)
 BHTV35 (720p)
 Big Brother
-Big Ten Network (720p)
 Billiard TV (1080p) [Geo-blocked]
 Binge
 Biz TV (1080p)
@@ -186,7 +185,6 @@ Blue Bloods
 BMC-HD TV (720p)
 bon appetit (1080p)
 Bonanza
-Bounce (720p)
 Bounce XL (1080p)
 BPX TV Radio
 Brat TV (1080p)
@@ -313,11 +311,6 @@ CVC Government (480p)
 CVC Public (480p)
 CVTV Channel 192 (1080p)
 CVTV Channel 194 (1080p)
-CW KCRA-TV (720p)
-CW KTNV-TV (720p)
-CW KTVU (720p)
-CW WMPT (1080p)
-CW WXII-TV (720p)
 Cypress Channel 36 (360p)
 Danger TV (720p)
 Dare To Dream Network
@@ -335,6 +328,7 @@ Denver 8 TV (720p)
 DerryTV 17 (720p)
 DerryTV 23 (720p)
 Designated Survivor (1080p) [Geo-blocked]
+Disney Channel (United States) (720p) [Geo-blocked]
 Disney Channel (United States) HD East (720p)
 Disney XD (United States) (720p)
 District of Columbia Network (1080p)
@@ -453,6 +447,7 @@ Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
 His Glory TV (1080p)
+History (United States) (720p)
 History Hit (1080p)
 HMI PROMZ NEWS (720p)
 Hmong Star TV (720p) [Not 24/7]
@@ -522,7 +517,6 @@ KSCE 38.1 (360p)
 KSCE 38.3 (360p)
 KVTN-DT 25.1 (720p)
 Lacrosse TV (720p)
-Laff WJLP (576p)
 Lake Havasu City 4
 Las Vegas Tonight with Dale Davidson (1080p)
 LATV (1080p) [Geo-blocked]
@@ -585,7 +579,6 @@ Midpen Media Center Channel 30 (720p)
 Midpen Media Center Channel 75 (720p)
 Midsomer Murders (1080p)
 Mission Impossible (United States)
-Mission TV (1080p) [Not 24/7]
 MLB (720p)
 MLB Strike Zone (720p)
 MNT WCIV (1080p)
@@ -619,6 +612,8 @@ Nashua ETV (720p)
 NAT TV (1080p)
 Natick Education Channel (720p)
 Natick Government Channel (720p)
+Natick Public Access Channel (720p)
+National Geographic (United States) (720p)
 National Geographic (United States) HD East (720p)
 National Geographic Wild (United States) HD East (720p)
 NBA TV (1080p)
@@ -647,12 +642,11 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
 News12 New York (1080p)
-News12+ Long Island (1080p) [Geo-blocked]
+News12 Westchester [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -660,6 +654,7 @@ Newsy (1080p)
 NFL Channel (720p)
 NHL Network (1080p)
 NHRA TV (1080p)
+Nick Jr. (United States) (720p)
 Nick Jr. Pluto TV (720p)
 Nickelodeon (United States) (720p)
 Nickelodeon Pluto TV (720p)
@@ -789,7 +784,6 @@ Positiv TV (1080p)
 Potta-Divine TV USA (480p)
 PowerNation TV (1080p)
 PSL TV (360p)
-Pursuit Channel (720p)
 PursuitUP (1080p)
 QVC (United States) (720p)
 QVC2 (720p)
@@ -955,7 +949,6 @@ TLN KQSL (720p)
 TMZ (720p)
 TODAY All Day (1080p)
 Tom And Jerry (720p)
-Toonami Aftermath (480p)
 ToonGoggles (720p)
 Top Stories by Newsy (720p)
 Tosh.0 (United States)
@@ -1001,7 +994,6 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
-TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
@@ -1042,6 +1034,7 @@ Waypoint TV (1080p)
 WBTV 64.1 (720p)
 WCETV Digital Channel 31.8
 WCOT (720p)
+We TV (1080p)
 WeatherSpy (United States) (720p)
 Weeds & Nurse Jackie (720p)
 WeHoTV (360p)
@@ -1088,4 +1081,3 @@ Yu-Gi-Oh! (1080p)
 Yuma Channel 72 (1080p)
 Yuma Channel 73 (1080p)
 Yuma77
-ZTV (1080p)
