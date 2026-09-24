@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1085 channels currently shown in the app
-(excluded: 71 non-English, 77 manually, 229 not responding)
+1081 channels currently shown in the app
+(excluded: 71 non-English, 77 manually, 233 not responding)
 ============================================================
 
 00s Replay
@@ -30,7 +30,6 @@ US Open TV -- Channel List
 90s Kids TV 2
 90s Throwback
 A&E (720p)
-ABC (1080p)
 ABC KAAL (1080p)
 ABC KERO-TV (720p)
 ABC KGTV (720p)
@@ -104,7 +103,6 @@ Almagd TV Middle East (1080p) [Not 24/7]
 Always Funny Videos (720p)
 Amazing Facts TV (1080p)
 AMC (United States) (720p)
-AMC (United States) East (720p)
 America's Next Top Model
 America's Test Kitchen (720p)
 America's Voice (720p)
@@ -138,6 +136,7 @@ AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
+BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -190,6 +189,7 @@ Bounce (720p)
 Bounce XL (1080p)
 BPX TV Radio
 Brat TV (1080p)
+Bravo (720p)
 Brevard Government Access TV (720p)
 BritBox Mysteries (1080p)
 Business Rockstars (720p)
@@ -397,7 +397,6 @@ Fox Soul (1080p)
 Fox Sports 1 (720p)
 Fox Weather (720p)
 Free Speech TV (720p)
-Freeform (720p)
 FrightFlix (720p)
 FTF Sports (720p)
 Fubo Sports Network (1080p)
@@ -432,7 +431,6 @@ Greater Love TV (720p)
 Grit Xtra (1080p)
 Grjngo Western Movies (720p)
 Guangdong TV America
-GunAz TV
 Gunsmoke
 Happy Days (United States)
 HappyKids (1080p)
@@ -471,6 +469,7 @@ Hungry (720p)
 I Love Lucy
 iCarly (United States) SD
 IFC (1080p)
+iHolyfield TV WHPS-CD
 Impact Network (720p)
 Impossible Quiz Show (1080p)
 In the Kitchen (720p)
@@ -505,6 +504,7 @@ Kern County TV
 Kids Movie Club
 KidsFlix (1080p) [Not 24/7]
 KIIO-LD 10.1
+KIIO-LD 10.4 (480p)
 KMCT-TV 39.1
 KNOV-CD 41.1 (720p)
 KNXV-TV 61.1 (720p)
@@ -616,14 +616,12 @@ Natick Public Access Channel (720p)
 National Geographic (United States) (720p)
 National Geographic (United States) HD East (720p)
 National Geographic Wild (United States) HD East (720p)
-NBC (1080p)
 NBC Comedy Vault (1080p)
 NBC KRIS-TV (1080p)
 NBC KSBW (720p)
 NBC KSBY (720p)
 NBC KSHB-TV (720p)
 NBC LX Home (1080p)
-NBC Universo West (720p)
 NBC WBAL-TV (720p)
 NBC WGAL (720p)
 NBC WGBA-TV (720p)
@@ -643,7 +641,6 @@ NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
-News12 Conneticut [Geo-blocked]
 News12 Long Island (1080p) [Geo-blocked]
 News12 New Jersey [Geo-blocked]
 News12 New York (1080p)
@@ -1014,7 +1011,6 @@ Unidentified (1080p)
 Universal Comedy (1080p)
 Universal Crime (1080p)
 Unsolved Mysteries (720p)
-USA Network (1080p)
 USA TODAY (1080p)
 VBS TV (480p) [Not 24/7]
 Vegas Life TV (1080p)
