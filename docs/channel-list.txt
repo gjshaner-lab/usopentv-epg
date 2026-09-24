@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1077 channels currently shown in the app
-(excluded: 71 non-English, 77 manually, 237 not responding)
+1085 channels currently shown in the app
+(excluded: 71 non-English, 77 manually, 229 not responding)
 ============================================================
 
 00s Replay
@@ -190,7 +190,6 @@ Bounce (720p)
 Bounce XL (1080p)
 BPX TV Radio
 Brat TV (1080p)
-Bravo (720p)
 Brevard Government Access TV (720p)
 BritBox Mysteries (1080p)
 Business Rockstars (720p)
@@ -346,6 +345,7 @@ Duck Hunting TV (1080p)
 Dungeon TV (720p)
 Dynasty
 E! East (1080p)
+El Sembrador Nueva Evangelizacion ESNE
 Elbeshara GTV (1080p) [Not 24/7]
 Electric Now (720p)
 Elevation Church Network (1080p)
@@ -471,7 +471,6 @@ Hungry (720p)
 I Love Lucy
 iCarly (United States) SD
 IFC (1080p)
-iHolyfield TV WHPS-CD
 Impact Network (720p)
 Impossible Quiz Show (1080p)
 In the Kitchen (720p)
@@ -506,7 +505,6 @@ Kern County TV
 Kids Movie Club
 KidsFlix (1080p) [Not 24/7]
 KIIO-LD 10.1
-KIIO-LD 10.4 (480p)
 KMCT-TV 39.1
 KNOV-CD 41.1 (720p)
 KNXV-TV 61.1 (720p)
@@ -618,7 +616,6 @@ Natick Public Access Channel (720p)
 National Geographic (United States) (720p)
 National Geographic (United States) HD East (720p)
 National Geographic Wild (United States) HD East (720p)
-NBA TV (1080p)
 NBC (1080p)
 NBC Comedy Vault (1080p)
 NBC KRIS-TV (1080p)
@@ -644,8 +641,17 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
+News12 Bronx [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
+News12 New Jersey [Geo-blocked]
 News12 New York (1080p)
+News12 Westchester [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -694,6 +700,7 @@ Paramount Network (720p)
 Paramount+ Picks
 Pasco TV (480p)
 Payam Javan TV (720p) [Not 24/7]
+Payam-e-Afghan TV (480p) [Not 24/7]
 Payvand TV (United States) (720p)
 PBC TV Channel 20 (720p)
 PBR RidePass (720p)
@@ -721,6 +728,7 @@ PCT Channel 26 (720p)
 PCT Channel 27 (720p)
 PCTV 26 (480p)
 PCTV 28 (480p)
+People Are Awesome (1080p)
 Peppa Pig
 Perry Mason
 PGA Tour (1080p)
