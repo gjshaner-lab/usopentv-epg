@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1073 channels currently shown in the app
-(excluded: 71 non-English, 77 manually, 241 not responding)
+1082 channels currently shown in the app
+(excluded: 71 non-English, 77 manually, 232 not responding)
 ============================================================
 
 00s Replay
@@ -435,6 +435,7 @@ Gunsmoke
 Happy Days (United States)
 HappyKids (1080p)
 Harmony Gospel Music TV (1080p)
+Harvest USA (576p)
 Hasbro Legends (1080p) [Geo-blocked]
 HauntTV (1080p)
 HBO Hits East HD (720p)
@@ -639,8 +640,16 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
+News12 Bronx [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
+News12 New Jersey [Geo-blocked]
 News12 New York (1080p)
+News12 Westchester [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
