@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1082 channels currently shown in the app
-(excluded: 71 non-English, 77 manually, 232 not responding)
+1070 channels currently shown in the app
+(excluded: 71 non-English, 77 manually, 244 not responding)
 ============================================================
 
 00s Replay
@@ -292,7 +292,6 @@ Court TV (1080p)
 Create (1080p)
 Create WMPT
 Crime + Investigation (720p)
-Crime 360 (720p)
 Crimenes Imperfectos
 Crunchyroll (720p)
 Cruz TV
@@ -358,7 +357,6 @@ F1 Channel (1080p) [Geo-blocked]
 FailArmy (720p)
 Faith TV (1080p)
 Family Ties (United States)
-Farscape
 Fashion Finds (720p)
 Fast TV (720p)
 Fear Factor (1080p)
@@ -641,15 +639,7 @@ NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx [Geo-blocked]
-News12 Brooklyn [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
-News12 New Jersey [Geo-blocked]
 News12 New York (1080p)
-News12 Westchester [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -687,7 +677,6 @@ Outdoor Channel HD (720p)
 OuterSphere (1080p)
 Outlaw WGGS-TV (720p)
 Outside TV (1080p)
-Overcomers TV (720p)
 Overtime (1080p)
 Oxygen (720p)
 Pac-12 Insider (1080p)
@@ -779,7 +768,6 @@ Pluto TV Thrillers (United States)
 Pluto TV Trending Now
 Pluto TV True Crime (United States)
 Pluto TV Westerns (United States)
-Pluto TV Wipeout
 pocket.watch (1080p)
 Pocono Television Network (1080p)
 PokerGo
