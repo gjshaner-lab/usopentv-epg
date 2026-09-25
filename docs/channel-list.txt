@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1070 channels currently shown in the app
-(excluded: 71 non-English, 77 manually, 244 not responding)
+1073 channels currently shown in the app
+(excluded: 71 non-English, 77 manually, 241 not responding)
 ============================================================
 
 00s Replay
@@ -292,6 +292,7 @@ Court TV (1080p)
 Create (1080p)
 Create WMPT
 Crime + Investigation (720p)
+Crime 360 (720p)
 Crimenes Imperfectos
 Crunchyroll (720p)
 Cruz TV
@@ -357,6 +358,7 @@ F1 Channel (1080p) [Geo-blocked]
 FailArmy (720p)
 Faith TV (1080p)
 Family Ties (United States)
+Farscape
 Fashion Finds (720p)
 Fast TV (720p)
 Fear Factor (1080p)
@@ -638,8 +640,10 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Bronx [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
 News12 New York (1080p)
+News12+ Connecticut (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -768,6 +772,7 @@ Pluto TV Thrillers (United States)
 Pluto TV Trending Now
 Pluto TV True Crime (United States)
 Pluto TV Westerns (United States)
+Pluto TV Wipeout
 pocket.watch (1080p)
 Pocono Television Network (1080p)
 PokerGo
@@ -778,8 +783,6 @@ PowerNation TV (1080p)
 PSL TV (360p)
 PursuitUP (1080p)
 QVC (United States) (720p)
-QVC2 (720p)
-QVC3 (1080p)
 RadiantTV (1080p)
 Radio y Television Marti (720p)
 Rainbow Ruby (720p)
