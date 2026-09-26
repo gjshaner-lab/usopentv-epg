@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1074 channels currently shown in the app
-(excluded: 71 non-English, 77 manually, 242 not responding)
+1077 channels currently shown in the app
+(excluded: 71 non-English, 77 manually, 239 not responding)
 ============================================================
 
 00s Replay
@@ -136,6 +136,7 @@ AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
+BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -355,6 +356,7 @@ EWTN (United States) (720p) [Geo-blocked]
 Extrema TV (United States) (720p)
 F1 Channel (1080p) [Geo-blocked]
 FailArmy (720p)
+Faith TV (1080p)
 Family Ties (United States)
 Farscape
 Fashion Finds (720p)
@@ -514,6 +516,7 @@ KSCE 38.1 (360p)
 KSCE 38.3 (360p)
 KVTN-DT 25.1 (720p)
 Lacrosse TV (720p)
+Laff WJLP (576p)
 Lake Havasu City 4
 Las Vegas Tonight with Dale Davidson (1080p)
 LATV (1080p) [Geo-blocked]
@@ -642,7 +645,6 @@ News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
 News12 New York (1080p)
 News12 Westchester [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
@@ -1050,6 +1052,7 @@ Wine Watches & Whiskey (1080p)
 Wipeout Xtra (1080p)
 Wired2FishTV (720p) [Geo-blocked]
 WLMB (1080p)
+WLNG Radio (410p) [Not 24/7]
 Women's Sports Network (1080p)
 World Channel (1080p)
 World Channel WGTV (1080p)
