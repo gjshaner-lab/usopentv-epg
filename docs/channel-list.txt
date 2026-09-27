@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1077 channels currently shown in the app
-(excluded: 71 non-English, 77 manually, 239 not responding)
+1081 channels currently shown in the app
+(excluded: 71 non-English, 77 manually, 240 not responding)
 ============================================================
 
 00s Replay
@@ -136,7 +136,6 @@ AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
-BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -303,6 +302,9 @@ CSat TV (1080p) [Not 24/7]
 CSI (United States)
 CSI: Miami
 CSI: NY
+CT-N Court Feed (360p) [Not 24/7]
+CT-N Live Stream 2 (360p) [Not 24/7]
+CT-N TV Conneticut (720p) [Not 24/7]
 CTN (United States) (720p)
 CTV (United States) (480p)
 Curiosity NOW EN (1080p)
@@ -497,6 +499,7 @@ K-Content by CJ ENM (1080p)
 Kajou TV (720p) [Not 24/7]
 Kaloopy TV (1080p)
 Kartoon Channel! (1080p)
+KBS America
 KBSV 23.1 (720p) [Not 24/7]
 Kentucky Educational Television WKMJ-TV (480p)
 Kentucky Educational Television WKPC-TV (480p)
@@ -637,10 +640,11 @@ NBC WTOV-TV (1080p)
 NBC WTVJ (1080p)
 NBCLX (1080p)
 NCTV79 (1080p)
+New Channel (480p)
+New Channel Pop! (480p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
 News12 New York (1080p)
@@ -663,7 +667,6 @@ Ninja Kidz TV (720p)
 NMBTV (720p)
 NorCast Weather (1080p)
 Nosey (1080p)
-NOST (720p)
 NTD TV English (1080p)
 OAN Plus (1080p)
 OAN Plus KPVM-LD
@@ -827,6 +830,7 @@ S Corby TV (480p)
 S Free! (360p)
 S KPop! (480p)
 S Metro TV (360p)
+S Play Event (1080p)
 S Premium! HD (360p)
 Salem News Channel (1080p)
 Samsung Wildlife (720p) [Geo-blocked]
@@ -993,7 +997,6 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
-TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
@@ -1004,6 +1007,7 @@ TVSA Public Channel (720p)
 UCTV (720p) [Not 24/7]
 Unbeaten (1080p)
 Unidentified (1080p)
+Universal Cinema (1080p)
 Universal Comedy (1080p)
 Universal Crime (1080p)
 Unsolved Mysteries (720p)
