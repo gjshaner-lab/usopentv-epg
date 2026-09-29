@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1078 channels currently shown in the app
-(excluded: 71 non-English, 77 manually, 220 not responding)
+1070 channels currently shown in the app
+(excluded: 71 non-English, 77 manually, 228 not responding)
 ============================================================
 
 00s Replay
@@ -107,6 +107,7 @@ America's Voice (720p)
 America's Voice News (720p)
 American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
+AMGA TV (720p) [Not 24/7]
 AMP 1 (720p)
 AMP 2 (720p)
 Amu TV
@@ -496,6 +497,7 @@ Kajou TV (720p) [Not 24/7]
 Kaloopy TV (1080p)
 Kartoon Channel! (1080p)
 KBS America
+KBSV 23.1 (720p) [Not 24/7]
 Kentucky Educational Television WKMJ-TV (480p)
 Kentucky Educational Television WKPC-TV (480p)
 Kern County TV
@@ -568,11 +570,6 @@ MCN6 Music Channel (1080p) [Not 24/7]
 MCPSS TV
 Merit Street (1080p)
 Midnight Pulp (1080p)
-Midpen Media Center Channel 26 (720p)
-Midpen Media Center Channel 28 (720p)
-Midpen Media Center Channel 29 (720p)
-Midpen Media Center Channel 30 (720p)
-Midpen Media Center Channel 75 (720p)
 Midsomer Murders (1080p)
 Mission Impossible (United States)
 Mission TV (1080p) [Not 24/7]
@@ -640,13 +637,11 @@ NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 New Jersey [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
 News12 New York (1080p)
 News12 Westchester [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
-News12+ New York (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -721,11 +716,9 @@ PCT Channel 26 (720p)
 PCT Channel 27 (720p)
 PCTV 26 (480p)
 PCTV 28 (480p)
-People Are Awesome (1080p)
 Peppa Pig
 Perry Mason
 PGA Tour (1080p)
-PhillyCAM (720p)
 PHLgovTV (720p)
 PHXTV
 PixL TV
@@ -822,7 +815,6 @@ RVTV (1080p)
 RVTV Civic (720p)
 RVTV Grants Pass (720p)
 RVTV Prime (720p)
-RVTV Voices (720p)
 Ryan and Friends (1080p)
 S Corby TV (480p)
 S Free! (360p)
