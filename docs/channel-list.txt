@@ -1,10 +1,9 @@
 US Open TV -- Channel List
-1072 channels currently shown in the app
-(excluded: 71 non-English, 77 manually, 226 not responding)
+1083 channels currently shown in the app
+(excluded: 72 non-English, 77 manually, 219 not responding)
 ============================================================
 
 00s Replay
-24 Hour Free Movies (720p)
 30A Darcizzle Offshore (720p)
 30A Georgia Hollywood Review (720p)
 30A Golf Kingdom (720p)
@@ -250,6 +249,7 @@ Chef Champion (720p) [Not 24/7]
 Chef Roc Show (720p) [Not 24/7]
 Choppertown (720p)
 Christian Youth Channel CYC (1080p)
+Cinemax Action East HD (1080p)
 Cinemax Classics (1080p)
 Cinemax Hits (1080p)
 CinePride (720p)
@@ -330,6 +330,7 @@ Denver 8 TV (720p)
 DerryTV 17 (720p)
 DerryTV 23 (720p)
 Designated Survivor (1080p) [Geo-blocked]
+Discovery Turbo (1080p)
 Disney Channel (United States) (720p) [Geo-blocked]
 Disney Channel (United States) HD East (720p)
 Disney XD (United States) (720p)
@@ -345,7 +346,7 @@ Dry Bar Comedy+ (720p)
 Duck Hunting TV (1080p)
 Dungeon TV (720p)
 Dynasty
-E! East (1080p)
+E! (United States) East (1080p)
 El Sembrador Nueva Evangelizacion ESNE
 Elbeshara GTV (1080p) [Not 24/7]
 Electric Now (720p)
@@ -440,6 +441,8 @@ Harvest USA (576p)
 Hasbro Legends (1080p) [Geo-blocked]
 HauntTV (1080p)
 HBO Drama (1080p)
+HBO Drama West (1080p)
+HBO Hits West HD (1080p)
 HBO Movies (720p)
 Heartland (720p)
 Heartland Web
@@ -572,6 +575,11 @@ MCN6 Music Channel (1080p) [Not 24/7]
 MCPSS TV
 Merit Street (1080p)
 Midnight Pulp (1080p)
+Midpen Media Center Channel 26 (720p)
+Midpen Media Center Channel 28 (720p)
+Midpen Media Center Channel 29 (720p)
+Midpen Media Center Channel 30 (720p)
+Midpen Media Center Channel 75 (720p)
 Midsomer Murders (1080p)
 Mission Impossible (United States)
 Mission TV (1080p) [Not 24/7]
@@ -638,6 +646,7 @@ New Channel Pop! (480p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
+News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
 News12 New York (1080p)
@@ -1007,6 +1016,8 @@ Universal Crime (1080p)
 Unsolved Mysteries (720p)
 USA TODAY (1080p)
 VBS TV (480p) [Not 24/7]
+Vegas Life TV (1080p)
+Velayat TV Network (480p)
 Venevision Internacional (720p)
 Vevo Hip Hop (1080p)
 Vevo R&B (1080p)
