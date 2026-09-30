@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1083 channels currently shown in the app
-(excluded: 72 non-English, 77 manually, 219 not responding)
+1086 channels currently shown in the app
+(excluded: 72 non-English, 77 manually, 216 not responding)
 ============================================================
 
 00s Replay
@@ -509,7 +509,6 @@ Kern County TV
 Kids Movie Club
 KidsFlix (1080p) [Not 24/7]
 KIIO-LD 10.1
-KIIO-LD 10.4 (480p)
 KMCT-TV 39.1
 KNOV-CD 41.1 (720p)
 KNXV-TV 61.1 (720p)
@@ -647,10 +646,14 @@ NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx [Geo-blocked]
-News12 Brooklyn [Geo-blocked]
-News12 Conneticut [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
+News12 New Jersey [Geo-blocked]
 News12 New York (1080p)
-News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
