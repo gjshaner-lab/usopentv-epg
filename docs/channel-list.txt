@@ -1,10 +1,9 @@
 US Open TV -- Channel List
-1078 channels currently shown in the app
-(excluded: 72 non-English, 77 manually, 225 not responding)
+1079 channels currently shown in the app
+(excluded: 72 non-English, 77 manually, 224 not responding)
 ============================================================
 
 00s Replay
-24 Hour Free Movies (720p)
 30A Darcizzle Offshore (720p)
 30A Georgia Hollywood Review (720p)
 30A Golf Kingdom (720p)
@@ -136,6 +135,7 @@ AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
+BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -516,6 +516,7 @@ KSCE 38.1 (360p)
 KSCE 38.3 (360p)
 KVTN-DT 25.1 (720p)
 Lacrosse TV (720p)
+Laff WJLP (576p)
 Lake Havasu City 4
 Las Vegas Tonight with Dale Davidson (1080p)
 LATV (1080p) [Geo-blocked]
@@ -640,10 +641,11 @@ NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
 News12 New York (1080p)
-News12+ Hudson Valley (1080p) [Geo-blocked]
+News12 Westchester [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
@@ -782,7 +784,6 @@ Positiv TV (1080p)
 Potta-Divine TV USA (480p)
 PowerNation TV (1080p)
 PSL TV (360p)
-Pursuit Channel (720p)
 PursuitUP (1080p)
 QVC (United States) (720p)
 QVC2 (720p)
