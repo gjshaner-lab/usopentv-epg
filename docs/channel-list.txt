@@ -1,9 +1,10 @@
 US Open TV -- Channel List
-1081 channels currently shown in the app
-(excluded: 72 non-English, 77 manually, 222 not responding)
+1078 channels currently shown in the app
+(excluded: 72 non-English, 77 manually, 225 not responding)
 ============================================================
 
 00s Replay
+24 Hour Free Movies (720p)
 30A Darcizzle Offshore (720p)
 30A Georgia Hollywood Review (720p)
 30A Golf Kingdom (720p)
@@ -285,7 +286,6 @@ Comedy Central Pluto TV
 Comet (1080p)
 Concert Channel (720p)
 Cooking Panda (576p)
-Cops (720p)
 Cornerstone TV (720p)
 Court TV (1080p)
 Create (1080p)
@@ -469,6 +469,7 @@ Hungry (720p)
 I Love Lucy
 iCarly (United States) SD
 IFC (1080p)
+iHolyfield TV WHPS-CD
 Impact Network (720p)
 Impossible Quiz Show (1080p)
 In the Kitchen (720p)
@@ -515,7 +516,6 @@ KSCE 38.1 (360p)
 KSCE 38.3 (360p)
 KVTN-DT 25.1 (720p)
 Lacrosse TV (720p)
-Laff WJLP (576p)
 Lake Havasu City 4
 Las Vegas Tonight with Dale Davidson (1080p)
 LATV (1080p) [Geo-blocked]
@@ -559,7 +559,6 @@ Matlock (United States)
 Maverick Black Cinema (1080p)
 MBC 1 USA (1080p) [Geo-blocked]
 MBC 3 USA (1080p) [Geo-blocked]
-MBC America (1080p)
 MBC Drama USA (1080p)
 MBC Masr USA (1080p)
 MBTV (720p)
@@ -641,11 +640,10 @@ NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx [Geo-blocked]
-News12 New Jersey [Geo-blocked]
+News12 Conneticut [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
 News12 New York (1080p)
-News12 Westchester [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
@@ -920,7 +918,6 @@ The City of Marina (720p)
 The Conners
 The Country Network (1080p)
 The Design Network (1080p)
-The Film Detective (720p)
 The First TV (1080p)
 The Graham Norton Show (1080p)
 The Jamie Oliver Channel (1080p)
