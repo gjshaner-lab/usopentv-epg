@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1073 channels currently shown in the app
-(excluded: 72 non-English, 77 manually, 231 not responding)
+1069 channels currently shown in the app
+(excluded: 72 non-English, 77 manually, 235 not responding)
 ============================================================
 
 00s Replay
@@ -108,6 +108,7 @@ America's Voice (720p)
 America's Voice News (720p)
 American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
+AMGA TV (720p) [Not 24/7]
 AMP 1 (720p)
 AMP 2 (720p)
 Amu TV
@@ -326,6 +327,7 @@ DerryTV 17 (720p)
 DerryTV 23 (720p)
 Designated Survivor (1080p) [Geo-blocked]
 Discovery Turbo (720p)
+Disney Channel (United States) (720p) [Geo-blocked]
 Disney XD (United States) (720p)
 District of Columbia Network (1080p)
 Diya TV (1080p)
@@ -442,6 +444,7 @@ Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
 His Glory TV (1080p)
+History (United States) (720p)
 History Hit (1080p)
 HMI PROMZ NEWS (720p)
 Hmong Star TV (720p) [Not 24/7]
@@ -565,11 +568,6 @@ MCN6 Music Channel (1080p) [Not 24/7]
 MCPSS TV
 Merit Street (1080p)
 Midnight Pulp (1080p)
-Midpen Media Center Channel 26 (720p)
-Midpen Media Center Channel 28 (720p)
-Midpen Media Center Channel 29 (720p)
-Midpen Media Center Channel 30 (720p)
-Midpen Media Center Channel 75 (720p)
 Midsomer Murders (1080p)
 Mission Impossible (United States)
 Mission TV (1080p) [Not 24/7]
@@ -577,6 +575,7 @@ MLB (720p)
 MLB Strike Zone (720p)
 MNT WCIV (1080p)
 MNT WFLD (1080p)
+Mohabat TV (United States) (540p)
 Monroe County TV (1080p)
 More True Crime
 More TV Drama
@@ -606,6 +605,7 @@ NAT TV (1080p)
 Natick Education Channel (720p)
 Natick Government Channel (720p)
 Natick Public Access Channel (720p)
+National Geographic (United States) (720p)
 National Geographic (United States) HD East (720p)
 National Geographic Wild (United States) HD East (720p)
 NBA TV (720p)
@@ -635,13 +635,8 @@ New Channel Pop! (480p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Brooklyn [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
+News12 Bronx [Geo-blocked]
 News12 New York (1080p)
-News12 Westchester [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -649,6 +644,7 @@ Newsy (1080p)
 NFL Channel (720p)
 NHL Network (1080p)
 NHRA TV (1080p)
+Nick Jr. (United States) (720p)
 Nick Jr. (United States) East HD (1080p)
 Nick Jr. Pluto TV (720p)
 Nickelodeon (United States) (720p)
@@ -989,9 +985,9 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
+TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
-TVS Vintage Network (360p)
 TVS Western Movie (270p)
 TVS Women Sports (720p)
 TVSA Government Channel (720p)
