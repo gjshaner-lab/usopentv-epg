@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1069 channels currently shown in the app
-(excluded: 72 non-English, 77 manually, 235 not responding)
+1070 channels currently shown in the app
+(excluded: 72 non-English, 77 manually, 234 not responding)
 ============================================================
 
 00s Replay
@@ -135,6 +135,7 @@ AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
+BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -635,7 +636,6 @@ New Channel Pop! (480p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Bronx [Geo-blocked]
 News12 New York (1080p)
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
@@ -988,6 +988,7 @@ TVS Tavern (480p)
 TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
+TVS Vintage Network (360p)
 TVS Western Movie (270p)
 TVS Women Sports (720p)
 TVSA Government Channel (720p)
