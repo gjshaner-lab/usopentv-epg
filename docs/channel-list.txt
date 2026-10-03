@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1066 channels currently shown in the app
-(excluded: 72 non-English, 77 manually, 238 not responding)
+1067 channels currently shown in the app
+(excluded: 72 non-English, 77 manually, 237 not responding)
 ============================================================
 
 00s Replay
@@ -188,6 +188,7 @@ Bounce (720p)
 Bounce XL (1080p)
 BPX TV Radio
 Brat TV (1080p)
+Bravo (720p)
 Brevard Government Access TV (720p)
 BritBox Mysteries (1080p)
 Business Rockstars (720p)
@@ -273,6 +274,7 @@ CMAP Channel 17 (720p)
 CMAP Channel 18 (720p)
 CMAP Channel 19 (720p)
 CMAP Channel 20 (720p)
+CMC-USA Country Music Channel (720p)
 CMT (720p)
 CMT Equal Play (720p)
 CMTV (720p)
@@ -499,7 +501,6 @@ Kern County TV
 Kids Movie Club
 KidsFlix (1080p) [Not 24/7]
 KIIO-LD 10.1
-KIIO-LD 10.4 (480p)
 KMCT-TV 39.1
 KNOV-CD 41.1 (720p)
 KNXV-TV 61.1 (720p)
@@ -511,6 +512,7 @@ KSCE 38.1 (360p)
 KSCE 38.3 (360p)
 KVTN-DT 25.1 (720p)
 Lacrosse TV (720p)
+Laff WJLP (576p)
 Lake Havasu City 4
 Las Vegas Tonight with Dale Davidson (1080p)
 LATV (1080p) [Geo-blocked]
@@ -631,11 +633,10 @@ New Channel Pop! (480p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Brooklyn [Geo-blocked]
+News12 Bronx [Geo-blocked]
 News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
 News12 New York (1080p)
-News12+ Hudson Valley (1080p) [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
