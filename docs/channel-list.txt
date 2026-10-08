@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-917 channels currently shown in the app
-(excluded: 72 non-English, 76 manually, 392 not responding)
+906 channels currently shown in the app
+(excluded: 72 non-English, 76 manually, 403 not responding)
 ============================================================
 
 30A Darcizzle Offshore (720p)
@@ -156,7 +156,6 @@ Bloomberg TV Live Event (720p)
 Bloomberg TV Politics Live Event (720p)
 BMC-HD TV (720p)
 bon appetit (1080p)
-Bounce (720p)
 Bounce XL (1080p)
 BPX TV Radio
 Brat TV (1080p)
@@ -268,7 +267,6 @@ Danger TV (720p)
 Dare To Dream Network
 Dark Matter TV (720p)
 Daystar TV (1080p)
-Daystar TV Espanol (1080p)
 Daystar TV WSLF-LD (720p)
 DC Council Hearing Room 120 (1080p)
 DCC (1080p)
@@ -354,7 +352,6 @@ GCN America (720p)
 GEB Network KBPX-LD (1080p)
 Gem Shopping Network (720p)
 Genesis Science Network (720p)
-Giggle Mug (576p)
 Gillette Public Access Television Channel 189
 Gillette Public Access Television Channel 190
 Gillette Public Access Television Channel 192
@@ -401,7 +398,6 @@ HSN2 (720p)
 HTV 1 Houston Television (720p)
 HTV 2 Houston Television (720p)
 Hungry (720p)
-IFC (1080p)
 iHolyfield TV WHPS-CD
 Impact Network (720p)
 Impossible Quiz Show (1080p)
@@ -446,7 +442,6 @@ KVTN-DT 25.1 (720p)
 Lacrosse TV (720p)
 Laff (576p)
 Lake Havasu City 4
-Las Vegas Tonight with Dale Davidson (1080p)
 LATV (1080p) [Geo-blocked]
 Law & Crime (720p)
 Lego Channel (1080p)
@@ -516,7 +511,6 @@ MRVTV Channel 45 (720p)
 MSG (720p)
 MST3K (1080p)
 MTC
-MTV (United States) (1080p)
 MTV Live (720p)
 MTV Pluto TV
 MTV2 (720p)
@@ -560,13 +554,9 @@ NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
-News12 New Jersey [Geo-blocked]
 News12 New York (1080p)
 News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -605,7 +595,6 @@ Outlaw WGGS-TV (720p)
 Outside TV (1080p)
 Overtime (1080p)
 Pac-12 Insider (1080p)
-Pacific Island Network (1080p)
 Palm Beaches TV (720p)
 Paramount Movie Channel
 Pasco TV (480p)
@@ -636,6 +625,7 @@ PCT Channel 26 (720p)
 PCT Channel 27 (720p)
 PCTV 26 (480p)
 PCTV 28 (480p)
+People Are Awesome (1080p)
 PGA Tour (1080p)
 PhillyCAM (720p)
 PHLgovTV (720p)
@@ -701,7 +691,6 @@ Schwab Network (1080p)
 Scottsdale Channel 11
 Screen Dreams (720p)
 Scripps News (1080p)
-SEC Network (1080p)
 SFGovTV (720p)
 SFGovTV2 (720p)
 SGTN-49 (720p)
@@ -854,7 +843,6 @@ Unsolved Mysteries (720p)
 USA Network (720p)
 USA TODAY (1080p)
 VBS TV (480p) [Not 24/7]
-Vegas Life TV (1080p)
 Velayat TV Network (480p)
 Venevision Internacional (720p)
 Vevo Hip Hop (1080p)
@@ -893,6 +881,7 @@ Wine Watches & Whiskey (1080p)
 Wipeout Xtra (1080p)
 Wired2FishTV (720p) [Geo-blocked]
 WLMB (1080p)
+WLNG Radio (410p) [Not 24/7]
 Women's Sports Network (1080p)
 World Channel (1080p)
 World Channel WGTV (1080p)
