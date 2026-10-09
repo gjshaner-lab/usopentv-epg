@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-926 channels currently shown in the app
-(excluded: 72 non-English, 75 manually, 394 not responding)
+928 channels currently shown in the app
+(excluded: 72 non-English, 75 manually, 392 not responding)
 ============================================================
 
 30A Darcizzle Offshore (720p)
@@ -123,7 +123,6 @@ AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
-BabyFirst (720p)
 Backstage (1080p)
 Bark TV (1080p)
 BATV Educational Channel
@@ -232,7 +231,6 @@ City TV Carlsbad (720p)
 City TV Channel 3/41 (360p)
 CityTV 20 Santa Monica (360p) [Not 24/7]
 CityTV Lakewood (720p)
-CityTV San Diego (360p)
 Clarity 4K (2160p) [Geo-blocked]
 Classic Cinema (240p) [Not 24/7]
 Classic Movie Westerns
@@ -432,7 +430,6 @@ Judge Nosey (1080p)
 Just for Laughs Gags (1080p)
 K-Content by CJ ENM (1080p)
 Kajou TV (720p) [Not 24/7]
-Kaloopy TV (1080p)
 Kartoon Channel! (1080p)
 KBSV 23.1 (720p) [Not 24/7]
 Kentucky Educational Television WKMJ-TV (480p)
@@ -570,11 +567,15 @@ New Channel Pop! (480p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Brooklyn [Geo-blocked]
+News12 Bronx [Geo-blocked]
 News12 Conneticut [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
 News12 New York (1080p)
 News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -709,6 +710,7 @@ Samsung Wildlife (720p) [Geo-blocked]
 SBN TV (720p)
 SC Currents
 Schwab Network (1080p)
+Scottsdale Channel 11
 Screen Dreams (720p)
 Scripps News (1080p)
 SEC Network (1080p)
