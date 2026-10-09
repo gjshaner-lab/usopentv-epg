@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-928 channels currently shown in the app
-(excluded: 72 non-English, 75 manually, 392 not responding)
+925 channels currently shown in the app
+(excluded: 72 non-English, 75 manually, 395 not responding)
 ============================================================
 
 30A Darcizzle Offshore (720p)
@@ -231,6 +231,7 @@ City TV Carlsbad (720p)
 City TV Channel 3/41 (360p)
 CityTV 20 Santa Monica (360p) [Not 24/7]
 CityTV Lakewood (720p)
+CityTV San Diego (360p)
 Clarity 4K (2160p) [Geo-blocked]
 Classic Cinema (240p) [Not 24/7]
 Classic Movie Westerns
@@ -239,6 +240,7 @@ CMAP Channel 17 (720p)
 CMAP Channel 18 (720p)
 CMAP Channel 19 (720p)
 CMAP Channel 20 (720p)
+CMC-USA Country Music Channel (720p)
 CMT (720p)
 CMTV (720p)
 CNBC (720p) [Geo-blocked]
@@ -430,6 +432,7 @@ Judge Nosey (1080p)
 Just for Laughs Gags (1080p)
 K-Content by CJ ENM (1080p)
 Kajou TV (720p) [Not 24/7]
+Kaloopy TV (1080p)
 Kartoon Channel! (1080p)
 KBSV 23.1 (720p) [Not 24/7]
 Kentucky Educational Television WKMJ-TV (480p)
@@ -437,7 +440,6 @@ Kentucky Educational Television WKPC-TV (480p)
 Kern County TV
 KidsFlix (1080p) [Not 24/7]
 KIIO-LD 10.1
-KIIO-LD 10.4 (480p)
 KMCT-TV 39.1
 KNOV-CD 41.1 (720p)
 KNXV-TV 61.1 (720p)
@@ -567,15 +569,10 @@ New Channel Pop! (480p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Bronx [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
 News12 New York (1080p)
-News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -847,7 +844,6 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
-TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
@@ -859,6 +855,7 @@ UCTV (720p) [Not 24/7]
 Unbeaten (1080p)
 Unidentified (1080p)
 Universal Cinema (1080p)
+Universal Comedy (1080p)
 Universal Crime (1080p)
 Unsolved Mysteries (720p)
 USA Network (720p)
