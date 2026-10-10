@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-926 channels currently shown in the app
-(excluded: 73 non-English, 75 manually, 393 not responding)
+925 channels currently shown in the app
+(excluded: 73 non-English, 75 manually, 394 not responding)
 ============================================================
 
 30A Darcizzle Offshore (720p)
@@ -96,6 +96,7 @@ America's Voice (720p)
 American Heroes Channel (720p)
 American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
+AMGA TV (720p) [Not 24/7]
 AMP 1 (720p)
 AMP 2 (720p)
 Amu TV
@@ -243,7 +244,6 @@ CMAP Channel 20 (720p)
 CMC-USA Country Music Channel (720p)
 CMT (720p)
 CMTV (720p)
-CNBC (720p) [Geo-blocked]
 CNN (1080p)
 CNN Chile (1080p)
 Cold Case Files (1080p)
@@ -572,9 +572,9 @@ New Channel Pop! (480p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Brooklyn [Geo-blocked]
-News12 Conneticut [Geo-blocked]
+News12 Bronx [Geo-blocked]
 News12 New York (1080p)
+News12+ Connecticut (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -618,7 +618,6 @@ Pacific Island Network (1080p)
 Palm Beaches TV (720p)
 Paramount Movie Channel
 Pasco TV (480p)
-Payam Javan TV (720p) [Not 24/7]
 Payam-e-Afghan TV (480p) [Not 24/7]
 Payvand TV (United States) (720p)
 PBC TV Channel 20 (720p)
