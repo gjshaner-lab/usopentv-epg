@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1090 channels currently shown in the app
-(excluded: 73 non-English, 75 manually, 243 not responding)
+1103 channels currently shown in the app
+(excluded: 73 non-English, 75 manually, 232 not responding)
 ============================================================
 
 00s Replay
@@ -123,7 +123,6 @@ Antiques Roadshow UK (1080p)
 Are We There Yet? (1080p)
 Armenia 1 America (1080p)
 ARTFLIX Movie Classics (720p)
-ARTN TV (1080p) [Not 24/7]
 Aspire TV Life (1080p)
 At Home with Family Handyman (720p)
 ATL 26
@@ -192,7 +191,6 @@ Boomerang (720p)
 Bounce (720p)
 Bounce XL (1080p)
 BPX TV Radio
-Brat TV (1080p)
 Bravo (720p)
 Brevard Government Access TV (720p)
 BritBox Mysteries (1080p)
@@ -289,6 +287,7 @@ CMTV (720p)
 CNBC (720p) [Geo-blocked]
 CNN (720p)
 CNN Chile (1080p)
+CNN HD (720p) [Geo-blocked]
 CNN Originals (1080p)
 Cold Case Files (1080p)
 Comedy Central Animation
@@ -339,7 +338,9 @@ DerryTV 17 (720p)
 DerryTV 23 (720p)
 Designated Survivor (1080p) [Geo-blocked]
 Destination America (720p)
-Discovery Turbo (720p)
+Discovery Channel (United States) (1080p) [Geo-blocked]
+Discovery Turbo (United States) (720p)
+Disney Channel (United States) (720p) [Geo-blocked]
 Disney Junior (United States) (480p)
 District of Columbia Network (1080p)
 Diya TV (1080p)
@@ -360,8 +361,9 @@ Electric Now (720p)
 Elevation Church Network (1080p)
 Entertainment Tonight (1080p)
 EntrepreneurTV (720p)
-ESPN (United States) (720p)
-ESPN 2 (United States) (720p)
+ESPN (United States) (432p)
+ESPN (United States) HD (720p)
+ESPN 2 (United States) HD (720p)
 ESPNU HD (720p)
 EWTN (United States) (720p) [Geo-blocked]
 Extrema TV (United States) (720p)
@@ -454,10 +456,12 @@ HBO (United States) (720p)
 HBO Hits (720p)
 Heartland (720p)
 Heartland Web
+HGTV (United States) (720p)
 Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
 His Glory TV (1080p)
+History (United States) (720p)
 History Hit (1080p)
 HLN (720p)
 HMI PROMZ NEWS (720p)
@@ -488,6 +492,7 @@ In the Kitchen (720p)
 Ink Master
 Instant Saga
 Investiga US
+Investigation Discovery (United States) (1080p) [Geo-blocked]
 INWILD (1080p)
 ION Plus (1080p)
 ION TV (720p)
@@ -503,7 +508,6 @@ Joel Osteen Network (1080p)
 Johnny Carson TV (720p)
 Journy (720p)
 Judge Nosey (1080p)
-Just for Laughs Gags (1080p)
 K-Content by CJ ENM (1080p)
 Kajou TV (720p) [Not 24/7]
 Kaloopy TV (1080p)
@@ -627,6 +631,7 @@ NAT TV (1080p)
 Natick Education Channel (720p)
 Natick Government Channel (720p)
 Natick Public Access Channel (720p)
+National Geographic (United States) (720p)
 National Geographic (United States) HD East (720p)
 National Geographic Wild (United States) HD East (720p)
 NBA TV (720p)
@@ -653,9 +658,13 @@ NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx [Geo-blocked]
-News12 New Jersey [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
+News12 Conneticut [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
 News12 New York (1080p)
-News12+ New Jersey (1080p) [Geo-blocked]
+News12 Westchester [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
@@ -665,6 +674,7 @@ NFL Channel (720p)
 NFL Network (720p)
 NHL Network (1080p)
 NHRA TV (1080p)
+Nick Jr. (United States) (720p)
 Nick Jr. (United States) East HD (720p)
 Nick Jr. Pluto TV (720p)
 Nickelodeon (United States) (720p)
@@ -687,6 +697,7 @@ Olelo 55 (720p)
 Omid e Iran TV
 One America News Network (720p)
 One Piece
+Ontario Public Access Channel (360p)
 OnTV4U (1080p) [Geo-blocked]
 Orange Government Access TV (720p)
 Outdoor America (1080p)
@@ -702,7 +713,6 @@ Pacific Island Network (1080p)
 Palm Beaches TV (720p)
 Paramount Movie Channel
 Paramount+ Picks
-Pasco TV (480p)
 Payam-e-Afghan TV (480p) [Not 24/7]
 Payvand TV (United States) (720p)
 PBC TV Channel 20 (720p)
@@ -726,6 +736,7 @@ PBS Travel (1080p)
 PBS WEDQ (1080p)
 PBS WJXT (720p)
 PBS WNJT (1080p) [Not 24/7]
+PCT Channel 26 (720p)
 PCTV 26 (480p)
 PCTV 28 (480p)
 People Are Awesome (1080p)
@@ -954,11 +965,13 @@ Tin TV (720p)
 Tiny House Nation (720p)
 TLN KQSL (720p)
 TMZ (720p)
+TNT (United States) (720p) [Geo-blocked]
 TNT (United States) West (720p) [Geo-blocked]
 TODAY All Day (1080p)
 Tom And Jerry (720p)
 Toonami Aftermath (480p)
 Toonami Aftermath West (480p)
+Tooncast (1080p)
 ToonGoggles (720p)
 Top Stories by Newsy (720p)
 Tosh.0 (United States)
@@ -1005,12 +1018,12 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
+TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
 TVS Western Movie (270p)
 TVS Women Sports (720p)
-TVSA Government Channel (720p)
 TVSA Public Channel (720p)
 UCTV (720p) [Not 24/7]
 Unbeaten (1080p)
