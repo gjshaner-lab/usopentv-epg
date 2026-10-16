@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1075 channels currently shown in the app
-(excluded: 73 non-English, 75 manually, 260 not responding)
+1079 channels currently shown in the app
+(excluded: 73 non-English, 75 manually, 256 not responding)
 ============================================================
 
 00s Replay
@@ -110,7 +110,6 @@ America's Voice News (720p)
 American Heroes Channel (720p)
 American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
-AMGA TV (720p) [Not 24/7]
 AMP 1 (720p)
 AMP 2 (720p)
 Amu TV
@@ -121,6 +120,7 @@ Anime x HIDIVE
 Antiques Road Trip (1080p)
 Antiques Roadshow UK (1080p)
 Are We There Yet? (1080p)
+Armenia 1 America (1080p)
 ARTFLIX Movie Classics (720p)
 Aspire TV Life (1080p)
 At Home with Family Handyman (720p)
@@ -137,6 +137,7 @@ AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
+BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -413,7 +414,6 @@ Game Show Central (720p)
 Game Show Network (720p) [Not 24/7]
 Garfield and Friends
 GCN America (720p)
-GEB Network KBPX-LD (1080p)
 Gem Shopping Network (720p)
 Genesis Science Network (720p)
 Giggle Mug (576p)
@@ -561,7 +561,10 @@ Matlock (United States)
 Maverick Black Cinema (1080p)
 Maxcine (720p)
 Maxcine 2 (720p)
+Maxcine Comedy (720p)
+Maxcine Family (720p)
 Maxcine Kids (720p)
+MBC 1 USA (1080p) [Geo-blocked]
 MBC 3 USA (1080p) [Geo-blocked]
 MBC America (1080p)
 MBC Drama USA (1080p)
@@ -635,12 +638,13 @@ NBC WPXI (1080p)
 NBC WTMJ-TV (720p)
 NBC WTVJ (1080p)
 NBCLX (1080p)
-NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
+News12 Hudson Valley [Geo-blocked]
 News12 New York (1080p)
-News12 Westchester [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
@@ -843,7 +847,6 @@ Skwad Play (1080p)
 SLO County Channel 21 (360p)
 Slopes TV (720p)
 Smart LifeStyle TV (720p)
-SMCTV Channel 23 (720p)
 SMCTV Channel 24 (720p)
 SMCTV Channel 25 (720p)
 Smithsonian Channel Selects (United States)
@@ -944,6 +947,7 @@ TODAY All Day (1080p)
 Tom And Jerry (720p)
 Toonami Aftermath (480p)
 Toonami Aftermath West (480p)
+Tooncast (1080p)
 ToonGoggles (720p)
 Top Stories by Newsy (720p)
 Tosh.0 (United States)
