@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1079 channels currently shown in the app
-(excluded: 73 non-English, 75 manually, 256 not responding)
+1084 channels currently shown in the app
+(excluded: 73 non-English, 75 manually, 251 not responding)
 ============================================================
 
 00s Replay
@@ -110,6 +110,7 @@ America's Voice News (720p)
 American Heroes Channel (720p)
 American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
+AMGA TV (720p) [Not 24/7]
 AMP 1 (720p)
 AMP 2 (720p)
 Amu TV
@@ -137,7 +138,6 @@ AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
-BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -414,6 +414,7 @@ Game Show Central (720p)
 Game Show Network (720p) [Not 24/7]
 Garfield and Friends
 GCN America (720p)
+GEB Network KBPX-LD (1080p)
 Gem Shopping Network (720p)
 Genesis Science Network (720p)
 Giggle Mug (576p)
@@ -506,7 +507,6 @@ Kern County TV
 Kids Movie Club
 KidsFlix (1080p) [Not 24/7]
 KIIO-LD 10.1
-KIIO-LD 10.4 (480p)
 KMCT-TV 39.1
 KNOV-CD 41.1 (720p)
 KNXV-TV 61.1 (720p)
@@ -638,13 +638,16 @@ NBC WPXI (1080p)
 NBC WTMJ-TV (720p)
 NBC WTVJ (1080p)
 NBCLX (1080p)
+NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Hudson Valley [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
+News12 Conneticut [Geo-blocked]
+News12 New Jersey [Geo-blocked]
 News12 New York (1080p)
-News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
+News12 Westchester [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
@@ -829,6 +832,7 @@ Samsung Wildlife (720p) [Geo-blocked]
 SBN TV (720p)
 SC Currents
 Schwab Network (1080p)
+Scientology Network (1080p)
 Scottsdale Channel 11
 Screen Dreams (720p)
 Scripps News (1080p)
@@ -847,6 +851,7 @@ Skwad Play (1080p)
 SLO County Channel 21 (360p)
 Slopes TV (720p)
 Smart LifeStyle TV (720p)
+SMCTV Channel 23 (720p)
 SMCTV Channel 24 (720p)
 SMCTV Channel 25 (720p)
 Smithsonian Channel Selects (United States)
