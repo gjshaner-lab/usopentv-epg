@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1084 channels currently shown in the app
-(excluded: 73 non-English, 75 manually, 251 not responding)
+1095 channels currently shown in the app
+(excluded: 73 non-English, 75 manually, 240 not responding)
 ============================================================
 
 00s Replay
@@ -138,7 +138,6 @@ AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
-BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -190,9 +189,9 @@ Bonanza
 Boomerang (720p)
 Bounce (720p)
 Bounce XL (1080p)
-BPX TV Radio
 Brat TV (1080p)
 Bravo (720p)
+Brevard Government Access TV (720p)
 BritBox Mysteries (1080p)
 Business Rockstars (720p)
 BUTV10 (1080p) [Not 24/7]
@@ -208,6 +207,7 @@ CAN TV36 (1080p)
 Canal de la Fe (720p)
 Canela TV (1080p)
 Car Chase (United States) (720p)
+Cartoon Network (United States) (720p)
 Catholic Faith Network (720p)
 Catholic TV (1080p)
 CBN Family (1080p)
@@ -242,6 +242,7 @@ CC-TV (720p)
 Celebrity Name Game (1080p) [Geo-blocked]
 Celebrity Scene TV (720p)
 Cerritos TV3 (360p)
+CFM TV Channel 98 (360p)
 Channel 10 (United States) (720p)
 Channel One (United States)
 Charge! (1080p)
@@ -260,7 +261,6 @@ Circle (1080p)
 City of Fort Pierce (720p)
 City of Pompano Beach (720p)
 City TV Carlsbad (720p)
-City TV Channel 3/41 (360p)
 CityTV 20 Santa Monica (360p) [Not 24/7]
 CityTV Lakewood (720p)
 CityTV San Diego (360p)
@@ -337,6 +337,7 @@ Designated Survivor (1080p) [Geo-blocked]
 Destination America (720p)
 Discovery Channel (United States) (1080p) [Geo-blocked]
 Discovery Turbo (United States) (720p)
+Disney Junior (United States) (480p)
 District of Columbia Network (1080p)
 DKN (1080p)
 Doctor Who Classic (1080p)
@@ -355,6 +356,7 @@ Electric Now (720p)
 Elevation Church Network (1080p)
 Entertainment Tonight (1080p)
 EntrepreneurTV (720p)
+ESPN (United States) (432p)
 ESPN (United States) HD (720p)
 ESPN 2 (United States) HD (720p)
 ESPNU HD (720p)
@@ -442,10 +444,14 @@ Gunsmoke
 Happy Days (United States)
 HappyKids (1080p)
 Harmony Gospel Music TV (1080p)
+Harvest USA (576p)
 Hasbro Legends (1080p) [Geo-blocked]
 HauntTV (1080p)
+HBO (United States) (720p)
+HBO Hits (720p)
 Heartland (720p)
 Heartland Web
+HGTV (United States) (720p)
 Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
@@ -521,6 +527,7 @@ KSCE 38.1 (360p)
 KSCE 38.3 (360p)
 KVTN-DT 25.1 (720p)
 Lacrosse TV (720p)
+Laff (576p)
 Lake Havasu City 4
 Las Vegas Tonight with Dale Davidson (1080p)
 LATV (1080p) [Geo-blocked]
@@ -647,11 +654,12 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Conneticut [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
+News12 New Jersey [Geo-blocked]
 News12 New York (1080p)
 News12 Westchester [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -667,6 +675,7 @@ Nickelodeon (United States) (720p)
 Nickelodeon Pluto TV (720p)
 Nicktoons (United States) (720p)
 Ninja Kidz TV (720p)
+NMBTV (720p)
 NorCast Weather (1080p)
 Nosey (1080p)
 NOST (720p)
@@ -724,7 +733,6 @@ PBS WNJT (1080p) [Not 24/7]
 PCT Channel 26 (720p)
 PCTV 26 (480p)
 PCTV 28 (480p)
-People Are Awesome (1080p)
 Peppa Pig
 Perry Mason
 PGA Tour (1080p)
@@ -863,6 +871,7 @@ Spike Outdoors
 Spike Pluto TV
 Spirit TV (720p) [Not 24/7]
 SportsGrid (1080p)
+SPTV (360p)
 Stadium (720p)
 Star Channel International (720p)
 Star Trek US
@@ -900,6 +909,7 @@ TCM West (720p) [Geo-blocked]
 TCT (1080p)
 TED (1080p)
 Teen Mom (United States)
+TeenNick (United States) (432p)
 Tempe 11
 Tennis Channel (1080p)
 Tennis Channel +2 (720p)
@@ -968,7 +978,6 @@ truTV (720p)
 truTV West (720p) [Geo-blocked]
 TSTV (720p)
 TUTV (1080p)
-TV Hispanic [Not 24/7]
 TV Land Drama
 TV Land Sitcoms
 TV Panou (720p) [Not 24/7]
@@ -1053,6 +1062,7 @@ Whiplash II (480p)
 White Plains Community Media (360p)
 WHOH-TV (360p)
 Wild 'N Out
+Willow (720p)
 Willow Sports (1080p)
 Window TV (720p)
 Wine Watches & Whiskey (1080p)
@@ -1070,6 +1080,7 @@ WSOC Now (1080p) [Geo-blocked]
 WVCU-LP (1080p)
 WVVH-CD 18.1 (720p)
 WWE Network (1080p)
+WWON-TV Channel 48
 XFC TV (720p)
 XITE Classic Country (720p)
 XITE Just Chill (1080p)
