@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1075 channels currently shown in the app
-(excluded: 73 non-English, 75 manually, 260 not responding)
+1102 channels currently shown in the app
+(excluded: 73 non-English, 75 manually, 233 not responding)
 ============================================================
 
 00s Replay
@@ -288,6 +288,7 @@ CMT Equal Play (720p)
 CMTV (720p)
 CNN (720p)
 CNN Chile (1080p)
+CNN HD (720p) [Geo-blocked]
 CNN Originals (1080p)
 Cold Case Files (1080p)
 Comedy Central Animation
@@ -338,6 +339,7 @@ DerryTV 17 (720p)
 DerryTV 23 (720p)
 Designated Survivor (1080p) [Geo-blocked]
 Destination America (720p)
+Discovery Channel (United States) (1080p) [Geo-blocked]
 Discovery Turbo (United States) (720p)
 District of Columbia Network (1080p)
 DKN (1080p)
@@ -454,6 +456,7 @@ Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
 His Glory TV (1080p)
+History (United States) (720p)
 History Hit (1080p)
 HLN (720p)
 HMI PROMZ NEWS (720p)
@@ -484,6 +487,7 @@ In the Kitchen (720p)
 Ink Master
 Instant Saga
 Investiga US
+Investigation Discovery (United States) (1080p) [Geo-blocked]
 INWILD (1080p)
 ION Plus (1080p)
 ION TV (720p)
@@ -545,7 +549,10 @@ LLBN His Word (720p)
 LLBN TV South Asia (480p)
 Localish (1080p)
 Logo Pluto TV
+Logos TV (Spain) (1080p) [Not 24/7]
+Logos TV (United States) (1080p) [Not 24/7]
 Logos TV English (1080p) [Not 24/7]
+Logos TV Kids (720p) [Not 24/7]
 Lone Star (1080p)
 Love & Hip Hop
 Love Pets (1080p)
@@ -562,6 +569,10 @@ Martin County TV (720p)
 Mas adrenalina
 Matlock (United States)
 Maverick Black Cinema (1080p)
+Maxcine (720p)
+Maxcine 2 (720p)
+Maxcine Comedy (720p)
+Maxcine Family (720p)
 Maxcine Kids (720p)
 MBC 1 USA (1080p) [Geo-blocked]
 MBC 3 USA (1080p) [Geo-blocked]
@@ -616,6 +627,7 @@ NAT TV (1080p)
 Natick Education Channel (720p)
 Natick Government Channel (720p)
 Natick Public Access Channel (720p)
+National Geographic (United States) (720p)
 National Geographic (United States) HD East (720p)
 National Geographic Wild (United States) HD East (720p)
 NBA TV (720p)
@@ -642,7 +654,18 @@ NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
+News12 Conneticut [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
+News12 New Jersey [Geo-blocked]
 News12 New York (1080p)
+News12 Westchester [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -651,10 +674,12 @@ NFL Channel (720p)
 NFL Network (720p)
 NHL Network (1080p)
 NHRA TV (1080p)
+Nick Jr. (United States) (720p)
 Nick Jr. (United States) East HD (720p)
 Nick Jr. Pluto TV (720p)
 Nickelodeon (United States) (720p)
 Nickelodeon Pluto TV (720p)
+Nicktoons (United States) (720p)
 Ninja Kidz TV (720p)
 NMBTV (720p)
 NorCast Weather (1080p)
@@ -940,6 +965,7 @@ Tin TV (720p)
 Tiny House Nation (720p)
 TLN KQSL (720p)
 TMZ (720p)
+TNT (United States) (720p) [Geo-blocked]
 TNT (United States) West (720p) [Geo-blocked]
 TODAY All Day (1080p)
 Tom And Jerry (720p)
@@ -1020,6 +1046,7 @@ Video Mix TV
 VoA TV (1080p)
 VSiN (720p)
 W14DK-D 14.1
+W14DK-D 14.2
 WACX 55.1 (720p)
 Wanted: Dead or Alive (720p)
 WATC-DT 57.1 (1080p)
