@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1100 channels currently shown in the app
-(excluded: 73 non-English, 75 manually, 238 not responding)
+1088 channels currently shown in the app
+(excluded: 73 non-English, 75 manually, 250 not responding)
 ============================================================
 
 00s Replay
@@ -53,6 +53,7 @@ ABC News Live 9 (720p)
 ABC WBBJ-TV (432p)
 ABC WBRZ-TV (480p)
 ABC WDIO-DT (1080p)
+ABC WFTV (720p)
 ABC WISN-TV (720p)
 ABC WMAR-TV (720p)
 ABC WMUR-TV (720p)
@@ -88,6 +89,7 @@ AKC TV Meet the Breeds
 AKC TV Puppies
 Al-Fady TV (1080p) [Not 24/7]
 Al-Mahdi TV (1080p)
+Aliento Vision (720p) [Not 24/7]
 Alkarma TV Family (1080p) [Not 24/7]
 Alkarma TV Middle East (1080p) [Not 24/7]
 Alkarma TV North America & Canada (1080p) [Not 24/7]
@@ -108,7 +110,6 @@ America's Voice News (720p)
 American Heroes Channel (720p)
 American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
-AMGA TV (720p) [Not 24/7]
 AMP 1 (720p)
 AMP 2 (720p)
 Amu TV
@@ -210,7 +211,6 @@ CAN TV36 (1080p)
 Canal de la Fe (720p)
 Canela TV (1080p)
 Car Chase (United States) (720p)
-Cartoon Network (United States) (720p)
 Catholic Faith Network (720p)
 Catholic TV (1080p)
 CBN Family (1080p)
@@ -287,6 +287,7 @@ CMT (720p)
 CMT Equal Play (720p)
 CMTV (720p)
 CNN (720p)
+CNN Chile (1080p)
 CNN HD (720p) [Geo-blocked]
 CNN Originals (1080p)
 Cold Case Files (1080p)
@@ -340,7 +341,6 @@ Designated Survivor (1080p) [Geo-blocked]
 Destination America (720p)
 Discovery Channel (United States) (1080p) [Geo-blocked]
 Discovery Turbo (United States) (720p)
-Disney Junior (United States) (480p)
 District of Columbia Network (1080p)
 DKN (1080p)
 Doctor Who Classic (1080p)
@@ -359,7 +359,6 @@ Electric Now (720p)
 Elevation Church Network (1080p)
 Entertainment Tonight (1080p)
 EntrepreneurTV (720p)
-ESPN (United States) (432p)
 ESPN (United States) HD (720p)
 ESPN 2 (United States) HD (720p)
 ESPNU HD (720p)
@@ -407,7 +406,6 @@ Fox News Channel (1080p)
 Fox News Radio (720p)
 Fox Soul (1080p)
 Fox Sports 1 (720p)
-Fox Sports 2 (United States) (720p)
 Fox Weather (720p)
 Free Speech TV (720p)
 FrightFlix (720p)
@@ -416,7 +414,6 @@ Fubo Sports Network (1080p)
 Fun Roads (720p)
 Funny AF
 Fuse (1080p)
-FX (720p)
 Galxy TV (720p)
 Game Show Central (720p)
 Game Show Network (720p) [Not 24/7]
@@ -451,14 +448,10 @@ Hallmark Channel (720p) [Geo-blocked]
 Happy Days (United States)
 HappyKids (1080p)
 Harmony Gospel Music TV (1080p)
-Harvest USA (576p)
 Hasbro Legends (1080p) [Geo-blocked]
 HauntTV (1080p)
-HBO (United States) (720p)
-HBO Hits (720p)
 Heartland (720p)
 Heartland Web
-HGTV (United States) (720p)
 Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
@@ -475,6 +468,8 @@ Home.Made.Nation (720p)
 Homeful US (1080p)
 Hope Channel Inter-America
 Hope Channel Inter-America English (1080p)
+Hope Channel International (1080p)
+Hope Channel North America (1080p)
 Hot Bench (720p)
 HSN (720p)
 HSN West (720p)
@@ -532,7 +527,6 @@ KSCE 38.1 (360p)
 KSCE 38.3 (360p)
 KVTN-DT 25.1 (720p)
 Lacrosse TV (720p)
-Laff (576p)
 Lake Havasu City 4
 Las Vegas Tonight with Dale Davidson (1080p)
 LATV (1080p) [Geo-blocked]
@@ -554,7 +548,6 @@ LLBN His Light (720p)
 LLBN His Word (720p)
 LLBN TV South Asia (480p)
 Localish (1080p)
-Logo Pluto TV
 Logos TV (Spain) (1080p) [Not 24/7]
 Logos TV (United States) (1080p) [Not 24/7]
 Logos TV English (1080p) [Not 24/7]
@@ -596,8 +589,6 @@ Midnight Pulp (1080p)
 Midpen Media Center Channel 26 (720p)
 Midpen Media Center Channel 28 (720p)
 Midpen Media Center Channel 29 (720p)
-Midpen Media Center Channel 30 (720p)
-Midpen Media Center Channel 75 (720p)
 Midsomer Murders (1080p)
 Mission Impossible (United States)
 Mission TV (1080p) [Not 24/7]
@@ -661,8 +652,6 @@ NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx [Geo-blocked]
-News12 Brooklyn [Geo-blocked]
-News12 Conneticut [Geo-blocked]
 News12 New York (1080p)
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
@@ -680,7 +669,6 @@ Nickelodeon Pluto TV (720p)
 Nicktoons (United States) (720p)
 Ninja Kidz TV (720p)
 NMBTV (720p)
-NorCast Weather (1080p)
 Nosey (1080p)
 NOST (720p)
 Novelisima (1080p)
@@ -739,6 +727,7 @@ PCT Channel 26 (720p)
 PCT Channel 27 (720p)
 PCTV 26 (480p)
 PCTV 28 (480p)
+People Are Awesome (1080p)
 Peppa Pig
 Perry Mason
 PGA Tour (1080p)
@@ -876,6 +865,7 @@ Sonic TV (720p)
 Sound View Community Media (480p)
 Spike Outdoors
 Spike Pluto TV
+Spirit TV (720p) [Not 24/7]
 SportsGrid (1080p)
 SPTV (360p)
 Stadium (720p)
@@ -915,7 +905,6 @@ TCM West (720p) [Geo-blocked]
 TCT (1080p)
 TED (1080p)
 Teen Mom (United States)
-TeenNick (United States) (432p)
 Tempe 11
 Tennis Channel (1080p)
 Tennis Channel +2 (720p)
@@ -1067,7 +1056,6 @@ Whiplash II (480p)
 White Plains Community Media (360p)
 WHOH-TV (360p)
 Wild 'N Out
-Willow (720p)
 Willow Sports (1080p)
 Window TV (720p)
 Wine Watches & Whiskey (1080p)
