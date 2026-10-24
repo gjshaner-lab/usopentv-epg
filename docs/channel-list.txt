@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1112 channels currently shown in the app
-(excluded: 72 non-English, 75 manually, 224 not responding)
+1103 channels currently shown in the app
+(excluded: 72 non-English, 75 manually, 233 not responding)
 ============================================================
 
 00s Replay
@@ -580,6 +580,7 @@ Mas adrenalina
 Matlock (United States)
 Maverick Black Cinema (1080p)
 Maxcine (720p)
+Maxcine 2 (720p)
 Maxcine Comedy (720p)
 Maxcine Family (720p)
 Maxcine Kids (720p)
@@ -663,17 +664,8 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
-News12 New Jersey [Geo-blocked]
 News12 New York (1080p)
-News12 Westchester [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
-News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -1097,7 +1089,6 @@ WSOC Now (1080p) [Geo-blocked]
 WVCU-LP (1080p)
 WVVH-CD 18.1 (720p)
 WWE Network (1080p)
-WWON-TV Channel 48
 XFC TV (720p)
 XITE Classic Country (720p)
 XITE Just Chill (1080p)
