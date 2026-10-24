@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1073 channels currently shown in the app
-(excluded: 72 non-English, 75 manually, 263 not responding)
+1112 channels currently shown in the app
+(excluded: 72 non-English, 75 manually, 224 not responding)
 ============================================================
 
 00s Replay
@@ -69,6 +69,8 @@ Acapulco Shore US
 ACC Digital Network (1080p)
 ACC Network (720p)
 Access Humboldt (1080p)
+Access Nashua (720p)
+AccessVision Channel 16 (720p)
 AccessVision Channel 17 (720p)
 AccuWeather NOW (1080p)
 ACE Country Radio KPVM-LD
@@ -77,6 +79,7 @@ Ace TV KCKS-LD (720p)
 ACTV (United States)
 Adrenalina Pura TV (720p)
 Adult Swim West [Not 24/7;Geo-blocked]
+AFTV (1080p)
 AFV (720p)
 Akaku 53 (1080p)
 Akaku 54 (1080p)
@@ -141,7 +144,9 @@ Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
 Battlestar Galactica
+BATV Educational Channel
 BATV Government Channel
+BATV Public Channel
 BBC America (720p)
 BBC Earth US (1080p)
 BBC Food (1080p)
@@ -154,6 +159,8 @@ beIN SPORTS XTRA (1080p)
 BEK News (720p)
 BEK Sports West (720p)
 Bellator MMA
+Berks Community TV (1080p)
+Best of BATV Channel
 Best of Dr Phil
 BET Classics Pluto TV
 Better Health TV (480p)
@@ -178,6 +185,7 @@ Bloomberg TV (1080p)
 Bloomberg TV Live Event (720p)
 Bloomberg TV Politics Live Event (720p)
 Blue Bloods
+BMC-HD TV (720p)
 bon appetit (1080p)
 Bonanza
 Boomerang (720p)
@@ -272,6 +280,10 @@ Classic TV Drama
 Classic TV: Families
 Classica (720p)
 Cloudflare TV (720p)
+CMAP Channel 17 (720p)
+CMAP Channel 18 (720p)
+CMAP Channel 19 (720p)
+CMAP Channel 20 (720p)
 CMC-USA Country Music Channel (720p)
 CMT (720p)
 CMT Equal Play (720p)
@@ -309,6 +321,8 @@ Curiosity NOW EN (1080p)
 CVC Education (480p)
 CVC Government (480p)
 CVC Public (480p)
+CVTV Channel 192 (1080p)
+CVTV Channel 194 (1080p)
 Cypress Channel 36 (360p)
 Danger TV (720p)
 Dare To Dream Network
@@ -323,6 +337,7 @@ DCC: Making the Team
 Deal or No Deal (1080p)
 Degrassi (720p)
 Denver 8 TV (720p)
+DerryTV 17 (720p)
 DerryTV 23 (720p)
 Designated Survivor (1080p) [Geo-blocked]
 Destination America (720p)
@@ -362,6 +377,7 @@ Fashion Finds (720p)
 Fast TV (720p)
 Fear Factor (1080p)
 Feel Good Drama
+Fernandina Beach Channel (720p) [Not 24/7]
 FGTV (United States)
 Fierro a Fondo TV (1080p)
 FilmRise Forensic Files (720p) [Geo-blocked]
@@ -425,6 +441,7 @@ GoodLife 45 (720p) [Not 24/7]
 Gordon Ramsay's Hell's Kitchen (720p)
 Gospel Truth TV (1080p)
 GoTraveler (720p) [Geo-blocked]
+Government TV 16 (720p)
 Gravitas Movies (1080p)
 Great Entertainment Television (720p)
 Greater Love TV (720p)
@@ -527,6 +544,8 @@ Law & Crime (720p)
 Lego Channel (1080p)
 LEGO Kids TV
 Leominster TV Educational (720p)
+Leominster TV Government (720p)
+Leominster TV Public (720p) [Not 24/7]
 Lex TV (720p)
 LifevisionTV (406p) [Not 24/7]
 Lindell TV (720p)
@@ -561,7 +580,6 @@ Mas adrenalina
 Matlock (United States)
 Maverick Black Cinema (1080p)
 Maxcine (720p)
-Maxcine 2 (720p)
 Maxcine Comedy (720p)
 Maxcine Family (720p)
 Maxcine Kids (720p)
@@ -598,6 +616,7 @@ Movies! KPVM-LD
 MovieSphere (1080p)
 MovieSphere Gold WFXT (1080p)
 Mr Bean Animated (1080p)
+MRVTV Channel 44 (720p)
 MRVTV Channel 45 (720p)
 MS NOW (432p)
 MST3K (1080p)
@@ -613,7 +632,11 @@ Mystery Science Theater 3000 (1080p)
 MyTime Movie Network East (1080p)
 Naruto (1080p)
 Nash Bridges (720p)
+Nashua ETV (720p)
 NAT TV (1080p)
+Natick Education Channel (720p)
+Natick Government Channel (720p)
+Natick Public Access Channel (720p)
 National Geographic (United States) (720p)
 National Geographic (United States) HD East (720p)
 National Geographic Wild (United States) HD East (720p)
@@ -636,19 +659,18 @@ NBC WPXI (1080p)
 NBC WTMJ-TV (720p)
 NBC WTVJ (1080p)
 NBCLX (1080p)
+NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
 News12 Long Island (1080p) [Geo-blocked]
 News12 New Jersey [Geo-blocked]
 News12 New York (1080p)
 News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
 News12+ Long Island (1080p) [Geo-blocked]
 News12+ New Jersey (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
@@ -723,12 +745,16 @@ PBS Travel (1080p)
 PBS WEDQ (1080p)
 PBS WJXT (720p)
 PBS WNJT (1080p) [Not 24/7]
+PCT Channel 26 (720p)
+PCT Channel 27 (720p)
 PCTV 26 (480p)
 PCTV 28 (480p)
 People Are Awesome (1080p)
 Peppa Pig
 Perry Mason
 PGA Tour (1080p)
+PhillyCAM (720p)
+PHLgovTV (720p)
 PHXTV
 PixL TV
 Placid (1080p) [Not 24/7]
@@ -794,6 +820,7 @@ Radio y Television Marti (720p)
 Rainbow Ruby (720p)
 Rally TV (1080p)
 Rawhide (United States)
+RCTV (United States) (720p)
 RCTV3 (480p)
 Real America's Voice KPVM-LD
 Real Wild (1080p)
@@ -820,6 +847,10 @@ RTN Chicago (480p)
 RTR-Planeta US (720p) [Geo-blocked]
 Runtime (720p)
 RVTV (1080p)
+RVTV Civic (720p)
+RVTV Grants Pass (720p)
+RVTV Prime (720p)
+RVTV Voices (720p)
 Ryan and Friends (1080p)
 S Corby TV (480p)
 S Metro TV (360p)
@@ -847,10 +878,13 @@ Skwad Play (1080p)
 SLO County Channel 21 (360p)
 Slopes TV (720p)
 Smart LifeStyle TV (720p)
+SMCTV Channel 23 (720p)
+SMCTV Channel 24 (720p)
 SMCTV Channel 25 (720p)
 Smithsonian Channel Selects (United States)
 Smurf TV (480p)
 Sonic TV (720p)
+Sound View Community Media (480p)
 Spike Outdoors
 Spike Pluto TV
 Spirit TV (720p) [Not 24/7]
@@ -879,6 +913,8 @@ Swerve Sports (720p)
 SYFY (720p)
 Talkin Live Classics TV (480p)
 TAP TV Channel 23 (720p)
+TAP TV Channel 24 (720p)
+TAP TV Channel 25 (720p)
 Tastemade (1080p)
 Tastemade Travel (1080p)
 TBN Armenia
@@ -958,6 +994,7 @@ True History (720p)
 truTV (720p)
 truTV West (720p) [Geo-blocked]
 TSTV (720p)
+TUTV (1080p)
 TV Hispanic [Not 24/7]
 TV Land Drama
 TV Land Sitcoms
@@ -1075,4 +1112,6 @@ Young Hollywood (720p)
 Youtoo America KVVB-LD (1080p) [Not 24/7]
 YTA TV (720p)
 Yu-Gi-Oh! (1080p)
+Yuma Channel 72 (1080p)
+Yuma Channel 73 (1080p)
 Yuma77
