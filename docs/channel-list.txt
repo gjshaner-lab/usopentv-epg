@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1088 channels currently shown in the app
-(excluded: 72 non-English, 75 manually, 249 not responding)
+1082 channels currently shown in the app
+(excluded: 72 non-English, 75 manually, 256 not responding)
 ============================================================
 
 00s Replay
@@ -110,6 +110,7 @@ America's Voice News (720p)
 American Heroes Channel (720p)
 American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
+AMGA TV (720p) [Not 24/7]
 AMP 1 (720p)
 AMP 2 (720p)
 Amu TV
@@ -335,6 +336,7 @@ Designated Survivor (1080p) [Geo-blocked]
 Destination America (720p)
 Discovery Channel (United States) (1080p) [Geo-blocked]
 Discovery Turbo (United States) (720p)
+Disney XD (United States) (1080p)
 District of Columbia Network (1080p)
 DKN (1080p)
 Doctor Who Classic (1080p)
@@ -396,8 +398,6 @@ Fox (United States) WTTG (1080p)
 Fox (United States) WTVT (1080p)
 Fox (United States) WTXF-TV (1080p)
 Fox (United States) WXXV-TV (720p)
-Fox Business Network (576p)
-Fox News Channel (1080p)
 Fox News Radio (720p)
 Fox Soul (1080p)
 Fox Sports 1 (720p)
@@ -417,7 +417,6 @@ GCN America (720p)
 GEB Network KBPX-LD (1080p)
 Gem Shopping Network (720p)
 Genesis Science Network (720p)
-Giggle Mug (576p)
 Gillette Public Access Television Channel 189
 Gillette Public Access Television Channel 190
 Gillette Public Access Television Channel 192
@@ -602,7 +601,6 @@ MovieSphere Gold WFXT (1080p)
 Mr Bean Animated (1080p)
 MRVTV Channel 44 (720p)
 MRVTV Channel 45 (720p)
-MS NOW (432p)
 MST3K (1080p)
 MTC
 MTV (United States) (1080p)
@@ -648,13 +646,11 @@ NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
 News12 New York (1080p)
 News12 Westchester [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
@@ -820,7 +816,6 @@ Ridiculousness (United States)
 RiffTrax (720p)
 Right Now TV (720p)
 Roar (1080p)
-Roar KCWX (720p) [Not 24/7]
 Roar KOKI-TV (1080p)
 RTH-TV1 (1080p)
 RTN (United States)
@@ -1005,7 +1000,6 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
-TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
