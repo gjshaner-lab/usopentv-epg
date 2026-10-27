@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1078 channels currently shown in the app
-(excluded: 72 non-English, 75 manually, 260 not responding)
+1075 channels currently shown in the app
+(excluded: 72 non-English, 75 manually, 263 not responding)
 ============================================================
 
 00s Replay
@@ -50,6 +50,7 @@ ABC News Live 6 (720p)
 ABC News Live 7 (720p)
 ABC News Live 8 (720p)
 ABC News Live 9 (720p)
+ABC WBBJ-TV (432p)
 ABC WBRZ-TV (480p)
 ABC WDIO-DT (1080p)
 ABC WFTV (720p)
@@ -260,7 +261,6 @@ Circle (1080p)
 City of Fort Pierce (720p)
 City of Pompano Beach (720p)
 City TV Carlsbad (720p)
-City TV Channel 3/41 (360p)
 CityTV 20 Santa Monica (360p) [Not 24/7]
 CityTV Lakewood (720p)
 CityTV San Diego (360p)
@@ -283,7 +283,6 @@ CMT (720p)
 CMT Equal Play (720p)
 CMTV (720p)
 CNN (720p)
-CNN Chile (1080p)
 CNN HD (720p) [Geo-blocked]
 CNN Originals (1080p)
 Cold Case Files (1080p)
@@ -349,6 +348,7 @@ Duck Hunting TV (1080p)
 Dungeon TV (720p)
 Dynasty
 E! East (1080p)
+El Sembrador Nueva Evangelizacion ESNE
 Elbeshara GTV (1080p) [Not 24/7]
 Electric Now (720p)
 Elevation Church Network (1080p)
@@ -508,7 +508,6 @@ Kern County TV
 Kids Movie Club
 KidsFlix (1080p) [Not 24/7]
 KIIO-LD 10.1
-KIIO-LD 10.4 (480p)
 KMCT-TV 39.1
 KNOV-CD 41.1 (720p)
 KNXV-TV 61.1 (720p)
@@ -521,6 +520,7 @@ KSCE 38.3 (360p)
 KVTN-DT 25.1 (720p)
 Lacrosse TV (720p)
 Lake Havasu City 4
+Las Vegas Tonight with Dale Davidson (1080p)
 LATV (1080p) [Geo-blocked]
 Law & Crime (720p)
 Lego Channel (1080p)
@@ -640,12 +640,8 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Bronx [Geo-blocked]
-News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
 News12 New York (1080p)
-News12+ Hudson Valley (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
@@ -665,6 +661,7 @@ NMBTV (720p)
 NorCast Weather (1080p)
 Nosey (1080p)
 NOST (720p)
+Novelisima (1080p)
 NRBTV (720p)
 NTD TV English (1080p)
 OAN Plus (1080p)
@@ -741,7 +738,6 @@ Pluto TV Competition
 Pluto TV Crime Drama
 Pluto TV Crime Movies
 Pluto TV Cult Films (United States)
-Pluto TV Dog el cazarrecompensas
 Pluto TV Drama
 Pluto TV El Reino Infantil
 Pluto TV Estrellas de Accion
@@ -862,6 +858,7 @@ SPTV (360p)
 Stadium (720p)
 Star Channel International (720p)
 Star Trek US
+Star Trek: Deep Space Nine
 Star Trek: The Next Generation (United States)
 Star Trek: Voyager (United States)
 Starz Comedy (1080p)
