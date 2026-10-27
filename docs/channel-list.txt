@@ -1,9 +1,8 @@
 US Open TV -- Channel List
-1084 channels currently shown in the app
-(excluded: 72 non-English, 75 manually, 254 not responding)
+946 channels currently shown in the app
+(excluded: 72 non-English, 75 manually, 392 not responding)
 ============================================================
 
-00s Replay
 30A Darcizzle Offshore (720p)
 30A Georgia Hollywood Review (720p)
 30A Golf Kingdom (720p)
@@ -24,7 +23,6 @@ US Open TV -- Channel List
 3ABN Proclaim! Network
 48 Hours (1080p)
 50 Cent Action (720p)
-70s Cinema
 80s Rewind
 90's Kids
 90s Kids TV 2
@@ -65,7 +63,6 @@ ABC WWAY
 ABHP TV (480p)
 ABN Bible Movies Channel (720p)
 Absolute Reality by WE TV
-Acapulco Shore US
 ACC Digital Network (1080p)
 ACC Network (720p)
 Access Humboldt (1080p)
@@ -96,7 +93,6 @@ Alkarma TV North America & Canada (1080p) [Not 24/7]
 Alkarma TV Praise (720p) [Not 24/7]
 Alkarma TV Talmaza Discipleship (1080p) [Not 24/7]
 Alkarma TV Youth & English (1080p) [Not 24/7]
-All Reality by WE tv (720p)
 All Weddings WE tv
 ALLBLK Gems (720p)
 Almagd TV Middle East (1080p) [Not 24/7]
@@ -106,7 +102,6 @@ AMC (United States) (720p)
 America's Next Top Model
 America's Test Kitchen (720p)
 America's Voice (720p)
-America's Voice News (720p)
 American Heroes Channel (720p)
 American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
@@ -118,7 +113,6 @@ Aneflix Live (720p)
 Anger Management Channel (1080p)
 Animal Planet (United States) (720p)
 Animation+ (1080p) [Geo-blocked]
-Anime x HIDIVE
 Antiques Road Trip (1080p)
 Antiques Roadshow UK (1080p)
 Are We There Yet? (1080p)
@@ -139,6 +133,7 @@ AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
+BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -161,32 +156,23 @@ Bellator MMA
 Berks Community TV (1080p)
 Best of BATV Channel
 Best of Dr Phil
-BET Classics Pluto TV
 Better Health TV (480p)
 Better Life Nature Channel (480p)
 Better Life TV (720p)
-Beverly Hillbillies
-Beverly Hills 90210
 Beyond the Gates
 BHTV10 (720p)
 BHTV35 (720p)
-Big Brother
 Big Ten Network (720p)
 Billiard TV (1080p) [Geo-blocked]
 Binge
 Biz TV (1080p)
-Black Family Sitcoms
-Black Ink Crew
 Black News Channel (1080p)
-Blaze Live (720p)
 Bloomberg Originals (1080p)
 Bloomberg TV (1080p)
 Bloomberg TV Live Event (720p)
 Bloomberg TV Politics Live Event (720p)
-Blue Bloods
 BMC-HD TV (720p)
 bon appetit (1080p)
-Bonanza
 Boomerang (720p)
 Botflix Radioo (1080p)
 Botflix TV (1080p)
@@ -210,7 +196,6 @@ CAN TV27 (1080p)
 CAN TV36 (1080p)
 Canal de la Fe (720p)
 Canela TV (1080p)
-Car Chase (United States) (720p)
 Catholic Faith Network (720p)
 Catholic TV (1080p)
 CBN Family (1080p)
@@ -270,13 +255,6 @@ CityTV Lakewood (720p)
 CityTV San Diego (360p)
 Clarity 4K (2160p) [Geo-blocked]
 Classic Cinema (240p) [Not 24/7]
-Classic Movie Westerns
-Classic Movies Channel
-Classic TV Comedy
-Classic TV Crime Drama
-Classic TV Drama
-Classic TV: Families
-Classica (720p)
 Cloudflare TV (720p)
 CMAP Channel 17 (720p)
 CMAP Channel 18 (720p)
@@ -284,17 +262,13 @@ CMAP Channel 19 (720p)
 CMAP Channel 20 (720p)
 CMC-USA Country Music Channel (720p)
 CMT (720p)
-CMT Equal Play (720p)
 CMTV (720p)
 CNN (720p)
 CNN Chile (1080p)
-CNN HD (720p) [Geo-blocked]
 CNN Originals (1080p)
 Cold Case Files (1080p)
-Comedy Central Animation
 Comedy Central Pluto TV
 Comet (1080p)
-Concert Channel (720p)
 Cooking Channel (720p)
 Cooking Panda (576p)
 Cornerstone TV (720p)
@@ -302,14 +276,8 @@ Court TV (1080p)
 Create (1080p)
 Create WMPT
 Crime + Investigation (720p)
-Crime 360 (720p)
-Crimenes Imperfectos
-Crunchyroll (720p)
 Cruz TV
 CSat TV (1080p) [Not 24/7]
-CSI (United States)
-CSI: Miami
-CSI: NY
 CT-N Court Feed (360p) [Not 24/7]
 CT-N Live Stream 2 (360p) [Not 24/7]
 CT-N TV Conneticut (720p) [Not 24/7]
@@ -325,13 +293,11 @@ Cypress Channel 36 (360p)
 Danger TV (720p)
 Dare To Dream Network
 Dark Matter TV (720p)
-Dating Disasters
 Daystar TV (1080p)
 Daystar TV Espanol (1080p)
 Daystar TV WSLF-LD (720p)
 DC Council Hearing Room 120 (1080p)
 DCC (1080p)
-DCC: Making the Team
 Deal or No Deal (1080p)
 Degrassi (720p)
 Denver 8 TV (720p)
@@ -339,7 +305,6 @@ DerryTV 17 (720p)
 DerryTV 23 (720p)
 Designated Survivor (1080p) [Geo-blocked]
 Destination America (720p)
-Discovery Channel (United States) (1080p) [Geo-blocked]
 Discovery Turbo (United States) (720p)
 Disney XD (United States) (1080p)
 District of Columbia Network (1080p)
@@ -367,25 +332,17 @@ EWTN (United States) (720p) [Geo-blocked]
 Extrema TV (United States) (720p)
 F1 Channel (1080p) [Geo-blocked]
 FailArmy (720p)
-Fairground AI Creator TV (1080p)
 Faith TV (1080p)
-Family Ties (United States)
-Farscape
 Fashion Finds (720p)
 Fast TV (720p)
 Fear Factor (1080p)
-Feel Good Drama
-Fernandina Beach Channel (720p) [Not 24/7]
 FGTV (United States)
 Fierro a Fondo TV (1080p)
 FilmRise Forensic Files (720p) [Geo-blocked]
-Flicks of Fury
 Flowers TV USA
 FNX (1080p)
 FNX KVCR-DT [Geo-blocked]
 Food Network (United States) (720p)
-Forensic Files
-Forever Kids
 Fox (United States) KBSI (720p) [Not 24/7]
 Fox (United States) KCPQ (720p)
 Fox (United States) KDFW (1080p)
@@ -412,12 +369,9 @@ FrightFlix (720p)
 FTF Sports (720p)
 Fubo Sports Network (1080p)
 Fun Roads (720p)
-Funny AF
 Fuse (1080p)
 Galxy TV (720p)
-Game Show Central (720p)
 Game Show Network (720p) [Not 24/7]
-Garfield and Friends
 GCN America (720p)
 GEB Network KBPX-LD (1080p)
 Gem Shopping Network (720p)
@@ -425,7 +379,6 @@ Genesis Science Network (720p)
 Gillette Public Access Television Channel 189
 Gillette Public Access Television Channel 190
 Gillette Public Access Television Channel 192
-Girlfriends Films
 Glendale 11 AZ (360p)
 Global Buddhist Network (1080p)
 Global Fashion Channel (1080p)
@@ -441,52 +394,40 @@ Greater Love TV (720p)
 Grit Xtra (1080p)
 Grjngo Western Movies (720p)
 Guangdong TV America
-Gunsmoke
 Hallmark Channel (720p) [Geo-blocked]
-Happy Days (United States)
 HappyKids (1080p)
 Harmony Gospel Music TV (1080p)
 Harvest USA (576p)
 Hasbro Legends (1080p) [Geo-blocked]
 HauntTV (1080p)
 Heartland (720p)
-Heartland Web
 Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
 His Glory TV (1080p)
-History (United States) (720p)
 History Hit (1080p)
 HLN (720p)
 HMI PROMZ NEWS (720p)
 Hmong Star TV (720p) [Not 24/7]
 Hmong TV Network (720p)
-Hogan's Heroes
 HollyWire (720p)
-Home.Made.Nation (720p)
 Homeful US (1080p)
 Hope Channel Inter-America
 Hope Channel Inter-America English (1080p)
 Hope Channel International (1080p)
 Hope Channel North America (1080p)
-Hot Bench (720p)
 HSN (720p)
 HSN West (720p)
 HSN2 (720p)
 HTV 1 Houston Television (720p)
 HTV 2 Houston Television (720p)
 Hungry (720p)
-I Love Lucy
 iCarly (United States) SD
 IFC (1080p)
 iHolyfield TV WHPS-CD
 Impact Network (720p)
 Impossible Quiz Show (1080p)
 In the Kitchen (720p)
-Ink Master
-Instant Saga
-Investiga US
-Investigation Discovery (United States) (1080p) [Geo-blocked]
 INWILD (1080p)
 ION Plus (1080p)
 ION TV (720p)
@@ -494,7 +435,6 @@ IraneFarda TV
 It Is Written TV (1080p)
 It's Supernatural! Network (1080p)
 JBS (720p)
-Jersey Shore (United States)
 Jewelry TV (720p)
 Jewelry TV 2 (720p)
 Jewish Life Television (1080p)
@@ -511,7 +451,6 @@ KBSV 23.1 (720p) [Not 24/7]
 Kentucky Educational Television WKMJ-TV (480p)
 Kentucky Educational Television WKPC-TV (480p)
 Kern County TV
-Kids Movie Club
 KidsFlix (1080p) [Not 24/7]
 KIIO-LD 10.1
 KIIO-LD 10.4 (480p)
@@ -537,21 +476,17 @@ Lex TV (720p)
 LifevisionTV (406p) [Not 24/7]
 Lindell TV (720p)
 Little Guyana TV (1080p)
-Little Stars Universe
-Live Music
 LiveNOW from FOX (720p)
 LIVExLIVE (1080p)
 LLBN His Light (720p)
 LLBN His Word (720p)
 LLBN TV South Asia (480p)
 Localish (1080p)
-Logo Pluto TV
 Logos TV (Spain) (1080p) [Not 24/7]
 Logos TV (United States) (1080p) [Not 24/7]
 Logos TV English (1080p) [Not 24/7]
 Logos TV Kids (720p) [Not 24/7]
 Lone Star (1080p)
-Love & Hip Hop
 Love Pets (1080p)
 Love The Planet (1080p)
 LoveWorld USA (720p)
@@ -563,11 +498,11 @@ MagellanTV Now (1080p)
 Majestad TV (480p) [Not 24/7]
 Maria Vision USA (1080p)
 Martin County TV (720p)
-Mas adrenalina
-Matlock (United States)
 Maverick Black Cinema (1080p)
 Maxcine (720p)
+Maxcine 2 (720p)
 Maxcine Comedy (720p)
+Maxcine Family (720p)
 Maxcine Kids (720p)
 MBC 1 USA (1080p) [Geo-blocked]
 MBC 3 USA (1080p) [Geo-blocked]
@@ -582,22 +517,13 @@ MCPSS TV
 Mega Extreno HD (720p)
 Merit Street (1080p)
 Midnight Pulp (1080p)
-Midpen Media Center Channel 26 (720p)
-Midpen Media Center Channel 28 (720p)
-Midpen Media Center Channel 29 (720p)
-Midpen Media Center Channel 30 (720p)
-Midpen Media Center Channel 75 (720p)
 Midsomer Murders (1080p)
-Mission Impossible (United States)
 Mission TV (1080p) [Not 24/7]
 MLB (720p)
 MLB Strike Zone (720p)
 MNT WFLD (1080p)
 Mohabat TV (United States) (540p)
 Monroe County TV (1080p)
-More True Crime
-More TV Drama
-More TV Sitcoms
 Movies! KPVM-LD
 MovieSphere (1080p)
 MovieSphere Gold WFXT (1080p)
@@ -607,22 +533,17 @@ MRVTV Channel 45 (720p)
 MST3K (1080p)
 MTC
 MTV (United States) (1080p)
-MTV Biggest Pop (1080p)
 MTV Live (720p)
-MTV Pluto TV
-MTV Spankin' New (1080p)
 MTV2 (720p)
 Muslim Network TV
 Mystery Science Theater 3000 (1080p)
 MyTime Movie Network East (1080p)
 Naruto (1080p)
-Nash Bridges (720p)
 Nashua ETV (720p)
 NAT TV (1080p)
 Natick Education Channel (720p)
 Natick Government Channel (720p)
 Natick Public Access Channel (720p)
-National Geographic (United States) (720p)
 National Geographic (United States) HD East (720p)
 National Geographic Wild (United States) HD East (720p)
 NBA TV (720p)
@@ -649,8 +570,16 @@ NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
+News12 New Jersey [Geo-blocked]
 News12 New York (1080p)
+News12 Westchester [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -659,17 +588,13 @@ NFL Channel (720p)
 NFL Network (720p)
 NHL Network (1080p)
 NHRA TV (1080p)
-Nick Jr. (United States) (720p)
-Nick Jr. Pluto TV (720p)
 Nickelodeon (United States) (720p)
-Nickelodeon Pluto TV (720p)
 Nicktoons (United States) (720p)
 Ninja Kidz TV (720p)
 NMBTV (720p)
 NorCast Weather (1080p)
 Nosey (1080p)
 NOST (720p)
-Novelisima (1080p)
 NRBTV (720p)
 NTD TV English (1080p)
 OAN Plus (1080p)
@@ -680,7 +605,6 @@ Olelo 54 (720p)
 Olelo 55 (720p)
 Omid e Iran TV
 One America News Network (720p)
-One Piece
 Ontario Public Access Channel (360p)
 OnTV4U (1080p) [Geo-blocked]
 Orange Government Access TV (720p)
@@ -696,13 +620,11 @@ Pac-12 Insider (1080p)
 Pacific Island Network (1080p)
 Palm Beaches TV (720p)
 Paramount Movie Channel
-Paramount+ Picks
 Pasco TV (480p)
 Payam Javan TV (720p) [Not 24/7]
 Payam-e-Afghan TV (480p) [Not 24/7]
 Payvand TV (United States) (720p)
 PBC TV Channel 20 (720p)
-PBR RidePass (720p)
 PBS (1080p) [Geo-blocked]
 PBS Antiques Roadshow (1080p)
 PBS KETS [Geo-blocked]
@@ -727,58 +649,25 @@ PCT Channel 27 (720p)
 PCTV 26 (480p)
 PCTV 28 (480p)
 People Are Awesome (1080p)
-Peppa Pig
-Perry Mason
 PGA Tour (1080p)
 PhillyCAM (720p)
 PHLgovTV (720p)
 PHXTV
 PixL TV
 Placid (1080p) [Not 24/7]
-Pluto TV Action (United States)
-Pluto TV Adventure
 Pluto TV Anime
-Pluto TV Anime Movies
-Pluto TV Cars
 Pluto TV Cine Comedia (United States)
-Pluto TV Comedy
-Pluto TV Competition
-Pluto TV Crime Drama
-Pluto TV Crime Movies
-Pluto TV Cult Films (United States)
-Pluto TV Dog el cazarrecompensas
-Pluto TV Drama
-Pluto TV El Reino Infantil
-Pluto TV Estrellas de Accion
-Pluto TV Fantastic
-Pluto TV Franchise Favorites
-Pluto TV Game Shows
 Pluto TV History
-Pluto TV Hometown Drama
 Pluto TV Horror (United States)
-Pluto TV Icons
 Pluto TV Lives
-Pluto TV Los nuevos detectives
-Pluto TV Military
-Pluto TV Minuto Para Ganar
-Pluto TV Misterios Medicos
 Pluto TV Paranormal (United States)
 Pluto TV Reaction
-Pluto TV Reality
 Pluto TV Romance
-Pluto TV Sanctuary
-Pluto TV Sci-Fi (United States)
-Pluto TV Science
 Pluto TV Spotlight
 Pluto TV Staff Picks
-Pluto TV Storage Wars (720p)
 Pluto TV Terror
-Pluto TV The Twilight Zone
-Pluto TV Thrillers
-Pluto TV Trending Now
 Pluto TV True Crime (United States)
 Pluto TV Westerns (United States)
-Pluto TV Wipeout
 pocket.watch (1080p)
 Pocono Television Network (1080p)
 PokerGo
@@ -859,7 +748,6 @@ Smithsonian Channel Selects (United States)
 Smurf TV (480p)
 Sonic TV (720p)
 Sound View Community Media (480p)
-Spike Outdoors
 Spike Pluto TV
 Spirit TV (720p) [Not 24/7]
 SportsGrid (1080p)
@@ -869,7 +757,6 @@ Star Channel International (720p)
 Star Trek US
 Star Trek: Deep Space Nine
 Star Trek: The Next Generation (United States)
-Star Trek: Voyager (United States)
 Starz Comedy (1080p)
 Starz Kids & Family (1080p)
 Starz West (720p)
@@ -879,7 +766,6 @@ Story Television WCIU-TV
 Stryk TV (1080p)
 SUMtv English (1080p)
 Super Simple Songs (1080p)
-Supernatural Drama
 Survivor (1080p)
 Swamiji TV American (1080p) [Not 24/7]
 Swerve Combat (1080p)
@@ -891,7 +777,6 @@ TAP TV Channel 24 (720p)
 TAP TV Channel 25 (720p)
 Tastemade (1080p)
 Tastemade Travel (1080p)
-TBN Armenia
 TBN Pacific
 TBN Ukraine (720p)
 TBS (720p) [Geo-blocked]
@@ -900,43 +785,31 @@ TCM (720p) [Geo-blocked]
 TCM West (720p) [Geo-blocked]
 TCT (1080p)
 TED (1080p)
-Teen Mom (United States)
 Tempe 11
 Tennis Channel (1080p)
-Tennis Channel +2 (720p)
-Tennis Channel 2 (1080p)
 Teve Vida Network (480p) [Not 24/7]
 TG Junior (720p)
-The Addams Family
-The Amazing Race
-The Andy Griffith Show
 The Archive (1080p)
 The Asylum (1080p)
 The Carol Burnett Show (1080p)
 The Challenge
 The Chat Show Channel (1080p)
 The City of Marina (720p)
-The Conners
 The Country Network (1080p)
 The Design Network (1080p)
 The First TV (1080p)
 The Graham Norton Show (1080p)
 The Jamie Oliver Channel (1080p)
-The Judge Judy Channel (720p)
 The Loop (1080p)
 The Love Boat
 The Monterey Channel (720p)
 The Nest (1080p)
-The New Detectives (United States)
 The Now Network (480p) [Not 24/7]
 The Peninsula Channel (720p)
 The Pet Collective (720p)
 The Point Televsion Network (1080p)
-The Price Is Right
-The Price Is Right: The Barker Era (720p)
 The Rifleman
 The Walk TV
-The Walking Dead Universe (720p)
 The Wild Wild West (United States)
 The Word Network (1080p)
 The Young Turks (720p)
@@ -944,10 +817,8 @@ theDove TV (720p)
 This Old House (1080p)
 Three's Company
 Tin TV (720p)
-Tiny House Nation (720p)
 TLN KQSL (720p)
 TMZ (720p)
-TNT (United States) (720p) [Geo-blocked]
 TNT (United States) West (720p) [Geo-blocked]
 TODAY All Day (1080p)
 Tom And Jerry (720p)
@@ -957,8 +828,6 @@ Tooncast (1080p)
 ToonGoggles (720p)
 Top Stories by Newsy (720p)
 Tosh.0 (United States)
-Totally Turtles (United States)
-Tough Jobs
 Tribeca Channel (1080p) [Geo-blocked]
 True Crime Network (1080p) [Geo-blocked]
 True Crime Network WCVB-TV (720p)
@@ -969,7 +838,6 @@ truTV West (720p) [Geo-blocked]
 TSTV (720p)
 TUTV (1080p)
 TV Hispanic [Not 24/7]
-TV Land Drama
 TV Land Sitcoms
 TV Panou (720p) [Not 24/7]
 TV4 (United States) (360p)
@@ -1001,7 +869,6 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
-TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
@@ -1022,7 +889,6 @@ Venevision Internacional (720p)
 Vevo Hip Hop (1080p)
 Vevo R&B (1080p)
 Vevo True School Hip-Hop
-VH1 Queens of Reality
 VICE TV (1080p)
 Video Mix TV
 VoA TV (1080p)
@@ -1041,9 +907,7 @@ WCETV Digital Channel 31.8
 WCOT (720p)
 We TV (1080p)
 WeatherSpy (United States) (720p)
-Weeds & Nurse Jackie (720p)
 WeHoTV (360p)
-Western TV
 Westerns 4U (1080p)
 WGGS-TV 16.1
 Whiplash (720p)
@@ -1051,7 +915,6 @@ Whiplash Cinema (480p)
 Whiplash II (480p)
 White Plains Community Media (360p)
 WHOH-TV (360p)
-Wild 'N Out
 Willow Sports (1080p)
 Window TV (720p)
 Wine Watches & Whiskey (1080p)
@@ -1078,7 +941,6 @@ XITE Rock x Metal (1080p)
 Xplore TV (1080p)
 Yahoo! Finance (1080p)
 Yes Network (720p)
-Yo! MTV (1080p)
 YouDotGov
 Young Hollywood (720p)
 Youtoo America KVVB-LD (1080p) [Not 24/7]
