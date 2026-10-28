@@ -1,9 +1,10 @@
 US Open TV -- Channel List
-1076 channels currently shown in the app
-(excluded: 72 non-English, 76 manually, 272 not responding)
+1081 channels currently shown in the app
+(excluded: 72 non-English, 76 manually, 267 not responding)
 ============================================================
 
 00s Replay
+24 Hour Free Movies (720p)
 30A Darcizzle Offshore (720p)
 30A Georgia Hollywood Review (720p)
 30A Golf Kingdom (720p)
@@ -130,12 +131,14 @@ Atlas (480p)
 ATXN1 (1080p)
 ATXN2 (1080p)
 ATXN3 (1080p)
+AVI Rewind (1080p)
 AWE (720p)
 AWE International (720p)
 AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
+BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -284,7 +287,6 @@ CMTV (720p)
 CNN (720p)
 CNN Originals (1080p)
 Cold Case Files (1080p)
-Comedy Central Animation
 Comedy Central Pluto TV
 Comedy TV (United States) (720p)
 Comet (1080p)
@@ -370,6 +372,7 @@ Fear Factor (1080p)
 Feel Good Drama
 Fernandina Beach Channel (720p) [Not 24/7]
 FGTV (United States)
+Fierro a Fondo TV (1080p)
 FilmRise Forensic Files (720p) [Geo-blocked]
 Flicks of Fury
 Flowers TV USA
@@ -378,7 +381,6 @@ FNX KVCR-DT [Geo-blocked]
 Food Network (United States) (720p)
 Forever Kids
 Fox (United States) KBSI (720p) [Not 24/7]
-Fox (United States) KCPQ (720p)
 Fox (United States) KDFW (1080p)
 Fox (United States) KRIV (1080p)
 Fox (United States) KSAZ-TV (1080p)
@@ -408,7 +410,6 @@ Fuse (1080p)
 Galxy TV (720p)
 Game Show Central (720p)
 Game Show Network (720p) [Not 24/7]
-Garfield and Friends
 GCN America (720p)
 GEB Network KBPX-LD (1080p)
 Gem Shopping Network (720p)
@@ -432,7 +433,6 @@ Grit Xtra (1080p)
 Grjngo Western Movies (720p)
 Guangdong TV America
 Gunsmoke
-Hallmark Mystery (720p) [Geo-blocked]
 Happy Days (United States)
 HappyKids (1080p)
 Harmony Gospel Music TV (1080p)
@@ -642,9 +642,15 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 New York (1080p)
+News12 Brooklyn [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
+News12 New Jersey [Geo-blocked]
 News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -720,6 +726,7 @@ PCT Channel 26 (720p)
 PCT Channel 27 (720p)
 PCTV 26 (480p)
 PCTV 28 (480p)
+People Are Awesome (1080p)
 Peppa Pig
 Perry Mason
 Pets.TV (720p)
@@ -911,7 +918,6 @@ The Carol Burnett Show (1080p)
 The Challenge
 The Chat Show Channel (1080p)
 The City of Marina (720p)
-The Conners
 The Country Network (1080p)
 The Design Network (1080p)
 The First TV (1080p)
@@ -947,7 +953,6 @@ TODAY All Day (1080p)
 Tom And Jerry (720p)
 Toonami Aftermath (480p)
 Toonami Aftermath West (480p)
-Tooncast (1080p)
 ToonGoggles (720p)
 Top Stories by Newsy (720p)
 Tosh.0 (United States)
