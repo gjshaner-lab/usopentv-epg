@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1075 channels currently shown in the app
-(excluded: 72 non-English, 75 manually, 263 not responding)
+1102 channels currently shown in the app
+(excluded: 72 non-English, 76 manually, 246 not responding)
 ============================================================
 
 00s Replay
@@ -210,6 +210,8 @@ CAN TV36 (1080p)
 Canal de la Fe (720p)
 Canela TV (1080p)
 Car Chase (United States) (720p)
+Cars.TV (720p)
+Cartoon Network (United States) (720p) [Geo-blocked]
 Catholic Faith Network (720p)
 Catholic TV (1080p)
 CBN Family (1080p)
@@ -288,6 +290,7 @@ CNN Originals (1080p)
 Cold Case Files (1080p)
 Comedy Central Animation
 Comedy Central Pluto TV
+Comedy TV (United States) (720p)
 Comet (1080p)
 Concert Channel (720p)
 Cooking Channel (720p)
@@ -357,6 +360,7 @@ EntrepreneurTV (720p)
 ESPN (United States) HD (720p)
 ESPN 2 (United States) HD (720p)
 ESPNU HD (720p)
+ESTV (United States) (720p)
 EWTN (United States) (720p) [Geo-blocked]
 Extrema TV (United States) (720p)
 F1 Channel (1080p) [Geo-blocked]
@@ -421,7 +425,6 @@ Gillette Public Access Television Channel 190
 Gillette Public Access Television Channel 192
 Girlfriends Films
 Glendale 11 AZ (360p)
-Global Buddhist Network (1080p)
 Global Fashion Channel (1080p)
 God's Learning Channel KPCB-DT (480p)
 GoodLife 45 (720p) [Not 24/7]
@@ -436,7 +439,7 @@ Grit Xtra (1080p)
 Grjngo Western Movies (720p)
 Guangdong TV America
 Gunsmoke
-Hallmark Channel (720p) [Geo-blocked]
+Hallmark Mystery (720p) [Geo-blocked]
 Happy Days (United States)
 HappyKids (1080p)
 Harmony Gospel Music TV (1080p)
@@ -478,6 +481,7 @@ Impact Network (720p)
 Impossible Quiz Show (1080p)
 In the Kitchen (720p)
 Ink Master
+INSP (720p)
 Instant Saga
 Investiga US
 Investigation Discovery (United States) (1080p) [Geo-blocked]
@@ -497,6 +501,7 @@ Johnny Carson TV (720p)
 Journy (720p)
 Judge Nosey (1080p)
 Just for Laughs Gags (1080p)
+Justice Central TV (720p)
 K-Content by CJ ENM (1080p)
 Kajou TV (720p) [Not 24/7]
 Kaloopy TV (1080p)
@@ -508,6 +513,7 @@ Kern County TV
 Kids Movie Club
 KidsFlix (1080p) [Not 24/7]
 KIIO-LD 10.1
+KIIO-LD 10.4 (480p)
 KMCT-TV 39.1
 KNOV-CD 41.1 (720p)
 KNXV-TV 61.1 (720p)
@@ -579,12 +585,18 @@ MCPSS TV
 Mega Extreno HD (720p)
 Merit Street (1080p)
 Midnight Pulp (1080p)
+Midpen Media Center Channel 26 (720p)
+Midpen Media Center Channel 28 (720p)
+Midpen Media Center Channel 29 (720p)
+Midpen Media Center Channel 30 (720p)
+Midpen Media Center Channel 75 (720p)
 Midsomer Murders (1080p)
 Mission Impossible (United States)
 Mission TV (1080p) [Not 24/7]
 MLB (720p)
 MLB Strike Zone (720p)
 MNT WFLD (1080p)
+MNT WOIO (720p)
 Mohabat TV (United States) (540p)
 Monroe County TV (1080p)
 More True Crime
@@ -605,6 +617,7 @@ MTV Pluto TV
 MTV Spankin' New (1080p)
 MTV2 (720p)
 Muslim Network TV
+MyDestination.TV (720p)
 Mystery Science Theater 3000 (1080p)
 MyTime Movie Network East (1080p)
 Naruto (1080p)
@@ -640,8 +653,18 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
+News12 Bronx [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
 News12 Conneticut [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
+News12 New Jersey [Geo-blocked]
 News12 New York (1080p)
+News12 Westchester [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
@@ -688,6 +711,7 @@ Pac-12 Insider (1080p)
 Pacific Island Network (1080p)
 Palm Beaches TV (720p)
 Paramount Movie Channel
+Paramount Network (1080p)
 Paramount+ Picks
 Pasco TV (480p)
 Payam Javan TV (720p) [Not 24/7]
@@ -721,6 +745,7 @@ PCTV 28 (480p)
 People Are Awesome (1080p)
 Peppa Pig
 Perry Mason
+Pets.TV (720p)
 PGA Tour (1080p)
 PhillyCAM (720p)
 PHLgovTV (720p)
@@ -738,6 +763,7 @@ Pluto TV Competition
 Pluto TV Crime Drama
 Pluto TV Crime Movies
 Pluto TV Cult Films (United States)
+Pluto TV Dog el cazarrecompensas
 Pluto TV Drama
 Pluto TV El Reino Infantil
 Pluto TV Estrellas de Accion
@@ -792,6 +818,7 @@ RCTV (United States) (720p)
 RCTV3 (480p)
 Real America's Voice KPVM-LD
 Real Wild (1080p)
+Recipe TV (720p)
 Red Apple 21 (480p) [Not 24/7]
 RedADvenir TV KSCE (360p)
 Retro TV (720p) [Geo-blocked]
@@ -932,6 +959,7 @@ The Wild Wild West (United States)
 The Word Network (1080p)
 The Young Turks (720p)
 theDove TV (720p)
+TheGrio TV (720p)
 This Old House (1080p)
 Three's Company
 Tin TV (720p)
@@ -964,7 +992,6 @@ TV Land Drama
 TV Land Sitcoms
 TV Panou (720p) [Not 24/7]
 TV4 (United States) (360p)
-TVE Internacional America (576p) [Geo-blocked]
 TVE Internacional America HD (1080p) [Geo-blocked]
 TVS Bowling Network (720p)
 TVS Boxing (360p)
