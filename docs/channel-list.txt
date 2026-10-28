@@ -1,10 +1,9 @@
 US Open TV -- Channel List
-1081 channels currently shown in the app
-(excluded: 72 non-English, 76 manually, 267 not responding)
+1077 channels currently shown in the app
+(excluded: 72 non-English, 76 manually, 271 not responding)
 ============================================================
 
 00s Replay
-24 Hour Free Movies (720p)
 30A Darcizzle Offshore (720p)
 30A Georgia Hollywood Review (720p)
 30A Golf Kingdom (720p)
@@ -78,6 +77,7 @@ Ace TV KCKS-LD (720p)
 ACTV (United States)
 Adrenalina Pura TV (720p)
 Adult Swim West [Not 24/7;Geo-blocked]
+AFTV (1080p)
 AFV (720p)
 Akaku 53 (1080p)
 Akaku 54 (1080p)
@@ -122,7 +122,6 @@ Antiques Roadshow UK (1080p)
 Are We There Yet? (1080p)
 Armenia 1 America (1080p)
 ARTFLIX Movie Classics (720p)
-ARTN TV (1080p) [Not 24/7]
 Aspire TV Life (1080p)
 At Home with Family Handyman (720p)
 ATL 26
@@ -138,7 +137,6 @@ AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
-BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -160,7 +158,6 @@ BEK Sports West (720p)
 Bellator MMA
 Berks Community TV (1080p)
 Best of BATV Channel
-Best of Dr Phil
 BET Classics Pluto TV
 Better Health TV (480p)
 Better Life Nature Channel (480p)
@@ -212,6 +209,7 @@ Canal de la Fe (720p)
 Canela TV (1080p)
 Car Chase (United States) (720p)
 Cars.TV (720p)
+Cartoon Network (United States) (720p) [Geo-blocked]
 Catholic Faith Network (720p)
 Catholic TV (1080p)
 CBN Family (1080p)
@@ -285,6 +283,7 @@ CMT (720p)
 CMT Equal Play (720p)
 CMTV (720p)
 CNN (720p)
+CNN HD (720p) [Geo-blocked]
 CNN Originals (1080p)
 Cold Case Files (1080p)
 Comedy Central Pluto TV
@@ -323,7 +322,6 @@ Dare To Dream Network
 Dark Matter TV (720p)
 Dating Disasters
 Daystar TV (1080p)
-Daystar TV Espanol (1080p)
 Daystar TV WSLF-LD (720p)
 DC Council Hearing Room 120 (1080p)
 DCC (1080p)
@@ -334,6 +332,7 @@ DerryTV 17 (720p)
 DerryTV 23 (720p)
 Designated Survivor (1080p) [Geo-blocked]
 Destination America (720p)
+Discovery Channel (United States) (1080p) [Geo-blocked]
 Discovery Turbo (United States) (720p)
 Disney XD (United States) (1080p)
 District of Columbia Network (1080p)
@@ -432,6 +431,7 @@ Greater Love TV (720p)
 Grit Xtra (1080p)
 Grjngo Western Movies (720p)
 Guangdong TV America
+GunAz TV
 Gunsmoke
 Happy Days (United States)
 HappyKids (1080p)
@@ -445,6 +445,7 @@ Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
 His Glory TV (1080p)
+History (United States) (720p)
 History Hit (1080p)
 HLN (720p)
 HMI PROMZ NEWS (720p)
@@ -476,6 +477,7 @@ Ink Master
 INSP (720p)
 Instant Saga
 Investiga US
+Investigation Discovery (United States) (1080p) [Geo-blocked]
 INWILD (1080p)
 ION Plus (1080p)
 ION TV (720p)
@@ -617,6 +619,7 @@ NAT TV (1080p)
 Natick Education Channel (720p)
 Natick Government Channel (720p)
 Natick Public Access Channel (720p)
+National Geographic (United States) (720p)
 National Geographic (United States) HD East (720p)
 National Geographic Wild (United States) HD East (720p)
 NBA TV (720p)
@@ -642,15 +645,9 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Brooklyn [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
 News12 Long Island (1080p) [Geo-blocked]
-News12 New Jersey [Geo-blocked]
-News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
 News12+ Long Island (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -659,6 +656,7 @@ NFL Channel (720p)
 NFL Network (720p)
 NHL Network (1080p)
 NHRA TV (1080p)
+Nick Jr. (United States) (720p)
 Nick Jr. Pluto TV (720p)
 Nickelodeon (United States) (720p)
 Nickelodeon Pluto TV (720p)
@@ -743,7 +741,6 @@ Pluto TV Anime Movies
 Pluto TV Cars
 Pluto TV Cine Comedia (United States)
 Pluto TV Comedy
-Pluto TV Competition
 Pluto TV Crime Drama
 Pluto TV Crime Movies
 Pluto TV Cult Films (United States)
@@ -941,18 +938,18 @@ The Wild Wild West (United States)
 The Word Network (1080p)
 The Young Turks (720p)
 theDove TV (720p)
-TheGrio TV (720p)
 This Old House (1080p)
 Three's Company
 Tin TV (720p)
-Tiny House Nation (720p)
 TLN KQSL (720p)
 TMZ (720p)
+TNT (United States) (720p) [Geo-blocked]
 TNT (United States) West (720p) [Geo-blocked]
 TODAY All Day (1080p)
 Tom And Jerry (720p)
 Toonami Aftermath (480p)
 Toonami Aftermath West (480p)
+Tooncast (1080p)
 ToonGoggles (720p)
 Top Stories by Newsy (720p)
 Tosh.0 (United States)
@@ -1065,7 +1062,6 @@ WPS-TV (360p)
 WSOC Now (1080p) [Geo-blocked]
 WVCU-LP (1080p)
 WVVH-CD 18.1 (720p)
-WWE Network (1080p)
 WWON-TV Channel 48
 XFC TV (720p)
 XITE Classic Country (720p)
