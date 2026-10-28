@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1102 channels currently shown in the app
-(excluded: 72 non-English, 76 manually, 246 not responding)
+1076 channels currently shown in the app
+(excluded: 72 non-English, 76 manually, 272 not responding)
 ============================================================
 
 00s Replay
@@ -77,7 +77,6 @@ Ace TV KCKS-LD (720p)
 ACTV (United States)
 Adrenalina Pura TV (720p)
 Adult Swim West [Not 24/7;Geo-blocked]
-AFTV (1080p)
 AFV (720p)
 Akaku 53 (1080p)
 Akaku 54 (1080p)
@@ -122,6 +121,7 @@ Antiques Roadshow UK (1080p)
 Are We There Yet? (1080p)
 Armenia 1 America (1080p)
 ARTFLIX Movie Classics (720p)
+ARTN TV (1080p) [Not 24/7]
 Aspire TV Life (1080p)
 At Home with Family Handyman (720p)
 ATL 26
@@ -130,14 +130,12 @@ Atlas (480p)
 ATXN1 (1080p)
 ATXN2 (1080p)
 ATXN3 (1080p)
-AVI Rewind (1080p)
 AWE (720p)
 AWE International (720p)
 AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
-BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -211,7 +209,6 @@ Canal de la Fe (720p)
 Canela TV (1080p)
 Car Chase (United States) (720p)
 Cars.TV (720p)
-Cartoon Network (United States) (720p) [Geo-blocked]
 Catholic Faith Network (720p)
 Catholic TV (1080p)
 CBN Family (1080p)
@@ -285,7 +282,6 @@ CMT (720p)
 CMT Equal Play (720p)
 CMTV (720p)
 CNN (720p)
-CNN HD (720p) [Geo-blocked]
 CNN Originals (1080p)
 Cold Case Files (1080p)
 Comedy Central Animation
@@ -336,7 +332,6 @@ DerryTV 17 (720p)
 DerryTV 23 (720p)
 Designated Survivor (1080p) [Geo-blocked]
 Destination America (720p)
-Discovery Channel (United States) (1080p) [Geo-blocked]
 Discovery Turbo (United States) (720p)
 Disney XD (United States) (1080p)
 District of Columbia Network (1080p)
@@ -375,14 +370,12 @@ Fear Factor (1080p)
 Feel Good Drama
 Fernandina Beach Channel (720p) [Not 24/7]
 FGTV (United States)
-Fierro a Fondo TV (1080p)
 FilmRise Forensic Files (720p) [Geo-blocked]
 Flicks of Fury
 Flowers TV USA
 FNX (1080p)
 FNX KVCR-DT [Geo-blocked]
 Food Network (United States) (720p)
-Forensic Files
 Forever Kids
 Fox (United States) KBSI (720p) [Not 24/7]
 Fox (United States) KCPQ (720p)
@@ -452,7 +445,6 @@ Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
 His Glory TV (1080p)
-History (United States) (720p)
 History Hit (1080p)
 HLN (720p)
 HMI PROMZ NEWS (720p)
@@ -484,7 +476,6 @@ Ink Master
 INSP (720p)
 Instant Saga
 Investiga US
-Investigation Discovery (United States) (1080p) [Geo-blocked]
 INWILD (1080p)
 ION Plus (1080p)
 ION TV (720p)
@@ -621,13 +612,11 @@ MyDestination.TV (720p)
 Mystery Science Theater 3000 (1080p)
 MyTime Movie Network East (1080p)
 Naruto (1080p)
-Nash Bridges (720p)
 Nashua ETV (720p)
 NAT TV (1080p)
 Natick Education Channel (720p)
 Natick Government Channel (720p)
 Natick Public Access Channel (720p)
-National Geographic (United States) (720p)
 National Geographic (United States) HD East (720p)
 National Geographic Wild (United States) HD East (720p)
 NBA TV (720p)
@@ -653,19 +642,9 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Bronx [Geo-blocked]
-News12 Brooklyn [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
-News12 New Jersey [Geo-blocked]
 News12 New York (1080p)
 News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
-News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -674,7 +653,6 @@ NFL Channel (720p)
 NFL Network (720p)
 NHL Network (1080p)
 NHRA TV (1080p)
-Nick Jr. (United States) (720p)
 Nick Jr. Pluto TV (720p)
 Nickelodeon (United States) (720p)
 Nickelodeon Pluto TV (720p)
@@ -742,7 +720,6 @@ PCT Channel 26 (720p)
 PCT Channel 27 (720p)
 PCTV 26 (480p)
 PCTV 28 (480p)
-People Are Awesome (1080p)
 Peppa Pig
 Perry Mason
 Pets.TV (720p)
@@ -951,7 +928,6 @@ The Peninsula Channel (720p)
 The Pet Collective (720p)
 The Point Televsion Network (1080p)
 The Price Is Right
-The Price Is Right: The Barker Era (720p)
 The Rifleman
 The Walk TV
 The Walking Dead Universe (720p)
@@ -966,7 +942,6 @@ Tin TV (720p)
 Tiny House Nation (720p)
 TLN KQSL (720p)
 TMZ (720p)
-TNT (United States) (720p) [Geo-blocked]
 TNT (United States) West (720p) [Geo-blocked]
 TODAY All Day (1080p)
 Tom And Jerry (720p)
@@ -1059,7 +1034,6 @@ WCETV Digital Channel 31.8
 WCOT (720p)
 We TV (1080p)
 WeatherSpy (United States) (720p)
-Weeds & Nurse Jackie (720p)
 WeHoTV (360p)
 Western TV
 Westerns 4U (1080p)
