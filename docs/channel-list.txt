@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1077 channels currently shown in the app
-(excluded: 72 non-English, 76 manually, 271 not responding)
+1079 channels currently shown in the app
+(excluded: 72 non-English, 76 manually, 267 not responding)
 ============================================================
 
 00s Replay
@@ -137,6 +137,7 @@ AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
+BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -322,6 +323,7 @@ Dare To Dream Network
 Dark Matter TV (720p)
 Dating Disasters
 Daystar TV (1080p)
+Daystar TV Espanol (1080p)
 Daystar TV WSLF-LD (720p)
 DC Council Hearing Room 120 (1080p)
 DCC (1080p)
@@ -356,7 +358,6 @@ EntrepreneurTV (720p)
 ESPN (United States) HD (720p)
 ESPN 2 (United States) HD (720p)
 ESPNU HD (720p)
-ESTV (United States) (720p)
 EWTN (United States) (720p) [Geo-blocked]
 Extrema TV (United States) (720p)
 F1 Channel (1080p) [Geo-blocked]
@@ -529,7 +530,6 @@ Leominster TV Government (720p)
 Leominster TV Public (720p) [Not 24/7]
 Lex TV (720p)
 LifevisionTV (406p) [Not 24/7]
-Lindell TV (720p)
 Little Guyana TV (1080p)
 Little Stars Universe
 Live Music
@@ -645,9 +645,11 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Long Island (1080p) [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
+News12 New Jersey [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -724,7 +726,6 @@ PCT Channel 26 (720p)
 PCT Channel 27 (720p)
 PCTV 26 (480p)
 PCTV 28 (480p)
-People Are Awesome (1080p)
 Peppa Pig
 Perry Mason
 Pets.TV (720p)
@@ -741,6 +742,7 @@ Pluto TV Anime Movies
 Pluto TV Cars
 Pluto TV Cine Comedia (United States)
 Pluto TV Comedy
+Pluto TV Competition
 Pluto TV Crime Drama
 Pluto TV Crime Movies
 Pluto TV Cult Films (United States)
