@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1103 channels currently shown in the app
-(excluded: 72 non-English, 76 manually, 243 not responding)
+1093 channels currently shown in the app
+(excluded: 72 non-English, 76 manually, 253 not responding)
 ============================================================
 
 00s Replay
@@ -106,6 +106,7 @@ America's Test Kitchen (720p)
 America's Voice (720p)
 America's Voice News (720p)
 American Heroes Channel (720p)
+American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
 AMGA TV (720p) [Not 24/7]
 AMP 1 (720p)
@@ -210,7 +211,6 @@ Canal de la Fe (720p)
 Canela TV (1080p)
 Car Chase (United States) (720p)
 Cars.TV (720p)
-Cartoon Network (United States) (720p) [Geo-blocked]
 Catholic Faith Network (720p)
 Catholic TV (1080p)
 CBN Family (1080p)
@@ -285,7 +285,6 @@ CMT (720p)
 CMT Equal Play (720p)
 CMTV (720p)
 CNN (720p)
-CNN HD (720p) [Geo-blocked]
 CNN Originals (1080p)
 Cold Case Files (1080p)
 Comedy Central Animation
@@ -324,7 +323,6 @@ Danger TV (720p)
 Dare To Dream Network
 Dark Matter TV (720p)
 Dating Disasters
-Daystar TV (1080p)
 Daystar TV Espanol (1080p)
 Daystar TV WSLF-LD (720p)
 DC Council Hearing Room 120 (1080p)
@@ -336,7 +334,6 @@ DerryTV 17 (720p)
 DerryTV 23 (720p)
 Designated Survivor (1080p) [Geo-blocked]
 Destination America (720p)
-Discovery Channel (United States) (1080p) [Geo-blocked]
 Discovery Turbo (United States) (720p)
 Disney Junior (United States) (480p)
 Disney XD (United States) (1080p)
@@ -374,6 +371,7 @@ Fashion Finds (720p)
 Fast TV (720p)
 Fear Factor (1080p)
 Feel Good Drama
+Fernandina Beach Channel (720p) [Not 24/7]
 FGTV (United States)
 Fierro a Fondo TV (1080p)
 FilmRise Forensic Files (720p) [Geo-blocked]
@@ -414,6 +412,7 @@ Fubo Sports Network (1080p)
 Fun Roads (720p)
 Funny AF
 Fuse (1080p)
+FX (United States) (720p)
 Galxy TV (720p)
 Game Show Central (720p)
 Game Show Network (720p) [Not 24/7]
@@ -450,6 +449,7 @@ Harmony Gospel Music TV (1080p)
 Harvest USA (576p)
 Hasbro Legends (1080p) [Geo-blocked]
 HauntTV (1080p)
+HBCU-GO Sports (720p)
 HBO (United States) (720p)
 HBO Hits (720p)
 Heartland (720p)
@@ -459,7 +459,6 @@ Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
 His Glory TV (1080p)
-History (United States) (720p)
 History Hit (1080p)
 HLN (720p)
 HMI PROMZ NEWS (720p)
@@ -491,7 +490,6 @@ Ink Master
 INSP (720p)
 Instant Saga
 Investiga US
-Investigation Discovery (United States) (1080p) [Geo-blocked]
 INWILD (1080p)
 ION Plus (1080p)
 ION TV (720p)
@@ -513,6 +511,7 @@ K-Content by CJ ENM (1080p)
 Kajou TV (720p) [Not 24/7]
 Kaloopy TV (1080p)
 Kartoon Channel! (1080p)
+KBSV 23.1 (720p) [Not 24/7]
 Kentucky Educational Television WKMJ-TV (480p)
 Kentucky Educational Television WKPC-TV (480p)
 Kern County TV
@@ -632,7 +631,6 @@ NAT TV (1080p)
 Natick Education Channel (720p)
 Natick Government Channel (720p)
 Natick Public Access Channel (720p)
-National Geographic (United States) (720p)
 National Geographic (United States) HD East (720p)
 National Geographic Wild (United States) HD East (720p)
 NBA TV (720p)
@@ -660,13 +658,10 @@ NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx [Geo-blocked]
 News12 Brooklyn [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
 News12 New Jersey [Geo-blocked]
-News12 Westchester [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
 News12+ New Jersey (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -675,7 +670,6 @@ NFL Channel (720p)
 NFL Network (720p)
 NHL Network (1080p)
 NHRA TV (1080p)
-Nick Jr. (United States) (720p)
 Nick Jr. Pluto TV (720p)
 Nickelodeon (United States) (720p)
 Nickelodeon Pluto TV (720p)
@@ -877,6 +871,7 @@ SMCTV Channel 25 (720p)
 Smithsonian Channel Selects (United States)
 Smurf TV (480p)
 Sonic TV (720p)
+Sony Movies (United States) (720p)
 Sound View Community Media (480p)
 Spike Outdoors
 Spike Pluto TV
@@ -910,7 +905,6 @@ TAP TV Channel 24 (720p)
 TAP TV Channel 25 (720p)
 Tastemade (1080p)
 Tastemade Travel (1080p)
-TBN Armenia
 TBN Pacific
 TBN Ukraine (720p)
 TBS (720p) [Geo-blocked]
@@ -967,13 +961,11 @@ Tin TV (720p)
 Tiny House Nation (720p)
 TLN KQSL (720p)
 TMZ (720p)
-TNT (United States) (720p) [Geo-blocked]
 TNT (United States) West (720p) [Geo-blocked]
 TODAY All Day (1080p)
 Tom And Jerry (720p)
 Toonami Aftermath (480p)
 Toonami Aftermath West (480p)
-Tooncast (1080p)
 ToonGoggles (720p)
 Top Stories by Newsy (720p)
 Tosh.0 (United States)
@@ -1007,7 +999,6 @@ TVS Film Noir Network (720p)
 TVS Flashback Network (360p)
 TVS Hi Tops (720p)
 TVS Hollywood History (582p)
-TVS Mainstreet (360p) [Not 24/7]
 TVS Music Network (720p)
 TVS Nostalgia (472p)
 TVS Nostalgia Movies (480p)
@@ -1020,7 +1011,6 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
-TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
