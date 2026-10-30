@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1103 channels currently shown in the app
-(excluded: 72 non-English, 76 manually, 243 not responding)
+1091 channels currently shown in the app
+(excluded: 72 non-English, 76 manually, 255 not responding)
 ============================================================
 
 00s Replay
@@ -137,7 +137,6 @@ AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
-BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -211,7 +210,6 @@ Canal de la Fe (720p)
 Canela TV (1080p)
 Car Chase (United States) (720p)
 Cars.TV (720p)
-Cartoon Network (United States) (720p) [Geo-blocked]
 Catholic Faith Network (720p)
 Catholic TV (1080p)
 CBN Family (1080p)
@@ -286,7 +284,6 @@ CMT (720p)
 CMT Equal Play (720p)
 CMTV (720p)
 CNN (720p)
-CNN HD (720p) [Geo-blocked]
 CNN Originals (1080p)
 Cold Case Files (1080p)
 Comedy Central Animation
@@ -337,8 +334,8 @@ DerryTV 17 (720p)
 DerryTV 23 (720p)
 Designated Survivor (1080p) [Geo-blocked]
 Destination America (720p)
-Discovery Channel (United States) (1080p) [Geo-blocked]
 Discovery Turbo (United States) (720p)
+Disney Junior (United States) (480p)
 Disney XD (United States) (1080p)
 District of Columbia Network (1080p)
 DKN (1080p)
@@ -374,6 +371,7 @@ Fashion Finds (720p)
 Fast TV (720p)
 Fear Factor (1080p)
 Feel Good Drama
+Fernandina Beach Channel (720p) [Not 24/7]
 FGTV (United States)
 Fierro a Fondo TV (1080p)
 FilmRise Forensic Files (720p) [Geo-blocked]
@@ -461,7 +459,6 @@ Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
 His Glory TV (1080p)
-History (United States) (720p)
 History Hit (1080p)
 HLN (720p)
 HMI PROMZ NEWS (720p)
@@ -493,7 +490,6 @@ Ink Master
 INSP (720p)
 Instant Saga
 Investiga US
-Investigation Discovery (United States) (1080p) [Geo-blocked]
 INWILD (1080p)
 ION Plus (1080p)
 ION TV (720p)
@@ -522,7 +518,6 @@ Kern County TV
 Kids Movie Club
 KidsFlix (1080p) [Not 24/7]
 KIIO-LD 10.1
-KIIO-LD 10.4 (480p)
 KMCT-TV 39.1
 KNOV-CD 41.1 (720p)
 KNXV-TV 61.1 (720p)
@@ -635,7 +630,6 @@ NAT TV (1080p)
 Natick Education Channel (720p)
 Natick Government Channel (720p)
 Natick Public Access Channel (720p)
-National Geographic (United States) (720p)
 National Geographic (United States) HD East (720p)
 National Geographic Wild (United States) HD East (720p)
 NBA TV (720p)
@@ -661,12 +655,7 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Brooklyn [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
-News12 New Jersey [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
+News12 Conneticut [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
@@ -676,7 +665,6 @@ NFL Channel (720p)
 NFL Network (720p)
 NHL Network (1080p)
 NHRA TV (1080p)
-Nick Jr. (United States) (720p)
 Nick Jr. Pluto TV (720p)
 Nickelodeon (United States) (720p)
 Nickelodeon Pluto TV (720p)
@@ -854,6 +842,7 @@ Samsung Wildlife (720p) [Geo-blocked]
 SBN TV (720p)
 SC Currents
 Schwab Network (1080p)
+Scottsdale Channel 11
 Screen Dreams (720p)
 Scripps News (1080p)
 SEC Network (1080p)
@@ -967,7 +956,6 @@ Tin TV (720p)
 Tiny House Nation (720p)
 TLN KQSL (720p)
 TMZ (720p)
-TNT (United States) (720p) [Geo-blocked]
 TNT (United States) West (720p) [Geo-blocked]
 TODAY All Day (1080p)
 Tom And Jerry (720p)
