@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1092 channels currently shown in the app
-(excluded: 72 non-English, 76 manually, 254 not responding)
+1103 channels currently shown in the app
+(excluded: 72 non-English, 76 manually, 243 not responding)
 ============================================================
 
 00s Replay
@@ -87,6 +87,7 @@ AKC TV Meet the Breeds
 AKC TV Puppies
 Al-Fady TV (1080p) [Not 24/7]
 Al-Mahdi TV (1080p)
+Aliento Vision (720p) [Not 24/7]
 Alkarma TV Family (1080p) [Not 24/7]
 Alkarma TV Middle East (1080p) [Not 24/7]
 Alkarma TV North America & Canada (1080p) [Not 24/7]
@@ -325,6 +326,7 @@ Dare To Dream Network
 Dark Matter TV (720p)
 Dating Disasters
 Daystar TV (1080p)
+Daystar TV Espanol (1080p)
 Daystar TV WSLF-LD (720p)
 DC Council Hearing Room 120 (1080p)
 DCC (1080p)
@@ -337,7 +339,6 @@ Designated Survivor (1080p) [Geo-blocked]
 Destination America (720p)
 Discovery Channel (United States) (1080p) [Geo-blocked]
 Discovery Turbo (United States) (720p)
-Disney Junior (United States) (480p)
 Disney XD (United States) (1080p)
 District of Columbia Network (1080p)
 DKN (1080p)
@@ -362,6 +363,7 @@ ESPN (United States) HD (720p)
 ESPN 2 (United States) HD (720p)
 ESPNU HD (720p)
 EWTN (United States) (720p) [Geo-blocked]
+Extrema TV (United States) (720p)
 F1 Channel (1080p) [Geo-blocked]
 FailArmy (720p)
 Fairground AI Creator TV (1080p)
@@ -574,6 +576,7 @@ Mas adrenalina
 Matlock (United States)
 Maverick Black Cinema (1080p)
 Maxcine (720p)
+Maxcine 2 (720p)
 Maxcine Comedy (720p)
 Maxcine Family (720p)
 Maxcine Kids (720p)
@@ -658,7 +661,13 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
+News12 Brooklyn [Geo-blocked]
+News12 Hudson Valley [Geo-blocked]
+News12 New Jersey [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -735,6 +744,7 @@ PCT Channel 26 (720p)
 PCT Channel 27 (720p)
 PCTV 26 (480p)
 PCTV 28 (480p)
+People Are Awesome (1080p)
 Peppa Pig
 Perry Mason
 Pets.TV (720p)
@@ -844,13 +854,13 @@ Samsung Wildlife (720p) [Geo-blocked]
 SBN TV (720p)
 SC Currents
 Schwab Network (1080p)
-Scottsdale Channel 11
 Screen Dreams (720p)
 Scripps News (1080p)
 SEC Network (1080p)
 SFGovTV (720p)
 SFGovTV2 (720p)
 SGTN-49 (720p)
+Shalom America (720p) [Not 24/7]
 Shemaroo Bollywood (1080p)
 Shop LC (1080p)
 Shout! Factory TV (1080p)
@@ -963,6 +973,7 @@ TODAY All Day (1080p)
 Tom And Jerry (720p)
 Toonami Aftermath (480p)
 Toonami Aftermath West (480p)
+Tooncast (1080p)
 ToonGoggles (720p)
 Top Stories by Newsy (720p)
 Tosh.0 (United States)
