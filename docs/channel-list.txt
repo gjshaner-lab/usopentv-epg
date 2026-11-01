@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1093 channels currently shown in the app
-(excluded: 72 non-English, 76 manually, 253 not responding)
+1090 channels currently shown in the app
+(excluded: 72 non-English, 76 manually, 256 not responding)
 ============================================================
 
 00s Replay
@@ -137,7 +137,6 @@ AWE Plus (720p)
 AWE Plus KPVM-LD
 AXS TV (720p)
 Baby Shark TV (1080p)
-BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -474,8 +473,6 @@ Hot Bench (720p)
 HSN (720p)
 HSN West (720p)
 HSN2 (720p)
-HTV 1 Houston Television (720p)
-HTV 2 Houston Television (720p)
 Hungry (720p)
 I Love Lucy
 iCarly (United States) SD
@@ -563,7 +560,6 @@ Lucky Dog (720p)
 Mad Dog and Merrill (540p) [Not 24/7]
 Made In Hollywood
 MagellanTV Now (1080p)
-Majestad TV (480p) [Not 24/7]
 Maria Vision USA (1080p)
 Martin County TV (720p)
 Mas adrenalina
@@ -655,9 +651,10 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Westchester [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
-News12+ New York (1080p) [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
+News12 Conneticut [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -734,7 +731,6 @@ PCT Channel 26 (720p)
 PCT Channel 27 (720p)
 PCTV 26 (480p)
 PCTV 28 (480p)
-People Are Awesome (1080p)
 Peppa Pig
 Perry Mason
 Pets.TV (720p)
@@ -941,6 +937,7 @@ The Love Boat
 The Monterey Channel (720p)
 The Nest (1080p)
 The New Detectives (United States)
+The Now Network (480p) [Not 24/7]
 The Peninsula Channel (720p)
 The Pet Collective (720p)
 The Point Televsion Network (1080p)
