@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1083 channels currently shown in the app
-(excluded: 72 non-English, 76 manually, 263 not responding)
+1077 channels currently shown in the app
+(excluded: 72 non-English, 76 manually, 269 not responding)
 ============================================================
 
 00s Replay
@@ -49,7 +49,6 @@ ABC News Live 6 (720p)
 ABC News Live 7 (720p)
 ABC News Live 8 (720p)
 ABC News Live 9 (720p)
-ABC WBBJ-TV (432p)
 ABC WBRZ-TV (480p)
 ABC WDIO-DT (1080p)
 ABC WFTV (720p)
@@ -105,6 +104,7 @@ America's Voice News (720p)
 American Heroes Channel (720p)
 American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
+AMGA TV (720p) [Not 24/7]
 AMP 1 (720p)
 AMP 2 (720p)
 Amu TV
@@ -117,6 +117,7 @@ Antiques Roadshow UK (1080p)
 Are We There Yet? (1080p)
 Armenia 1 America (1080p)
 ARTFLIX Movie Classics (720p)
+ARTN TV (1080p) [Not 24/7]
 Aspire TV Life (1080p)
 At Home with Family Handyman (720p)
 ATL 26
@@ -131,7 +132,6 @@ AWE International (720p)
 AWE Plus (720p)
 AWE Plus KPVM-LD
 Baby Shark TV (1080p)
-BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -204,7 +204,6 @@ Canal de la Fe (720p)
 Canela TV (1080p)
 Car Chase (United States) (720p)
 Cars.TV (720p)
-Cartoon Network (United States) (720p) [Geo-blocked]
 Catholic Faith Network (720p)
 Catholic TV (1080p)
 CBN Family (1080p)
@@ -279,7 +278,6 @@ CMT (720p)
 CMT Equal Play (720p)
 CMTV (720p)
 CNN (720p)
-CNN HD (720p) [Geo-blocked]
 CNN Originals (1080p)
 Cold Case Files (1080p)
 Comedy Central Animation
@@ -330,7 +328,6 @@ DerryTV 17 (720p)
 DerryTV 23 (720p)
 Designated Survivor (1080p) [Geo-blocked]
 Destination America (720p)
-Discovery Channel (United States) (1080p) [Geo-blocked]
 Discovery Turbo (United States) (720p)
 Disney Channel (United States) (720p)
 Disney XD (United States) (720p)
@@ -368,6 +365,7 @@ Fashion Finds (720p)
 Fast TV (720p)
 Fear Factor (1080p)
 Feel Good Drama
+Fernandina Beach Channel (720p) [Not 24/7]
 FGTV (United States)
 Fierro a Fondo TV (1080p)
 FilmRise Forensic Files (720p) [Geo-blocked]
@@ -437,11 +435,9 @@ Grjngo Western Movies (720p)
 Guangdong TV America
 GunAz TV
 Gunsmoke
-Hallmark Mystery (720p) [Geo-blocked]
 Happy Days (United States)
 HappyKids (1080p)
 Harmony Gospel Music TV (1080p)
-Harvest USA (576p)
 Hasbro Legends (1080p) [Geo-blocked]
 HauntTV (1080p)
 HBCU-GO Sports (720p)
@@ -451,7 +447,6 @@ Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
 His Glory TV (1080p)
-History (United States) (720p)
 History Hit (1080p)
 HLN (720p)
 HMI PROMZ NEWS (720p)
@@ -483,7 +478,6 @@ Ink Master
 INSP (720p)
 Instant Saga
 Investiga US
-Investigation Discovery (United States) (1080p) [Geo-blocked]
 INWILD (1080p)
 ION Plus (1080p)
 ION TV (720p)
@@ -564,10 +558,8 @@ Martin County TV (720p)
 Mas adrenalina
 Matlock (United States)
 Maverick Black Cinema (1080p)
-Maxcine (720p)
 Maxcine 2 (720p)
 Maxcine Comedy (720p)
-Maxcine Family (720p)
 Maxcine Kids (720p)
 MBC 1 USA (1080p) [Geo-blocked]
 MBC 3 USA (1080p) [Geo-blocked]
@@ -623,7 +615,6 @@ NAT TV (1080p)
 Natick Education Channel (720p)
 Natick Government Channel (720p)
 Natick Public Access Channel (720p)
-National Geographic (United States) (720p)
 NBA TV (720p)
 NBC Comedy Vault (1080p)
 NBC KRIS-TV (1080p)
@@ -647,9 +638,12 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Conneticut [Geo-blocked]
-News12 Hudson Valley [Geo-blocked]
-News12+ Hudson Valley (1080p) [Geo-blocked]
+News12 Bronx [Geo-blocked]
+News12 Brooklyn [Geo-blocked]
+News12 New Jersey [Geo-blocked]
+News12 Westchester [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD
 Newsmax TV (720p)
@@ -657,7 +651,6 @@ Newsy (1080p)
 NFL Channel (720p)
 NHL Network (1080p)
 NHRA TV (1080p)
-Nick Jr. (United States) (720p)
 Nick Jr. Pluto TV (720p)
 Nickelodeon Pluto TV (720p)
 Nicktoons (United States) (720p)
@@ -724,6 +717,7 @@ PCT Channel 26 (720p)
 PCT Channel 27 (720p)
 PCTV 26 (480p)
 PCTV 28 (480p)
+People Are Awesome (1080p)
 Peppa Pig
 Perry Mason
 Pets.TV (720p)
@@ -950,7 +944,6 @@ Tin TV (720p)
 Tiny House Nation (720p)
 TLN KQSL (720p)
 TMZ (720p)
-TNT (United States) (720p) [Geo-blocked]
 TNT (United States) West (720p) [Geo-blocked]
 TNT Sports 4
 TODAY All Day (1080p)
@@ -1011,6 +1004,7 @@ TVS Western Movie (270p)
 TVS Women Sports (720p)
 TVSA Government Channel (720p)
 TVSA Public Channel (720p)
+UCTV (720p) [Not 24/7]
 Unbeaten (1080p)
 Unidentified (1080p)
 Universal Cinema (1080p)
