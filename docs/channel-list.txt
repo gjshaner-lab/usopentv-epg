@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1101 channels currently shown in the app
-(excluded: 72 non-English, 76 manually, 247 not responding)
+1087 channels currently shown in the app
+(excluded: 72 non-English, 76 manually, 267 not responding)
 ============================================================
 
 00s Replay
@@ -29,6 +29,7 @@ US Open TV -- Channel List
 90's Kids
 90s Kids TV 2
 90s Throwback
+Aastha International (576p)
 ABC KAAL (1080p)
 ABC KERO-TV (720p)
 ABC KGTV (720p)
@@ -49,7 +50,6 @@ ABC News Live 6 (720p)
 ABC News Live 7 (720p)
 ABC News Live 8 (720p)
 ABC News Live 9 (720p)
-ABC WBBJ-TV (432p)
 ABC WBRZ-TV (480p)
 ABC WDIO-DT (1080p)
 ABC WFTV (720p)
@@ -105,7 +105,6 @@ America's Voice News (720p)
 American Heroes Channel (720p)
 American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
-AMGA TV (720p) [Not 24/7]
 AMP 1 (720p)
 AMP 2 (720p)
 Amu TV
@@ -335,12 +334,12 @@ Destination America (720p)
 Discovery Channel (United States) (1080p) [Geo-blocked]
 Discovery Turbo (United States) (720p)
 Disney Channel (United States) (720p)
-Disney Junior (United States) (480p)
 Disney XD (United States) (720p)
 District of Columbia Network (1080p)
 DKN (1080p)
 Doctor Who Classic (1080p)
 Dog the Bounty Hunter (1080p)
+Doraemon (720p)
 Dove Channel (1080p)
 Dr. Gene Scott (1080p)
 DraftKings Network (1080p)
@@ -355,7 +354,6 @@ Elevation Church Network (1080p)
 Entertainment Tonight (1080p)
 EntrepreneurTV (720p)
 ES.TV (720p)
-ESPN (United States) (432p)
 ESPN (United States) HD (720p)
 ESPN 2 (United States) HD (720p)
 ESPNU HD (720p)
@@ -403,7 +401,6 @@ Fox News Channel (1080p)
 Fox News Radio (720p)
 Fox Soul (1080p)
 Fox Sports 1 (720p)
-Fox Sports 2 (720p)
 Fox Weather (720p)
 Free Speech TV (720p)
 FrightFlix (720p)
@@ -412,7 +409,6 @@ Fubo Sports Network (1080p)
 Fun Roads (720p)
 Funny AF
 Fuse (1080p)
-FX (United States) (720p)
 Gagsnetwork (576p)
 Galxy TV (720p)
 Game Show Central (720p)
@@ -430,6 +426,7 @@ Girlfriends Films
 Glendale 11 AZ (360p)
 Global Fashion Channel (1080p)
 God's Learning Channel KPCB-DT (480p)
+Golf Channel (United States) (576p)
 GoodLife 45 (720p) [Not 24/7]
 Gordon Ramsay's Hell's Kitchen (720p)
 Gospel Truth TV (1080p)
@@ -447,15 +444,11 @@ Hallmark Mystery (720p) [Geo-blocked]
 Happy Days (United States)
 HappyKids (1080p)
 Harmony Gospel Music TV (1080p)
-Harvest USA (576p)
 Hasbro Legends (1080p) [Geo-blocked]
 HauntTV (1080p)
 HBCU-GO Sports (720p)
-HBO (United States) (720p)
-HBO Hits (720p)
 Heartland (720p)
 Heartland Web
-HGTV (United States) (720p)
 Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
@@ -534,7 +527,6 @@ KSCE 38.1 (360p)
 KSCE 38.3 (360p)
 KVTN-DT 25.1 (720p)
 Lacrosse TV (720p)
-Laff (576p)
 Lake Havasu City 4 (360p)
 Las Vegas Tonight with Dale Davidson (1080p)
 LATV (1080p) [Geo-blocked]
@@ -570,6 +562,7 @@ Made In Hollywood (720p)
 MagellanTV Now (1080p)
 Majestad TV (480p) [Not 24/7]
 Maria Vision USA (1080p)
+Marquee Sports Network (576p)
 Martin County TV (720p)
 Mas adrenalina
 Matlock (United States)
@@ -591,6 +584,7 @@ MCN6 Music Channel (1080p) [Not 24/7]
 MCPSS TV (720p)
 Mega Extreno HD (720p)
 Merit Street (1080p)
+MeTV Toons
 Midnight Pulp (1080p)
 Midpen Media Center Channel 26 (720p)
 Midpen Media Center Channel 28 (720p)
@@ -658,12 +652,7 @@ NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx (1080p) [Geo-blocked]
-News12 Brooklyn (720p) [Geo-blocked]
-News12 Conneticut [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
 News12 Westchester (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
-News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD (484p)
 Newsmax TV (720p)
@@ -693,6 +682,7 @@ Omid e Iran TV
 One America News Network (720p)
 One Piece
 Ontario Public Access Channel (360p)
+OnTV4U (1080p) [Geo-blocked]
 Orange Government Access TV (720p)
 Outdoor America (1080p)
 Outdoor Channel (1080p)
@@ -857,8 +847,8 @@ SEC Network (1080p)
 SFGovTV (720p)
 SFGovTV2 (720p)
 SGTN-49 (720p)
-Shalom America (720p) [Not 24/7]
 Shemaroo Bollywood (1080p)
+Shin-chan (720p)
 Shop LC (1080p)
 Shout! Factory TV (1080p)
 Showtime Family Zone (720p)
@@ -917,7 +907,6 @@ TCM West (720p) [Geo-blocked]
 TCT (1080p)
 TED (1080p)
 Teen Mom (United States)
-TeenNick (United States) (432p)
 Tempe 11
 Tennis Channel (1080p)
 Tennis Channel +2 (720p)
@@ -970,8 +959,6 @@ TNT (United States) West (720p) [Geo-blocked]
 TNT Sports 4
 TODAY All Day (1080p)
 Tom And Jerry (720p)
-Toonami Aftermath (480p)
-Toonami Aftermath West (480p)
 ToonGoggles (720p)
 Top Stories by Newsy (720p)
 Tosh.0 (United States)
@@ -1069,7 +1056,6 @@ Whiplash II (480p)
 White Plains Community Media (360p)
 WHOH-TV (360p)
 Wild 'N Out
-Willow (720p)
 Willow Sports (1080p)
 Window TV (720p)
 Wine Watches & Whiskey (1080p)
