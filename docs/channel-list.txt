@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1087 channels currently shown in the app
-(excluded: 72 non-English, 76 manually, 267 not responding)
+1104 channels currently shown in the app
+(excluded: 72 non-English, 76 manually, 250 not responding)
 ============================================================
 
 00s Replay
@@ -50,6 +50,7 @@ ABC News Live 6 (720p)
 ABC News Live 7 (720p)
 ABC News Live 8 (720p)
 ABC News Live 9 (720p)
+ABC WBBJ-TV (432p)
 ABC WBRZ-TV (480p)
 ABC WDIO-DT (1080p)
 ABC WFTV (720p)
@@ -105,6 +106,7 @@ America's Voice News (720p)
 American Heroes Channel (720p)
 American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
+AMGA TV (720p) [Not 24/7]
 AMP 1 (720p)
 AMP 2 (720p)
 Amu TV
@@ -132,7 +134,6 @@ AWE International (720p)
 AWE Plus (720p)
 AWE Plus KPVM-LD (484p)
 Baby Shark TV (1080p)
-BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -188,6 +189,7 @@ Bounce (720p)
 Bounce XL (1080p)
 BPX TV Radio (720p)
 Brat TV (1080p)
+Bravo (720p)
 Brevard Government Access TV (720p)
 BritBox Mysteries (1080p)
 Business Rockstars (720p)
@@ -334,6 +336,7 @@ Destination America (720p)
 Discovery Channel (United States) (1080p) [Geo-blocked]
 Discovery Turbo (United States) (720p)
 Disney Channel (United States) (720p)
+Disney Junior (United States) (480p)
 Disney XD (United States) (720p)
 District of Columbia Network (1080p)
 DKN (1080p)
@@ -354,6 +357,7 @@ Elevation Church Network (1080p)
 Entertainment Tonight (1080p)
 EntrepreneurTV (720p)
 ES.TV (720p)
+ESPN (United States) (432p)
 ESPN (United States) HD (720p)
 ESPN 2 (United States) HD (720p)
 ESPNU HD (720p)
@@ -397,10 +401,10 @@ Fox (United States) WTVT (1080p)
 Fox (United States) WTXF-TV (1080p)
 Fox (United States) WXXV-TV (720p)
 Fox Business Network (576p)
-Fox News Channel (1080p)
 Fox News Radio (720p)
 Fox Soul (1080p)
 Fox Sports 1 (720p)
+Fox Sports 2 (720p)
 Fox Weather (720p)
 Free Speech TV (720p)
 FrightFlix (720p)
@@ -409,6 +413,7 @@ Fubo Sports Network (1080p)
 Fun Roads (720p)
 Funny AF
 Fuse (1080p)
+FX (United States) (720p)
 Gagsnetwork (576p)
 Galxy TV (720p)
 Game Show Central (720p)
@@ -447,8 +452,11 @@ Harmony Gospel Music TV (1080p)
 Hasbro Legends (1080p) [Geo-blocked]
 HauntTV (1080p)
 HBCU-GO Sports (720p)
+HBO (United States) (720p)
+HBO Hits (720p)
 Heartland (720p)
 Heartland Web
+HGTV (United States) (720p)
 Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
@@ -527,6 +535,7 @@ KSCE 38.1 (360p)
 KSCE 38.3 (360p)
 KVTN-DT 25.1 (720p)
 Lacrosse TV (720p)
+Laff (576p)
 Lake Havasu City 4 (360p)
 Las Vegas Tonight with Dale Davidson (1080p)
 LATV (1080p) [Geo-blocked]
@@ -652,7 +661,11 @@ NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
 News12 Bronx (1080p) [Geo-blocked]
-News12 Westchester (1080p) [Geo-blocked]
+News12 Brooklyn (720p) [Geo-blocked]
+News12 Conneticut [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD (484p)
 Newsmax TV (720p)
@@ -847,6 +860,7 @@ SEC Network (1080p)
 SFGovTV (720p)
 SFGovTV2 (720p)
 SGTN-49 (720p)
+Shalom America (720p) [Not 24/7]
 Shemaroo Bollywood (1080p)
 Shin-chan (720p)
 Shop LC (1080p)
@@ -907,6 +921,7 @@ TCM West (720p) [Geo-blocked]
 TCT (1080p)
 TED (1080p)
 Teen Mom (United States)
+TeenNick (United States) (432p)
 Tempe 11
 Tennis Channel (1080p)
 Tennis Channel +2 (720p)
@@ -959,6 +974,8 @@ TNT (United States) West (720p) [Geo-blocked]
 TNT Sports 4
 TODAY All Day (1080p)
 Tom And Jerry (720p)
+Toonami Aftermath (480p)
+Toonami Aftermath West (480p)
 ToonGoggles (720p)
 Top Stories by Newsy (720p)
 Tosh.0 (United States)
@@ -1056,6 +1073,7 @@ Whiplash II (480p)
 White Plains Community Media (360p)
 WHOH-TV (360p)
 Wild 'N Out
+Willow (720p)
 Willow Sports (1080p)
 Window TV (720p)
 Wine Watches & Whiskey (1080p)
@@ -1067,7 +1085,6 @@ Women's Sports Network (1080p)
 World Channel (1080p)
 World Channel WGTV (1080p)
 World Harvest TV (360p)
-WPLG 10.1 (720p)
 WPS-TV (360p)
 WSOC Now (1080p) [Geo-blocked]
 WVCU-LP (1080p)
