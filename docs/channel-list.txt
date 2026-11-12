@@ -1,13 +1,21 @@
 US Open TV -- Channel List
-1083 channels currently shown in the app
-(excluded: 68 non-English, 76 manually, 267 not responding)
+1093 channels currently shown in the app
+(excluded: 68 non-English, 76 manually, 257 not responding)
 ============================================================
 
 00s Replay
+30A Darcizzle Offshore (720p)
+30A Georgia Hollywood Review (720p)
 30A Golf Kingdom (720p)
 30A Investment Pitch (720p)
+30A Lionel Nation
+30A Loomered TV
 30A Luxe Life Discovered (720p)
+30A Music (720p)
+30A Ridiculous TV (720p)
+30A Sidewalks (720p)
 30A Television Channel (720p)
+30A The Beach Show (720p)
 30A TV Classic Movies (720p)
 30A We Love Cars (720p)
 3ABN English (720p)
@@ -125,6 +133,7 @@ AWE International (720p)
 AWE Plus (720p)
 AWE Plus KPVM-LD (484p)
 Baby Shark TV (1080p)
+BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -139,6 +148,7 @@ Beach TV Florida & Alabama (720p)
 Beach TV Key West & Florida Keys (720p)
 Beach TV Myrtle Beach & The Grand Strand (720p)
 Beach TV Panama City (720p)
+beIN Sports USA (576p)
 beIN SPORTS XTRA (1080p)
 BEK News (720p)
 BEK Sports West (720p)
@@ -522,6 +532,7 @@ KSCE 38.3 (360p)
 KVTN-DT 25.1 (720p)
 Lacrosse TV (720p)
 Lake Havasu City 4 (360p)
+Las Vegas Tonight with Dale Davidson (1080p)
 LATV (1080p) [Geo-blocked]
 Law & Crime (720p)
 Lego Channel (1080p)
@@ -566,6 +577,7 @@ MBC 3 USA (1080p) [Geo-blocked]
 MBC America (1080p)
 MBC Drama USA (1080p)
 MBC Masr USA (1080p)
+MBTV (720p)
 MCN6 Arts Channel (1080p) [Not 24/7]
 MCN6 Main Channel (1080p) [Not 24/7]
 MCN6 Music Channel (1080p) [Not 24/7]
@@ -596,6 +608,7 @@ MovieSphere Gold WFXT (1080p)
 Mr Bean Animated (1080p)
 MRVTV Channel 44 (720p)
 MRVTV Channel 45 (720p)
+MS NOW (432p)
 MST3K (1080p)
 MTC
 MTV (United States) (1080p)
@@ -638,11 +651,7 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Brooklyn (720p) [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
-News12 New Jersey (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
-News12+ New Jersey (1080p) [Geo-blocked]
+News12 Conneticut [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD (484p)
 Newsmax TV (720p)
@@ -688,6 +697,7 @@ Palm Beaches TV (720p)
 Paramount Movie Channel
 Paramount Network (1080p)
 Paramount+ Picks
+Pasco TV (480p)
 Payam Javan TV (720p) [Not 24/7]
 Payam-e-Afghan TV (480p) [Not 24/7]
 Payvand TV (United States) (720p)
