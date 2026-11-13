@@ -1,9 +1,10 @@
 US Open TV -- Channel List
-1093 channels currently shown in the app
-(excluded: 68 non-English, 76 manually, 257 not responding)
+1097 channels currently shown in the app
+(excluded: 68 non-English, 74 manually, 255 not responding)
 ============================================================
 
 00s Replay
+24 Hour Free Movies (720p)
 30A Darcizzle Offshore (720p)
 30A Georgia Hollywood Review (720p)
 30A Golf Kingdom (720p)
@@ -119,6 +120,7 @@ Antiques Roadshow UK (1080p)
 Are We There Yet? (1080p)
 Armenia 1 America (1080p)
 ARTFLIX Movie Classics (720p)
+ARTN TV (1080p) [Not 24/7]
 Aspire TV Life (1080p)
 At Home with Family Handyman (720p)
 ATL 26
@@ -182,7 +184,7 @@ Blue Bloods
 BMC-HD TV (720p)
 bon appetit (1080p)
 Bonanza
-Boomerang (720p)
+Boomerang (United States) (720p)
 Botflix Radioo (1080p)
 Botflix TV (1080p)
 Bounce (720p)
@@ -208,7 +210,6 @@ Canela TV (1080p)
 Car Chase (United States) (720p)
 Cars.TV (720p)
 Cartoon Network (United States) [Not 24/7;Geo-blocked]
-Cartoon Network (United States) West (1080p) [Geo-blocked]
 Catholic Faith Network (720p)
 Catholic TV (1080p)
 CBN Family (1080p)
@@ -283,7 +284,6 @@ CMT (720p)
 CMT Equal Play (720p)
 CMTV (720p)
 CNN (720p)
-CNN HD (720p) [Geo-blocked]
 CNN Originals (1080p)
 Cold Case Files (1080p)
 Comedy Central Animation
@@ -333,7 +333,6 @@ DerryTV 17 (720p)
 DerryTV 23 (720p)
 Designated Survivor (1080p) [Geo-blocked]
 Destination America (720p)
-Discovery Channel (United States) (1080p) [Geo-blocked]
 Discovery Turbo (United States) (720p)
 Disney Channel (United States) (720p)
 Disney XD (United States) (720p)
@@ -457,7 +456,6 @@ Hi-YAH! (1080p)
 High Vision TV (1080p) [Not 24/7]
 Hillsborough TV (360p)
 His Glory TV (1080p)
-History (United States) (720p)
 History Hit (1080p)
 HLN (720p)
 HMI PROMZ NEWS (720p)
@@ -490,7 +488,6 @@ INSP (720p)
 Instant Saga
 InTouch+ (1080p) [Geo-blocked]
 Investiga US
-Investigation Discovery (United States) (1080p) [Geo-blocked]
 INWILD (1080p)
 ION Plus (1080p)
 ION TV (720p)
@@ -530,6 +527,7 @@ KRGV-TV 5.2 (720p) [Geo-blocked]
 KSCE 38.1 (360p)
 KSCE 38.3 (360p)
 KVTN-DT 25.1 (720p)
+La Voz de Jesus HD (720p) [Not 24/7]
 Lacrosse TV (720p)
 Lake Havasu City 4 (360p)
 Las Vegas Tonight with Dale Davidson (1080p)
@@ -627,7 +625,6 @@ NAT TV (1080p)
 Natick Education Channel (720p)
 Natick Government Channel (720p)
 Natick Public Access Channel (720p)
-National Geographic (United States) (720p)
 NBA TV (720p)
 NBC Comedy Vault (1080p)
 NBC KRIS-TV (1080p)
@@ -651,7 +648,15 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Conneticut [Geo-blocked]
+News12 Brooklyn (720p) [Geo-blocked]
+News12 Hudson Valley (1080p) [Geo-blocked]
+News12 Long Island (1080p) [Geo-blocked]
+News12 New Jersey (1080p) [Geo-blocked]
+News12 Westchester (1080p) [Geo-blocked]
+News12+ Connecticut (1080p) [Geo-blocked]
+News12+ Hudson Valley (1080p) [Geo-blocked]
+News12+ Long Island (1080p) [Geo-blocked]
+News12+ New Jersey (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD (484p)
 Newsmax TV (720p)
@@ -659,7 +664,6 @@ Newsy (1080p)
 NFL Channel (720p)
 NHL Network (1080p)
 NHRA TV (1080p)
-Nick Jr. (United States) (720p)
 Nick Jr. Pluto TV (720p)
 Nickelodeon Pluto TV (720p)
 Nicktoons (United States) (720p)
@@ -956,10 +960,10 @@ Tin TV (720p)
 Tiny House Nation (720p)
 TLN KQSL (720p)
 TMZ (720p)
-TNT (United States) (720p) [Geo-blocked]
 TNT (United States) West (720p) [Geo-blocked]
 TNT Sports 4
 TODAY All Day (1080p)
+Tom And Jerry (720p) [Not 24/7]
 Tom Sings TV (1080p)
 Toonami Aftermath (480p)
 Toonami Aftermath West (480p)
@@ -976,6 +980,7 @@ True History (720p)
 truTV (720p)
 truTV West (720p) [Geo-blocked]
 TSTV (720p)
+Turismo HD (720p) [Not 24/7]
 TUTV (1080p)
 TV Hispanic [Not 24/7]
 TV Land Drama
@@ -1009,7 +1014,6 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
-TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
