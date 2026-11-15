@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1094 channels currently shown in the app
-(excluded: 68 non-English, 74 manually, 258 not responding)
+1092 channels currently shown in the app
+(excluded: 68 non-English, 74 manually, 263 not responding)
 ============================================================
 
 00s Replay
@@ -106,6 +106,7 @@ America's Voice News (720p)
 American Heroes Channel (720p)
 American Horrors (480p)
 Ameritrade (1080p) [Not 24/7]
+AMGA TV (720p) [Not 24/7]
 AMP 1 (720p)
 AMP 2 (720p)
 Amu TV
@@ -133,6 +134,7 @@ AWE International (720p)
 AWE Plus (720p)
 AWE Plus KPVM-LD (484p)
 Baby Shark TV (1080p)
+BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -171,7 +173,6 @@ Binge (720p)
 Biz TV (1080p)
 Black Family Sitcoms
 Black Ink Crew
-Black News Channel (1080p)
 Blaze Live (720p)
 Bloomberg Originals (1080p)
 Bloomberg TV (1080p)
@@ -206,7 +207,6 @@ Canal de la Fe (720p)
 Canela TV (1080p)
 Car Chase (United States) (720p)
 Cars.TV (720p)
-Cartoon Network (United States) [Not 24/7;Geo-blocked]
 Cartoon Network (United States) West (1080p) [Geo-blocked]
 Catholic Faith Network (720p)
 Catholic TV (1080p)
@@ -315,7 +315,6 @@ CVC Government (480p)
 CVC Public (480p)
 CVTV Channel 192 (1080p)
 CVTV Channel 194 (1080p)
-Cypress Channel 36 (360p)
 Danger TV (720p)
 Dare To Dream Network (720p)
 Dark Matter TV (720p)
@@ -348,7 +347,7 @@ Dry Bar Comedy+ (720p)
 Duck Hunting TV (1080p)
 Dungeon TV (720p)
 Dynasty
-E! East (1080p)
+E! (United States) East (1080p)
 Elbeshara GTV (1080p) [Not 24/7]
 Electric Now (720p)
 Elevation Church Network (1080p)
@@ -376,7 +375,6 @@ Fierro a Fondo TV (1080p)
 FilmRise Forensic Files (720p) [Geo-blocked]
 Flicks of Fury
 Flowers TV USA (396p)
-FMH Kids (720p)
 FNX (1080p)
 FNX KVCR-DT [Geo-blocked]
 Food Network (United States) (720p)
@@ -440,13 +438,11 @@ Greater Love TV (720p)
 Grit Xtra (1080p)
 Grjngo Western Movies (720p)
 Guangdong TV America
-GunAz TV
 Gunsmoke
 Hallmark Mystery (720p) [Geo-blocked]
 Happy Days (United States)
 HappyKids (1080p)
 Harmony Gospel Music TV (1080p)
-Harvest USA (576p)
 Hasbro Legends (1080p) [Geo-blocked]
 HauntTV (1080p)
 HBCU-GO Sports (720p)
@@ -571,6 +567,11 @@ Martin County TV (720p)
 Mas adrenalina
 Matlock (United States)
 Maverick Black Cinema (1080p)
+Maxcine (720p)
+Maxcine 2 (720p)
+Maxcine Comedy (720p)
+Maxcine Family (720p)
+Maxcine Kids (720p)
 MBC 1 USA (1080p) [Geo-blocked]
 MBC 3 USA (1080p) [Geo-blocked]
 MBC America (1080p)
@@ -650,10 +651,7 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Bronx (1080p) [Geo-blocked]
 News12 Conneticut [Geo-blocked]
-News12 Westchester (1080p) [Geo-blocked]
-News12+ Connecticut (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD (484p)
 Newsmax TV (720p)
@@ -661,10 +659,8 @@ Newsy (1080p)
 NFL Channel (720p)
 NHL Network (1080p)
 NHRA TV (1080p)
-Nick Jr. (United States) (720p)
 Nick Jr. Pluto TV (720p)
 Nickelodeon Pluto TV (720p)
-Nicktoons (United States) (720p)
 Ninja Kidz TV (1080p)
 NMBTV (720p)
 NorCast Weather (1080p)
@@ -697,7 +693,7 @@ Pac-12 Insider (1080p)
 Pacific Island Network (1080p)
 Palm Beaches TV (720p)
 Paramount Movie Channel
-Paramount Network (1080p)
+Paramount Network (United States) (1080p)
 Paramount+ Picks
 Pasco TV (480p)
 Payam Javan TV (720p) [Not 24/7]
@@ -874,6 +870,7 @@ Spirit TV (720p) [Not 24/7]
 SportsGrid (1080p)
 SPTV (360p)
 Stadium (720p)
+Star Action (720p)
 Star Channel International (720p)
 Star Trek US
 Star Trek: Deep Space Nine
@@ -950,6 +947,7 @@ The Word Network (1080p)
 The Young Turks (720p)
 theDove TV (720p)
 TheGrio TV (720p)
+TheGrio TV FAST (1080p)
 This Old House (1080p)
 Three's Company
 Timeless TV
@@ -982,6 +980,7 @@ TUTV (1080p)
 TV Hispanic [Not 24/7]
 TV Land Drama
 TV Land Sitcoms
+TV Panou (720p) [Not 24/7]
 TV4 (United States) (360p)
 TVE Internacional America HD (1080p) [Geo-blocked]
 TVS Bowling Network (720p)
@@ -1010,7 +1009,6 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
-TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
