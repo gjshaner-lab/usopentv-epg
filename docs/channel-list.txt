@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1109 channels currently shown in the app
-(excluded: 68 non-English, 74 manually, 307 not responding)
+1112 channels currently shown in the app
+(excluded: 68 non-English, 74 manually, 305 not responding)
 ============================================================
 
 00s Replay
@@ -383,6 +383,7 @@ FilmRise Forensic Files (720p) [Geo-blocked]
 Flicks of Fury
 Flowers TV USA (396p)
 FMH Kids (720p)
+FMH Movies (1080p)
 FNX (1080p)
 FNX KVCR-DT [Geo-blocked]
 Forensic Files
@@ -669,8 +670,9 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Conneticut [Geo-blocked]
+News12 Bronx (1080p) [Geo-blocked]
 News12 Long Island (1080p) [Geo-blocked]
+News12 Westchester (1080p) [Geo-blocked]
 News12+ Connecticut (1080p) [Geo-blocked]
 News12+ Long Island (1080p) [Geo-blocked]
 News12+ New York (1080p) [Geo-blocked]
@@ -827,6 +829,7 @@ Recipe.TV (720p)
 Red Apple 21 (480p) [Not 24/7]
 RedADvenir TV KSCE (360p)
 Retro TV (720p) [Geo-blocked]
+Retro vision TV (720p) [Not 24/7]
 RetroCrush (1080p)
 Reuters TV (1080p)
 Rev and Roll (720p)
