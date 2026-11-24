@@ -1,6 +1,6 @@
 US Open TV -- Channel List
-1146 channels currently shown in the app
-(excluded: 63 non-English, 74 manually, 255 not responding)
+1143 channels currently shown in the app
+(excluded: 63 non-English, 74 manually, 258 not responding)
 ============================================================
 
 00s Replay
@@ -142,6 +142,7 @@ AWE Plus (720p)
 AWE Plus KPVM-LD (484p)
 AXS TV (576p)
 Baby Shark TV (1080p)
+BabyFirst (720p)
 Backstage (1080p)
 Bar Rescue
 Bark TV (1080p)
@@ -470,6 +471,7 @@ Government TV 16 (720p)
 Gravitas Movies (1080p)
 Great Entertainment Television (720p)
 Greater Love TV (720p)
+Greensboro TV (720p)
 Grit Xtra (1080p)
 Grjngo Western Movies (720p)
 Guangdong TV America
@@ -547,7 +549,6 @@ Kern County TV (720p)
 Kids Movie Club
 KidsFlix (1080p) [Not 24/7]
 KIIO-LD 10.1
-KIIO-LD 10.4 (480p)
 KMCT-TV 39.1
 KNOV-CD 41.1 (720p)
 KNXV-TV 61.1 (1080p)
@@ -689,9 +690,7 @@ NCTV79 (1080p)
 NEW K-POP (1080p)
 NEW K.MOVIES (1080p)
 News of the World USA (1080p)
-News12 Conneticut (1080p) [Geo-blocked]
-News12 Long Island (1080p) [Geo-blocked]
-News12+ Long Island (1080p) [Geo-blocked]
+News12+ New York (1080p) [Geo-blocked]
 Newsmax 2 (1080p)
 Newsmax 2 KPVM-LD (484p)
 Newsmax TV (720p)
@@ -713,7 +712,6 @@ NRBTV (720p)
 NTD TV English (1080p)
 OAN Plus (1080p)
 OAN Plus KPVM-LD (1080p)
-OCN TV
 Olelo 49 (720p)
 Olelo 53 (720p)
 Olelo 54 (720p)
@@ -894,7 +892,6 @@ SFGovTV (720p)
 SFGovTV2 (720p)
 SGTN-49 (720p)
 Shalom America (720p) [Not 24/7]
-Shemaroo Bollywood (1080p)
 Shop LC (1080p)
 Shout! Factory TV (1080p)
 Showtime Family Zone (720p)
@@ -1062,6 +1059,7 @@ TVS Sports Bureau (720p)
 TVS Talk Network (360p)
 TVS Tally Ho (360p)
 TVS Tavern (480p)
+TVS Television Network (480p)
 TVS Travel Network (720p) [Not 24/7]
 TVS Turbo (360p)
 TVS Vintage Network (360p)
@@ -1125,7 +1123,6 @@ Women's Sports Network (1080p)
 World Channel (1080p)
 World Channel WGTV (1080p)
 World Harvest TV (360p)
-WOX TV (1080p)
 WPLG 10.1 (720p)
 WPS-TV (360p)
 WSOC Now (1080p) [Geo-blocked]
